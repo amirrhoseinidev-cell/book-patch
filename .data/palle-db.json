@@ -1,0 +1,2892 @@
+{
+  "users": {
+    "user-sohrab": {
+      "id": "user-sohrab",
+      "name": "سهراب رضایی",
+      "email": "sohrab.rezaei@example.com",
+      "avatarUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuAKxT9wUS3Fyl7misfLJDw9w-FymL13yuNvAW6drqewDccgAPcf251hk2Ddx8wU5U-IoZzo3CFWzRWqTejJ1_1SauFpfks4tokP7IDaRnJAimH9eP9DFgGP-9vCECV1JXv89oxBSFnxwY17FtG4aCDh46TYt1-iuQoacTO8wtsqQTJTuKlQxpxM76xHvbibeKXCL0zbmOGFre7z2fnggkK7KcCl8H0YuzK_mi8hjeVnFPNnH0YZEbAF",
+      "bio": "علاقه‌مند به فلسفه و علوم شناختی • عضو از آبان ۱۴۰۳",
+      "joinDate": "آبان ۱۴۰۳",
+      "streakDays": 12,
+      "activePathsCount": 2,
+      "preferences": {
+        "dailyGoalMinutes": 20,
+        "defaultLevel": "intermediate",
+        "focusMode": true,
+        "aiTone": "socratic",
+        "fontSize": "normal"
+      }
+    },
+    "demo-sara": {
+      "id": "demo-sara",
+      "name": "سارا رادمنش",
+      "phone": "09121112233",
+      "isPhoneVerified": true,
+      "isDemo": true,
+      "email": "sara.radmanesh@demo.palle.ir",
+      "avatarUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuAKxT9wUS3Fyl7misfLJDw9w-FymL13yuNvAW6drqewDccgAPcf251hk2Ddx8wU5U-IoZzo3CFWzRWqTejJ1_1SauFpfks4tokP7IDaRnJAimH9eP9DFgGP-9vCECV1JXv89oxBSFnxwY17FtG4aCDh46TYt1-iuQoacTO8wtsqQTJTuKlQxpxM76xHvbibeKXCL0zbmOGFre7z2fnggkK7KcCl8H0YuzK_mi8hjeVnFPNnH0YZEbAF",
+      "bio": "طراح ارشد محصول و پژوهشگر علوم شناختی • علاقه‌مند به فلسفه یونان باستان",
+      "joinDate": "آبان ۱۴۰۳",
+      "streakDays": 12,
+      "activePathsCount": 1,
+      "preferences": {
+        "dailyGoalMinutes": 20,
+        "defaultLevel": "intermediate",
+        "focusMode": true,
+        "aiTone": "socratic",
+        "fontSize": "normal"
+      }
+    },
+    "demo-ali": {
+      "id": "demo-ali",
+      "name": "علی کاظمی",
+      "phone": "09124445566",
+      "isPhoneVerified": true,
+      "isDemo": true,
+      "email": "ali.kazemi@demo.palle.ir",
+      "avatarUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuCtMRMFHuRHam_9gaPhw-p0_8C8lFJBjY-CrUcgufKp7x53yKh4JO4mTdbf4igPuTTxTAzuZ19VQHkIYu6hwBlzNgqaKxgG5Z5EM4YqsZxxGBzOoo_RgNzE_B8aHGO1MJe9ZMqiRc2axJLYOoGEpSP7gsQ9GojfIPRltmQPnO3yfIHoVKNaWZYjZcnrS8NDZ955vGpBHZn52vlrQngsZhIkEJ1LPXD4PghaeNUT5nJLGxf1qSiHkNCW",
+      "bio": "مهندس نرم‌افزار و علاقه‌مند به هوش مصنوعی و شبکه‌های عصبی عمیق",
+      "joinDate": "شهریور ۱۴۰۳",
+      "streakDays": 24,
+      "activePathsCount": 1,
+      "preferences": {
+        "dailyGoalMinutes": 30,
+        "defaultLevel": "advanced",
+        "focusMode": true,
+        "aiTone": "explanatory",
+        "fontSize": "normal"
+      }
+    },
+    "demo-fresh": {
+      "id": "demo-fresh",
+      "name": "کاربر تازه‌کار (حساب خالی)",
+      "phone": "09120000000",
+      "isPhoneVerified": true,
+      "isDemo": true,
+      "email": "newbie@demo.palle.ir",
+      "avatarUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuCtMRMFHuRHam_9gaPhw-p0_8C8lFJBjY-CrUcgufKp7x53yKh4JO4mTdbf4igPuTTxTAzuZ19VQHkIYu6hwBlzNgqaKxgG5Z5EM4YqsZxxGBzOoo_RgNzE_B8aHGO1MJe9ZMqiRc2axJLYOoGEpSP7gsQ9GojfIPRltmQPnO3yfIHoVKNaWZYjZcnrS8NDZ955vGpBHZn52vlrQngsZhIkEJ1LPXD4PghaeNUT5nJLGxf1qSiHkNCW",
+      "bio": "حساب کاربری جدید برای آزمایش حالت بدون فعالیت و ساخت نخستین مسیر",
+      "joinDate": "۱۴۰۵ مهر",
+      "streakDays": 0,
+      "activePathsCount": 0,
+      "preferences": {
+        "dailyGoalMinutes": 15,
+        "defaultLevel": "beginner",
+        "focusMode": true,
+        "aiTone": "socratic",
+        "fontSize": "normal"
+      }
+    },
+    "user-1792079777650": {
+      "id": "user-1792079777650",
+      "name": "امیرحسین رضایی",
+      "phone": "09123456789",
+      "isPhoneVerified": true,
+      "isDemo": false,
+      "email": "09123456789@user.palle.ir",
+      "avatarUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuCtMRMFHuRHam_9gaPhw-p0_8C8lFJBjY-CrUcgufKp7x53yKh4JO4mTdbf4igPuTTxTAzuZ19VQHkIYu6hwBlzNgqaKxgG5Z5EM4YqsZxxGBzOoo_RgNzE_B8aHGO1MJe9ZMqiRc2axJLYOoGEpSP7gsQ9GojfIPRltmQPnO3yfIHoVKNaWZYjZcnrS8NDZ955vGpBHZn52vlrQngsZhIkEJ1LPXD4PghaeNUT5nJLGxf1qSiHkNCW",
+      "bio": "عضو پله • مسیر اختصاصی یادگیری عمیق",
+      "joinDate": "۱۴۰۵ مهر",
+      "streakDays": 1,
+      "activePathsCount": 1,
+      "preferences": {
+        "dailyGoalMinutes": 15,
+        "defaultLevel": "beginner",
+        "focusMode": true,
+        "aiTone": "socratic",
+        "fontSize": "normal"
+      }
+    },
+    "user-1792079780686": {
+      "id": "user-1792079780686",
+      "name": "مریم حسینی",
+      "phone": "09359876543",
+      "isPhoneVerified": true,
+      "isDemo": false,
+      "email": "09359876543@user.palle.ir",
+      "avatarUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuCtMRMFHuRHam_9gaPhw-p0_8C8lFJBjY-CrUcgufKp7x53yKh4JO4mTdbf4igPuTTxTAzuZ19VQHkIYu6hwBlzNgqaKxgG5Z5EM4YqsZxxGBzOoo_RgNzE_B8aHGO1MJe9ZMqiRc2axJLYOoGEpSP7gsQ9GojfIPRltmQPnO3yfIHoVKNaWZYjZcnrS8NDZ955vGpBHZn52vlrQngsZhIkEJ1LPXD4PghaeNUT5nJLGxf1qSiHkNCW",
+      "bio": "عضو پله • مسیر اختصاصی یادگیری عمیق",
+      "joinDate": "۱۴۰۵ مهر",
+      "streakDays": 1,
+      "activePathsCount": 1,
+      "preferences": {
+        "dailyGoalMinutes": 15,
+        "defaultLevel": "beginner",
+        "focusMode": true,
+        "aiTone": "socratic",
+        "fontSize": "normal"
+      }
+    },
+    "user-1792080831396": {
+      "id": "user-1792080831396",
+      "name": "کاربر آزمایشی",
+      "phone": "09301234567",
+      "isPhoneVerified": true,
+      "isDemo": false,
+      "email": "09301234567@user.palle.ir",
+      "avatarUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuCtMRMFHuRHam_9gaPhw-p0_8C8lFJBjY-CrUcgufKp7x53yKh4JO4mTdbf4igPuTTxTAzuZ19VQHkIYu6hwBlzNgqaKxgG5Z5EM4YqsZxxGBzOoo_RgNzE_B8aHGO1MJe9ZMqiRc2axJLYOoGEpSP7gsQ9GojfIPRltmQPnO3yfIHoVKNaWZYjZcnrS8NDZ955vGpBHZn52vlrQngsZhIkEJ1LPXD4PghaeNUT5nJLGxf1qSiHkNCW",
+      "bio": "عضو پله • مسیر اختصاصی یادگیری عمیق",
+      "joinDate": "۱۴۰۵ مهر",
+      "streakDays": 0,
+      "activePathsCount": 0,
+      "preferences": {
+        "dailyGoalMinutes": 15,
+        "defaultLevel": "beginner",
+        "focusMode": true,
+        "aiTone": "socratic",
+        "fontSize": "normal"
+      }
+    },
+    "user-1792080856763": {
+      "id": "user-1792080856763",
+      "name": "تست ۲",
+      "phone": "09129998877",
+      "isPhoneVerified": true,
+      "isDemo": false,
+      "email": "09129998877@user.palle.ir",
+      "avatarUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuCtMRMFHuRHam_9gaPhw-p0_8C8lFJBjY-CrUcgufKp7x53yKh4JO4mTdbf4igPuTTxTAzuZ19VQHkIYu6hwBlzNgqaKxgG5Z5EM4YqsZxxGBzOoo_RgNzE_B8aHGO1MJe9ZMqiRc2axJLYOoGEpSP7gsQ9GojfIPRltmQPnO3yfIHoVKNaWZYjZcnrS8NDZ955vGpBHZn52vlrQngsZhIkEJ1LPXD4PghaeNUT5nJLGxf1qSiHkNCW",
+      "bio": "عضو پله • مسیر اختصاصی یادگیری عمیق",
+      "joinDate": "۱۴۰۵ مهر",
+      "streakDays": 0,
+      "activePathsCount": 1,
+      "preferences": {
+        "dailyGoalMinutes": 15,
+        "defaultLevel": "beginner",
+        "focusMode": true,
+        "aiTone": "socratic",
+        "fontSize": "normal"
+      }
+    }
+  },
+  "passwords": {
+    "user-sohrab": "palle123"
+  },
+  "paths": {
+    "user-sohrab": [
+      {
+        "id": "path-philosophy-western",
+        "userId": "user-sohrab",
+        "title": "فلسفه غرب؛ از سقراط تا کانت",
+        "goal": "آشنایی عمیق با تاریخ فلسفه غرب، متدهای استدلال نقادانه و متون دست اول",
+        "category": "فلسفه و منطق",
+        "description": "آشنایی گام‌به‌گام با سرچشمه‌های تفکر فلسفی، پرسشگری نقادانه و کتاب‌های بنیادین اندیشه غرب.",
+        "level": "intermediate",
+        "dailyMinutes": 20,
+        "totalSteps": 10,
+        "currentStepIndex": 2,
+        "progressPercent": 30,
+        "estimatedWeeks": 4,
+        "weeklyFocus": "تسلط بر دیالوگ‌های اولیه افلاطون",
+        "heroImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuCLOQoWXCzTxJZVmYwWnAym9v6ozeejVqlPmeyZsfkOBLZOdf_Qv1XXrW-b1z9tTnf52_4p__IUnRCJD3FJfWVOOS5yqQOjbjTx239C2uEB31FVrMq16oS7aTHihsuir7-Px3zXfbFbM_x8D0xkBNYa3NKZNHIHPNr6bQonKxcrTZLIw0iLOfYGAeKtKRzQbLdUOTMj7FwkS9QopjGePLXF72j0S9TEFnl_8LHJEXgDLEF-GFZLjiP-",
+        "createdAt": "2024-11-01T10:00:00.000Z",
+        "updatedAt": "2026-10-15T15:45:19.052Z",
+        "steps": [
+          {
+            "id": "step-1",
+            "pathId": "path-philosophy-western",
+            "stepNumber": 1,
+            "totalSteps": 10,
+            "title": "سرآغاز تفکر؛ پیشاسقراطیان و مسئله طبیعت",
+            "subtitle": "بررسی جهان‌شناختی تالس، هراکلیتوس و پارمنیدس در مفهوم تغییر و ثبات.",
+            "category": "فلسفه یونان باستان",
+            "level": "beginner",
+            "durationMinutes": 25,
+            "introDescription": "چگونه نخستین فیلسوفان کوشیدند بدون اسطوره، جهان را با عناصر طبیعی و عقل تبیین کنند.",
+            "podcastTitle": "پادکست: طلوع اندیشه در میلتوس",
+            "podcastDuration": "۰۲:۳۰",
+            "objectives": [
+              {
+                "id": "ob-1",
+                "title": "درک مفهوم آرخه (اصل نخستین)",
+                "description": "چرا تالس آب و هراکلیتوس آتش را بنیاد هستی می‌دانستند."
+              },
+              {
+                "id": "ob-2",
+                "title": "جدال ثبات و تغییر",
+                "description": "مقایسه حرکت مداوم هراکلیتوس با یکپارچگی تغییرناپذیر پارمنیدس."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "نخستین فیلسوفان یونان",
+              "author": "دبلیو. کی. سی. گاتری",
+              "chapter": "فصل ۱: مکتب ملطی",
+              "pageCount": 22,
+              "estimatedMinutes": 20,
+              "quote": "«همه چیز در سیلان است و هیچ چیز پایدار نیست.»",
+              "quoteCitation": "هراکلیتوس",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBh2oQ1S2rSRrjanmYlIrR513QKCp3PpuQ-Po8YlDa0Yp6RSCIMMql3lU7giYaiEnliiIeZY7GiCKHWrvQ7d_aCn5V_x6G0B-9tmgI1r-YAryZ4FfYFrNsHgBHh46BibWvAZoNFNcRLy0jhlFBuNzoxydVfKjDnBVp-i47NGLYyVJcWWoxrIv0pW4YA_vtBIABGVoMMSvvimt0XS5zo9FUdohRiaDZ7JcuGNvakIZMo6DmHPpTF4Nys"
+            },
+            "passage": {
+              "title": "آرخه و جوهر اولیه جهان",
+              "bookTitle": "نخستین فیلسوفان یونان",
+              "author": "گاتری",
+              "chapter": "فصل اول",
+              "pageNumber": 12,
+              "totalPages": 45,
+              "estimatedMinutes": 8,
+              "highlightQuote": "«آغاز فلسفه با پرسش از چرایی به جای پذیرش اسطوره همراه بود.»",
+              "paragraphs": [
+                "پرسش پیشاسقراطیان این بود که ماده اصلی سازنده کیهان چیست و چگونه وحدت در کثرت تجلی می‌یابد.",
+                "این نگرش، گذار شکوهمند انسان از تبیین‌های تخیلی به مشاهده عقلی را رقم زد."
+              ]
+            },
+            "quiz": {
+              "title": "سنجش ادراکی پله ۱",
+              "stepNumber": 1,
+              "questions": [
+                {
+                  "id": "q1-1",
+                  "question": "تفاوت اساسی تفکر پیشاسقراطی با اسطوره‌های کهن چه بود؟",
+                  "category": "مفاهیم پایه",
+                  "options": [
+                    "استفاده از شعر به جای نثر",
+                    "جستجوی علل طبیعی و عقلی به جای خشم و اراده خدایان",
+                    "نفی کامل وجود آفرینش",
+                    "تمرکز صِرف بر اصول اخلاقی جامعه"
+                  ],
+                  "correctIndex": 1,
+                  "mentorFeedback": "پیشاسقراطیان نخستین کسانی بودند که قوانین کیهانی را در خود طبیعت جستجو کردند نه در ماوراءالطبیعه اسطوره‌ای.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "آغاز تفکر عقلانی با جستجوی علل درونی و نظمی قانون‌مند در دل طبیعت شکل گرفت.",
+            "status": "completed",
+            "completedAt": "2024-11-05T14:30:00.000Z"
+          },
+          {
+            "id": "step-2",
+            "pathId": "path-philosophy-western",
+            "stepNumber": 2,
+            "totalSteps": 10,
+            "title": "فضیلت و عدالت؛ بررسی رساله جمهوری",
+            "subtitle": "تمثیل غار، نظریه مثل و شکل‌گیری مدینه فاضله از دیدگاه افلاطون.",
+            "category": "فلسفه افلاطونی",
+            "level": "intermediate",
+            "durationMinutes": 30,
+            "introDescription": "شناخت پیوند میان روان‌شناسی فردی، عدالت اجتماعی و قلمرو مثل در اندیشه افلاطون.",
+            "podcastTitle": "پادکست: تمثیل غار و بیداری از سایه‌ها",
+            "podcastDuration": "۰۱:۵۰",
+            "objectives": [
+              {
+                "id": "ob-2-1",
+                "title": "فهم تمثیل غار",
+                "description": "تفاوت درک سایه‌های حسی با نور حقیقت خورشید عقل."
+              },
+              {
+                "id": "ob-2-2",
+                "title": "مفهوم فضیلت سه‌گانه روح",
+                "description": "پیوند عقل، خشم و میل با طبقات جامعه آرمانی."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "رساله جمهوری",
+              "author": "افلاطون",
+              "translator": "فؤاد روحانی",
+              "chapter": "کتاب هفتم: تمثیل غار",
+              "pageCount": 35,
+              "estimatedMinutes": 25,
+              "quote": "«آنان که در زنجیرند، جز سایه‌های روی دیوار را حقیقت نمی‌پندارند.»",
+              "quoteCitation": "افلاطون",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuCDoZyg0h19AgYOu7eEM8lyPEB1kqVUC_vIecbdhFOMNJvkM-Nnpg3iePpwRryBt6yp2fU4cpCjMhRj7ppQu1P5wJVOP9daGZ6h9skn28khwqAal6BX4DNpgKhQ6LdphrcaE1GkRXYn2uZC6gcLg-zUS8r0nepUrqlWWoX6dQiwRGdK7Atg9pyvFtJkkpp1VdxIVmt1b19IjTZY5kp6z3Az-Nr7VUfmk1N2m_p_sFO7ez3OpBwdCXFF"
+            },
+            "passage": {
+              "title": "تمثیل غار و سیر انسان به سوی روشنایی",
+              "bookTitle": "جمهوری افلاطون",
+              "author": "افلاطون",
+              "chapter": "کتاب هفتم",
+              "pageNumber": 514,
+              "totalPages": 600,
+              "estimatedMinutes": 12,
+              "highlightQuote": "«رسالت فیلسوف پس از دیدن خورشید، بازگشت به غار برای نجات دیگران است.»",
+              "paragraphs": [
+                "زندانیانی را تصور کن که از کودکی در غاری زیرزمینی دست و پا بسته نشسته‌اند و تنها سایه‌های اشیاء را بر دیوار مقابل می‌بینند.",
+                "اگر یکی از آنان رها شود و به روشنایی خورشید بنگرد، ابتدا چشمانش از شدت نور درد خواهد گرفت، اما سرانجام حقیقت را درمی‌یابد."
+              ]
+            },
+            "quiz": {
+              "title": "سنجش ادراکی پله ۲",
+              "stepNumber": 2,
+              "questions": [
+                {
+                  "id": "q2-1",
+                  "question": "در تمثیل غار افلاطون، خورشید نماد چیست؟",
+                  "category": "معرفت‌شناسی افلاطون",
+                  "options": [
+                    "خدایان المپ نشین",
+                    "مثال خیر و سرچشمه کل حقیقت و دانایی",
+                    "احساسات و هیجانات طبیعی انسان",
+                    "هنر و ادبیات تمثیلی"
+                  ],
+                  "correctIndex": 1,
+                  "mentorFeedback": "خورشید در تمثیل افلاطون مظهر «ایده خیر» (Good) است که به همه چیز هستی و قابلیت شناخته‌شدن می‌بخشد.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "ادراک حسی صرفاً سایه‌های جهان است؛ رسیدن به عدالت و شناخت راستین مستلزم سیر عقلانی به سوی مثال خیر است.",
+            "status": "completed",
+            "completedAt": "2024-11-12T16:00:00.000Z"
+          },
+          {
+            "id": "step-3",
+            "pathId": "path-philosophy-western",
+            "stepNumber": 3,
+            "totalSteps": 10,
+            "title": "روش سقراطی و هنر زایش اندیشه (مامایی اندیشه)",
+            "subtitle": "چگونه با پرسشگری دقیق، تعاریف پیش‌فرضی را به چالش بکشیم؟",
+            "category": "فلسفه باستان و هنر پرسشگری",
+            "level": "intermediate",
+            "durationMinutes": 20,
+            "introDescription": "«در این مرحله یاد می‌گیرید که سقراط چگونه بدون اینکه خود را دانا بنامد، با سلسله پرسش‌های هوشمندانه تناقضات درونی افراد را آشکار می‌کرد.»",
+            "podcastTitle": "پادکست کوتاه: مقدمه ۱ دقیقه‌ای",
+            "podcastDuration": "۰۱:۱۵",
+            "objectives": [
+              {
+                "id": "ob-3-1",
+                "title": "۱. فهم ساختار دیالوگ سقراطی",
+                "description": "آشنایی با الگوی سه‌گانه انکار دانایی، اعتراف به نادانی و کشف تناقض در فرضیات اولیه."
+              },
+              {
+                "id": "ob-3-2",
+                "title": "۲. شناخت تفاوت \"تعریف اساسی\" با \"مثال\"",
+                "description": "تفکیک بین ارائه نمونه‌های عینی و ذات بنیادین یک مفهوم فلسفی نظیر شجاعت یا عدالت."
+              },
+              {
+                "id": "ob-3-3",
+                "title": "۳. تجربه عملی پرسشگری در موقعیت‌های واقعی",
+                "description": "آمادگی ذهنی برای طرح سوالات باز و سازنده بدون موضع تهاجمی در مباحثات روزمره."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "کتاب: آپولوژی و فایدون",
+              "author": "افلاطون",
+              "translator": "محمدعلی فروغی",
+              "chapter": "فصل ۱: دفاعیه سقراط در دادگاه آتن",
+              "pageCount": 15,
+              "estimatedMinutes": 15,
+              "quote": "«زندگیِ ناآزموده، ارزش زیستن ندارد.»",
+              "quoteCitation": "بند ۲۸ دفاعیه سقراط",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuD5cPKY2V9lklekqN2n61wr24MUXgLtY2uu405xLdPvGutpdvCrtBDULsWiuuMeIvyBaRDUYslf75TqCYRyQ2-vZz6mJjEOZgky0PhSTCHQ5XWruv7KqGUQ5K8oRCDS9Cl61oBwqI6QqlQlEWQxYVR4NtfacCyllzV3Ac31ocfxupwVddorzo-mokuKnLBuvjlI1l3NQJk35x1yXzcXzmKsADWQhGdQAlJp7U3oyy0gWL3U1wae-Bfx"
+            },
+            "passage": {
+              "title": "رساله آپولوژی (دفاعیه سقراط)",
+              "bookTitle": "رساله آپولوژی و فایدون",
+              "author": "افلاطون",
+              "translator": "محمدعلی فروغی",
+              "chapter": "فصل ۱: آغاز سخن در دادگاه",
+              "pageNumber": 18,
+              "totalPages": 95,
+              "estimatedMinutes": 4,
+              "highlightQuote": "«...زیرا بزرگ‌ترین نادانی این است که آدمی پندارد آنچه را نمی‌داند، می‌داند.»",
+              "paragraphs": [
+                "ای مردم آتن! من نمی‌دانم سخنان مدعیان در شما چه اثری گذاشت، اما خود من چنان شیفته و مجذوب گفتار فصیح آنان شدم که نزدیک بود فراموش کنم که کیستم؛ هرچند از صد سخن آنان حتی یک کلمه هم حقیقت نداشت. آنچه بیش از همه مرا به شگفتی واداشت هشداری بود که به شما دادند تا فریب چرب‌زبانی مرا نخورید و مرا به نیرنگ و سخنوری متهم ساختند.",
+                "اما سخن راستین من از آرایه‌های ادبی و لفاظی‌های ساختگی تهی خواهد بود. من با همان زبانی سخن خواهم گفت که سال‌ها در بازار و کنار پیشخوان صرافان شنیده‌اید. از شما تمنا دارم نه به شیوهٔ بیانم، بلکه فقط به درستی یا نادرستی آنچه می‌گویم عنایت فرمایید؛ زیرا وظیفهٔ دادرس تمیز حق از باطل است و وظیفهٔ خطیب حقیقت‌گویی.",
+                "من سالیان دراز به جستجوی دانایان شهر رفتم؛ از سیاست‌مداران و شاعران تا صنعتگران زبردست. هرکدام گمان می‌بردند در دانشی که دارند استادند و بر امور بنیادین هستی نیز وقوف کامل دارند. این پندار باطل، نور اندک دانششان را نیز تیره می‌ساخت. از این روی بود که دریافتم خرد راستین آن است که به نادانی خویشتن آگاه باشیم."
+              ],
+              "footnote": {
+                "title": "محاکمه سقراط در سال ۳۹۹ پیش از میلاد",
+                "description": "این دفاعیه ثبت مکتوب افلاطون از استدلال‌های اخلاقی و شهامت عقلانی سقراط است.",
+                "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuA-u_H7iUlNwZkHtwSR9745xMQN_6aH7XhyWHrpYWxPYBn4xNQ8JQbkFIvm2Xh47aI8e1N4QWED7jfyHtiJoGZvpmzTA7TBl2ZVS_tVygy9C9Y6elY66f8EYOTbU0AWcN6f_hl3yOzVs2sxtP0nQf2vGnz8hjM7SmXue3dVPxt-e3VdyDPIFKI4tiZTGzjT2Fcqt85wi9OrsF69btM08xnGPiZvZHowuybfqY2kokOTK3hMtZdkiNwG"
+              }
+            },
+            "quiz": {
+              "title": "سنجش ادراکی پله ۳",
+              "stepNumber": 3,
+              "questions": [
+                {
+                  "id": "q3-1",
+                  "question": "تفاوت سقراط با دیگر دانایان آتن بر اساس دفاعیه‌اش چه بود؟",
+                  "category": "فروتنی معرفتی",
+                  "options": [
+                    "او ثروت و قدرت سیاسی بیشتری داشت",
+                    "او می‌دانست که چیزی نمی‌داند، در حالی که دیگران توهم دانایی داشتند",
+                    "او کتب متعددی نگاشته بود",
+                    "او فن خطابه را بهتر آموزش می‌داد"
+                  ],
+                  "correctIndex": 1,
+                  "mentorFeedback": "سقراط دانایی خود را محدود به آگاهی از جهل خویشتن می‌دانست و این پایه‌گذار فروتنی در علم است.",
+                  "wisdomPoints": 20
+                },
+                {
+                  "id": "q3-2",
+                  "question": "بر اساس متن رساله، هدف نهایی سقراط از طرح پرسش‌های پیاپی در کوچه و بازار چه بود؟",
+                  "category": "مفهوم‌شناسی دیالوگ سقراطی",
+                  "options": [
+                    "اثبات برتری خود در فن خطابه و مناظره",
+                    "آشکار ساختن تناقضات درونی طرف مقابل و بیدار کردن میل به جستجوی حقیقت",
+                    "آموزش عقاید جدید مذهبی به جوانان آتن",
+                    "جمع‌آوری آرا و نظرات عمومی برای تدوین قوانین"
+                  ],
+                  "correctIndex": 1,
+                  "mentorFeedback": "سقراط این روش را «مامایی اندیشه» می‌نامید؛ او نمی‌خواست اندیشه‌ای را به دیگران تحمیل کند، بلکه کمک می‌کرد خود فرد تناقضات پندارهای پیشینش را دریابد و اندیشه اصیل متولد شود.",
+                  "wisdomPoints": 20
+                },
+                {
+                  "id": "q3-3",
+                  "question": "چرا سقراط روش مامایی (مایوتیک) را برای گفتگو برگزید؟",
+                  "category": "متدولوژی گفتگو",
+                  "options": [
+                    "چون به حفظ کردن تعاریف آماده باور داشت",
+                    "چون معتقد بود حقیقت در درون جان هر انسان نهفته است و تنها باید هدایت شود تا متولد گردد",
+                    "برای سرگرم کردن تماشاگران میدان آگورا",
+                    "برای اثبات بی‌ارزش بودن عقل بشری"
+                  ],
+                  "correctIndex": 1,
+                  "mentorFeedback": "مانند مادری که فرزندی به دنیا می‌آورد، سقراط نقش قابله را بازی می‌کرد تا زایش اندیشه از درون خود مخاطب رخ دهد.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "توانایی تشخیص مغالطه در پیش‌فرض‌ها و مهارت طرح سوالات بنیادین برای کشف حقیقت.",
+            "status": "current"
+          },
+          {
+            "id": "step-4",
+            "pathId": "path-philosophy-western",
+            "stepNumber": 4,
+            "totalSteps": 10,
+            "title": "ارسطو و دسته‌بندی دانش؛ منطق و اخلاق نیکوماخوس",
+            "subtitle": "ارکان علل چهارگانه، حد وسط در اخلاق و تفکیک علوم نظری و عملی.",
+            "category": "مکتب مشاء ارسطویی",
+            "level": "intermediate",
+            "durationMinutes": 30,
+            "introDescription": "ارسطو چگونه با تدوین ارغنون (ابزار منطق) و قاعده اعتدال زرین، تفکر سامان‌مند را پی‌ریزی کرد.",
+            "podcastTitle": "پادکست: اعتدال زرین و راه رستگاری",
+            "podcastDuration": "۰۲:۱۰",
+            "objectives": [
+              {
+                "id": "ob-4-1",
+                "title": "علل چهارگانه ارسطویی",
+                "description": "علت مادی، صوری، فاعلی و غایی در پیدایش هر پدیده."
+              },
+              {
+                "id": "ob-4-2",
+                "title": "نظریه حد وسط در اخلاق",
+                "description": "فضیلت به عنوان میانه‌ای میان افراط و تفریط (مانند شجاعت بین تهور و ترس)."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "اخلاق نیکوماخوس",
+              "author": "ارسطو",
+              "translator": "محمدحسن لطفی",
+              "chapter": "کتاب دوم: درباره فضیلت اخلاقی",
+              "pageCount": 20,
+              "estimatedMinutes": 20,
+              "quote": "«فضیلت حد وسطی است میان دو رذیلت؛ یکی بر سبیل فزونی و دیگری بر سبیل کاستی.»",
+              "quoteCitation": "ارسطو",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuA1-znHT7hOm9FTSz6YwDOvOH3-QSjjwFiB8NuYWQInM7k8ue8Y0BQiFNumRQ381-50wW-Shwl-ahSmYI8gHW7BMZgATuR-W8aC4cGFo072Vf5x-6Yka38Fs2I5z5w1l2-lrsogrPRH0QN353dedtzIWeJ6vkZc1QKTqWvggW15W5I0OnGjuGs2dXLDPBoAsVVch6EOpd4tCWfj-Oeid6mJgraUdMlHYReSAwYyVrdTmb8AbLaALjvJ"
+            },
+            "passage": {
+              "title": "درباره سعادت و فضیلت اخلاقی",
+              "bookTitle": "اخلاق نیکوماخوس",
+              "author": "ارسطو",
+              "chapter": "کتاب دوم",
+              "pageNumber": 34,
+              "totalPages": 120,
+              "estimatedMinutes": 10,
+              "highlightQuote": "«ما با تکرار کارهای عادلانه، عادل می‌شویم؛ همچنان که با نواختن چنگ، چنگ‌نواز می‌گردیم.»",
+              "paragraphs": [
+                "سعادت غایت قصوای افعال انسانی است و از شکوفایی عقل در هماهنگی با عمل به دست می‌آید.",
+                "فضیلت اخلاقی از طریق عادت شکل می‌گیرد؛ نه طبیعتاً در ما وجود دارد و نه خلاف طبیعت ماست."
+              ]
+            },
+            "quiz": {
+              "title": "سنجش ادراکی پله ۴",
+              "stepNumber": 4,
+              "questions": [
+                {
+                  "id": "q4-1",
+                  "question": "تعریف فضیلت در اخلاق نیکوماخوس ارسطو کدام است؟",
+                  "category": "اخلاق فضیلت",
+                  "options": [
+                    "پیروی بی‌چون‌وچرا از فرامین حاکم",
+                    "حد وسط و اعتدال میان افراط و تفریط متناسب با وضعیت ما",
+                    "ریاضت‌کشی و سرکوب تمایلات غریزی",
+                    "کسب بیشترین میزان لذت زودگذر"
+                  ],
+                  "correctIndex": 1,
+                  "mentorFeedback": "فضیلت ملکه‌ای نفسانی است که میان دو حد افراط و تفریط بر اساس خرد عملی (فرونسیس) قرار دارد.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "سعادت حقیقی انسانی در گرو پرورش عادت به فضیلت و رعایت حد وسط خردورزانه در کارهاست.",
+            "status": "locked"
+          },
+          {
+            "id": "step-5",
+            "pathId": "path-philosophy-western",
+            "stepNumber": 5,
+            "totalSteps": 10,
+            "title": "فلسفه قرون وسطی و پیوند عقل و ایمان",
+            "subtitle": "سنت آگوستین، توماس آکوئیناس و مسئله سازگاری وحی و استدلال.",
+            "category": "اسکولاستیک و فلسفه مسیحی",
+            "level": "intermediate",
+            "durationMinutes": 25,
+            "introDescription": "چگونه فیلسوفان قرون وسطی تلاش کردند میراث افلاطون و ارسطو را با مبانی دینی پیوند دهند.",
+            "podcastTitle": "پادکست: ایمان در جستجوی فهم",
+            "podcastDuration": "۰۲:۰۰",
+            "objectives": [
+              {
+                "id": "ob-5-1",
+                "title": "ایمان بیاور تا بفهمی",
+                "description": "دیدگاه آگوستین درباره اولویت اشراق الهی."
+              },
+              {
+                "id": "ob-5-2",
+                "title": "براهین پنج‌گانه آکوئیناس",
+                "description": "اثبات عقلانی وجود خدا از مسیر حرکت، علیت و غایتمندی."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "سیر حکمت در اروپا",
+              "author": "محمدعلی فروغی",
+              "chapter": "بخش دوم: حکمای قرون وسطی",
+              "pageCount": 18,
+              "estimatedMinutes": 20,
+              "quote": "«عقل خدمتگزار ایمان است، اما نوری است که تاریکی را می‌شکافد.»",
+              "quoteCitation": "توماس آکوئیناس",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBOv7C9WyXSXvR8943zTv8xHJGcxuqMhdP2eQJMdEFc2DlQ0HZVT9mkEkgOjU0HaedAhN6SzWc5_wRCL9i4MObgCqLiX_ld3LHD-DOj912plaYbMKRISzJ9qQ-WyVOIpzZ6AimYoejndu0mnGvkgVLU23mMbbIJd_ADz56Jk7lR-tXIZ2X8fH6xOC73AwE8TV-cXYl8-PCj9Z7nJtbOGJHutA-YJQf8honcwAsLU6xH1Jwr1YvVBkuJ"
+            },
+            "passage": {
+              "title": "پیوستگی عقل و وحی",
+              "bookTitle": "سیر حکمت در اروپا",
+              "author": "محمدعلی فروغی",
+              "chapter": "جلد اول",
+              "pageNumber": 72,
+              "totalPages": 300,
+              "estimatedMinutes": 8,
+              "highlightQuote": "«فلسفه مدرسین کوششی عظیم برای عقلانی‌سازی ایمانداری بود.»",
+              "paragraphs": [
+                "آکوئیناس بر این باور بود که حقیقت واحد است و آنچه عقل سلیم کشف می‌کند نمی‌تواند در تعارض با وحی راستین باشد."
+              ]
+            },
+            "quiz": {
+              "title": "سنجش ادراکی پله ۵",
+              "stepNumber": 5,
+              "questions": [
+                {
+                  "id": "q5-1",
+                  "question": "عبارت معروف سنت آگوستین «Credo ut intelligam» به چه معناست؟",
+                  "category": "عقل و ایمان",
+                  "options": [
+                    "ایمان بیاور تا بفهمی",
+                    "عقل را قربانی احساس کن",
+                    "شک کردن نخستین گام دانایی است",
+                    "فقط آنچه دیده می‌شود قابل باور است"
+                  ],
+                  "correctIndex": 0,
+                  "mentorFeedback": "آگوستین باور داشت که ایمان نوری به ذهن می‌بخشد که توان فهم عمیق‌تر حقایق را فراهم می‌آورد.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "عقل و باور قلبی در تفکر مدرسین نه دو دشمن، بلکه دو بال برای صعود به قله معرفت تلقی می‌شدند.",
+            "status": "locked"
+          },
+          {
+            "id": "step-6",
+            "pathId": "path-philosophy-western",
+            "stepNumber": 6,
+            "totalSteps": 10,
+            "title": "شک دستوری دکارت؛ من می‌اندیشم پس هستم",
+            "subtitle": "تولد عقل‌گرایی مدرن، تفکیک نفس و بدن و بنیان‌گذاری یقین فلسفی.",
+            "category": "عقل‌گرایی قرن هفدهم",
+            "level": "intermediate",
+            "durationMinutes": 30,
+            "introDescription": "دکارت چگونه با شک در همه چیز، به نقطه اتکایی نفوذناپذیر برای علم جدید دست یافت.",
+            "podcastTitle": "پادکست: کالبدشکافی کوگیتو دکارت",
+            "podcastDuration": "۰۲:۱۵",
+            "objectives": [
+              {
+                "id": "ob-6-1",
+                "title": "شک دستوری و شیطان فریبکار",
+                "description": "چرا دکارت در حواس، خواب و ریاضیات شک کرد."
+              },
+              {
+                "id": "ob-6-2",
+                "title": "اصل کوگیتو (Cogito ergo sum)",
+                "description": "در حال شک، وجود داشتن من به عنوان فاعل اندیشنده قطعی است."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "تأملات در فلسفه اولی",
+              "author": "رنه دکارت",
+              "translator": "احمد احمدی",
+              "chapter": "تأمل دوم: در سرشت نفس انسان",
+              "pageCount": 20,
+              "estimatedMinutes": 20,
+              "quote": "«می‌توانم در هر چیزی شک کنم، جز در این که در حال شک کردنم.»",
+              "quoteCitation": "رنه دکارت",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuACpj0OiXe-CyIMsSbsMzgb7v-qHca9NEaJPynWisixxXLnLRwDDqXf7xC2Bu6QZHMAu7VaplOXdwSlUHtptQPfvO-SOGv5Clw0kQ3DuXSTCRLO8kUWdIFXxDnqsuQBiVhm5ryXPccZFx4PhU0j_Nvbz67rVHu6xZWyuwSKu1QdJ8aZtyXZ412wYcZEnA7berOdzls10vPbMJChlz94QOEH4HQEV-D0da0i3zyDeok818Iyq5fvCozf"
+            },
+            "passage": {
+              "title": "شک در حواس و تولد یقین عقلانی",
+              "bookTitle": "تأملات در فلسفه اولی",
+              "author": "رنه دکارت",
+              "chapter": "تأمل دوم",
+              "pageNumber": 28,
+              "totalPages": 110,
+              "estimatedMinutes": 10,
+              "highlightQuote": "«من شیء متفکری هستم؛ یعنی ذهنی که شک می‌کند، درک می‌کند، نفی یا اثبات می‌کند.»",
+              "paragraphs": [
+                "چون می‌خواستم خود را یکسره وقف جستجوی حقیقت کنم، پنداشتم که لازم است هرچه را کمترین شکی در آن راه دارد باطل شمارم.",
+                "اما بی‌درنگ دریافتم در همان حالی که می‌خواهم همه چیز را باطل بدانم، منی که فکر می‌کردم ناچار باید چیزی باشم!"
+              ]
+            },
+            "quiz": {
+              "title": "سنجش ادراکی پله ۶",
+              "stepNumber": 6,
+              "questions": [
+                {
+                  "id": "q6-1",
+                  "question": "هدف دکارت از شک افراطی و بنیادین در ابتدای تأملات چه بود؟",
+                  "category": "معرفت‌شناسی دکارت",
+                  "options": [
+                    "اثبات اینکه رسیدن به حقیقت ناممکن است (شکاکیت مطلق)",
+                    "یافتن زیربنایی خلل‌ناپذیر و یقین‌آور برای علم نوین",
+                    "تضعیف اصول اخلاقی جامعه",
+                    "رد کامل دانش تجربی"
+                  ],
+                  "correctIndex": 1,
+                  "mentorFeedback": "شک دکارت متدیک (روشمند) بود تا بنای دانش را روی صخره‌ای مستحکم و بی‌شبهه بسازد.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "حتی در اوج تردید و نفی، وجود آگاهی اندیشنده غیرقابل انکارترین حقیقت هستی است.",
+            "status": "locked"
+          }
+        ]
+      }
+    ],
+    "demo-sara": [
+      {
+        "id": "path-philosophy-western",
+        "userId": "demo-sara",
+        "title": "فلسفه غرب؛ از سقراط تا کانت",
+        "goal": "آشنایی عمیق با تاریخ فلسفه غرب، متدهای استدلال نقادانه و متون دست اول",
+        "category": "فلسفه و منطق",
+        "description": "آشنایی گام‌به‌گام با سرچشمه‌های تفکر فلسفی، پرسشگری نقادانه و کتاب‌های بنیادین اندیشه غرب.",
+        "level": "intermediate",
+        "dailyMinutes": 20,
+        "totalSteps": 6,
+        "currentStepIndex": 2,
+        "progressPercent": 33,
+        "estimatedWeeks": 4,
+        "weeklyFocus": "تسلط بر دیالوگ‌های اولیه افلاطون و هنر مامایی اندیشه",
+        "heroImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuCLOQoWXCzTxJZVmYwWnAym9v6ozeejVqlPmeyZsfkOBLZOdf_Qv1XXrW-b1z9tTnf52_4p__IUnRCJD3FJfWVOOS5yqQOjbjTx239C2uEB31FVrMq16oS7aTHihsuir7-Px3zXfbFbM_x8D0xkBNYa3NKZNHIHPNr6bQonKxcrTZLIw0iLOfYGAeKtKRzQbLdUOTMj7FwkS9QopjGePLXF72j0S9TEFnl_8LHJEXgDLEF-GFZLjiP-",
+        "createdAt": "2024-11-01T10:00:00.000Z",
+        "updatedAt": "2026-10-15T15:56:00.941Z",
+        "status": "in_progress",
+        "startedAt": "2024-11-01T10:00:00.000Z",
+        "lastActivityAt": "2024-11-14T10:45:00.000Z",
+        "steps": [
+          {
+            "id": "step-1",
+            "pathId": "path-philosophy-western",
+            "stepNumber": 1,
+            "totalSteps": 6,
+            "title": "سرآغاز تفکر؛ پیشاسقراطیان و مسئله طبیعت",
+            "subtitle": "بررسی جهان‌شناختی تالس، هراکلیتوس و پارمنیدس در مفهوم تغییر و ثبات.",
+            "category": "فلسفه یونان باستان",
+            "level": "beginner",
+            "durationMinutes": 25,
+            "introDescription": "چگونه نخستین فیلسوفان کوشیدند بدون اسطوره، جهان را با عناصر طبیعی و عقل تبیین کنند.",
+            "podcastTitle": "پادکست: طلوع اندیشه در میلتوس",
+            "podcastDuration": "۰۲:۳۰",
+            "objectives": [
+              {
+                "id": "ob-1",
+                "title": "درک مفهوم آرخه (اصل نخستین)",
+                "description": "چرا تالس آب و هراکلیتوس آتش را بنیاد هستی می‌دانستند."
+              },
+              {
+                "id": "ob-2",
+                "title": "جدال ثبات و تغییر",
+                "description": "مقایسه حرکت مداوم هراکلیتوس با یکپارچگی تغییرناپذیر پارمنیدس."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "نخستین فیلسوفان یونان",
+              "author": "دبلیو. کی. سی. گاتری",
+              "chapter": "فصل ۱: مکتب ملطی",
+              "pageCount": 22,
+              "estimatedMinutes": 20,
+              "quote": "«همه چیز در سیلان است و هیچ چیز پایدار نیست.»",
+              "quoteCitation": "هراکلیتوس",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBh2oQ1S2rSRrjanmYlIrR513QKCp3PpuQ-Po8YlDa0Yp6RSCIMMql3lU7giYaiEnliiIeZY7GiCKHWrvQ7d_aCn5V_x6G0B-9tmgI1r-YAryZ4FfYFrNsHgBHh46BibWvAZoNFNcRLy0jhlFBuNzoxydVfKjDnBVp-i47NGLYyVJcWWoxrIv0pW4YA_vtBIABGVoMMSvvimt0XS5zo9FUdohRiaDZ7JcuGNvakIZMo6DmHPpTF4Nys"
+            },
+            "passage": {
+              "title": "آرخه و جوهر اولیه جهان",
+              "bookTitle": "نخستین فیلسوفان یونان",
+              "author": "گاتری",
+              "chapter": "فصل اول",
+              "pageNumber": 12,
+              "totalPages": 45,
+              "estimatedMinutes": 8,
+              "highlightQuote": "«آغاز فلسفه با پرسش از چرایی به جای پذیرش اسطوره همراه بود.»",
+              "paragraphs": [
+                "پرسش پیشاسقراطیان این بود که ماده اصلی سازنده کیهان چیست و چگونه وحدت در کثرت تجلی می‌یابد.",
+                "این نگرش، گذار شکوهمند انسان از تبیین‌های تخیلی به مشاهده عقلی را رقم زد."
+              ]
+            },
+            "quiz": {
+              "title": "سنجش ادراکی پله ۱",
+              "stepNumber": 1,
+              "questions": [
+                {
+                  "id": "q1-1",
+                  "question": "تفاوت اساسی تفکر پیشاسقراطی با اسطوره‌های کهن چه بود؟",
+                  "category": "مفاهیم پایه",
+                  "options": [
+                    "استفاده از شعر به جای نثر",
+                    "جستجوی علل طبیعی و عقلی به جای خشم و اراده خدایان",
+                    "نفی کامل وجود آفرینش",
+                    "تمرکز صِرف بر اصول اخلاقی جامعه"
+                  ],
+                  "correctIndex": 1,
+                  "mentorFeedback": "پیشاسقراطیان نخستین کسانی بودند که قوانین کیهانی را در خود طبیعت جستجو کردند نه در ماوراءالطبیعه اسطوره‌ای.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "آغاز تفکر عقلانی با جستجوی علل درونی و نظمی قانون‌مند در دل طبیعت شکل گرفت.",
+            "status": "completed",
+            "startedAt": "2024-11-01T10:15:00.000Z",
+            "completedAt": "2024-11-05T14:30:00.000Z"
+          },
+          {
+            "id": "step-2",
+            "pathId": "path-philosophy-western",
+            "stepNumber": 2,
+            "totalSteps": 6,
+            "title": "فضیلت و عدالت؛ بررسی رساله جمهوری",
+            "subtitle": "تمثیل غار، نظریه مثل و شکل‌گیری مدینه فاضله از دیدگاه افلاطون.",
+            "category": "فلسفه افلاطونی",
+            "level": "intermediate",
+            "durationMinutes": 30,
+            "introDescription": "شناخت پیوند میان روان‌شناسی فردی، عدالت اجتماعی و قلمرو مثل در اندیشه افلاطون.",
+            "podcastTitle": "پادکست: تمثیل غار و بیداری از سایه‌ها",
+            "podcastDuration": "۰۱:۵۰",
+            "objectives": [
+              {
+                "id": "ob-2-1",
+                "title": "فهم تمثیل غار",
+                "description": "تفاوت درک سایه‌های حسی با نور حقیقت خورشید عقل."
+              },
+              {
+                "id": "ob-2-2",
+                "title": "مفهوم فضیلت سه‌گانه روح",
+                "description": "پیوند عقل، خشم و میل با طبقات جامعه آرمانی."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "رساله جمهوری",
+              "author": "افلاطون",
+              "translator": "فؤاد روحانی",
+              "chapter": "کتاب هفتم: تمثیل غار",
+              "pageCount": 35,
+              "estimatedMinutes": 25,
+              "quote": "«آنان که در زنجیرند، جز سایه‌های روی دیوار را حقیقت نمی‌پندارند.»",
+              "quoteCitation": "افلاطون",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuCDoZyg0h19AgYOu7eEM8lyPEB1kqVUC_vIecbdhFOMNJvkM-Nnpg3iePpwRryBt6yp2fU4cpCjMhRj7ppQu1P5wJVOP9daGZ6h9skn28khwqAal6BX4DNpgKhQ6LdphrcaE1GkRXYn2uZC6gcLg-zUS8r0nepUrqlWWoX6dQiwRGdK7Atg9pyvFtJkkpp1VdxIVmt1b19IjTZY5kp6z3Az-Nr7VUfmk1N2m_p_sFO7ez3OpBwdCXFF"
+            },
+            "passage": {
+              "title": "تمثیل غار و سیر انسان به سوی روشنایی",
+              "bookTitle": "جمهوری افلاطون",
+              "author": "افلاطون",
+              "chapter": "کتاب هفتم",
+              "pageNumber": 514,
+              "totalPages": 600,
+              "estimatedMinutes": 12,
+              "highlightQuote": "«رسالت فیلسوف پس از دیدن خورشید، بازگشت به غار برای نجات دیگران است.»",
+              "paragraphs": [
+                "زندانیانی را تصور کن که از کودکی در غاری زیرزمینی دست و پا بسته نشسته‌اند و تنها سایه‌های اشیاء را بر دیوار مقابل می‌بینند.",
+                "اگر یکی از آنان رها شود و به روشنایی خورشید بنگرد، ابتدا چشمانش از شدت نور درد خواهد گرفت، اما سرانجام حقیقت را درمی‌یابد."
+              ]
+            },
+            "quiz": {
+              "title": "سنجش ادراکی پله ۲",
+              "stepNumber": 2,
+              "questions": [
+                {
+                  "id": "q2-1",
+                  "question": "در تمثیل غار افلاطون، خورشید نماد چیست؟",
+                  "category": "معرفت‌شناسی افلاطون",
+                  "options": [
+                    "خدایان المپ نشین",
+                    "مثال خیر و سرچشمه کل حقیقت و دانایی",
+                    "احساسات و هیجانات طبیعی انسان",
+                    "هنر و ادبیات تمثیلی"
+                  ],
+                  "correctIndex": 1,
+                  "mentorFeedback": "خورشید در تمثیل افلاطون مظهر «ایده خیر» (Good) است که به همه چیز هستی و قابلیت شناخته‌شدن می‌بخشد.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "ادراک حسی صرفاً سایه‌های جهان است؛ رسیدن به عدالت و شناخت راستین مستلزم سیر عقلانی به سوی مثال خیر است.",
+            "status": "completed",
+            "startedAt": "2024-11-06T11:00:00.000Z",
+            "completedAt": "2024-11-12T16:00:00.000Z"
+          },
+          {
+            "id": "step-3",
+            "pathId": "path-philosophy-western",
+            "stepNumber": 3,
+            "totalSteps": 6,
+            "title": "روش سقراطی و هنر زایش اندیشه (مامایی اندیشه)",
+            "subtitle": "چگونه با پرسشگری دقیق، تعاریف پیش‌فرضی را به چالش بکشیم؟",
+            "category": "فلسفه باستان و هنر پرسشگری",
+            "level": "intermediate",
+            "durationMinutes": 20,
+            "introDescription": "«در این مرحله یاد می‌گیرید که سقراط چگونه بدون اینکه خود را دانا بنامد، با سلسله پرسش‌های هوشمندانه تناقضات درونی افراد را آشکار می‌کرد.»",
+            "podcastTitle": "پادکست کوتاه: مقدمه ۱ دقیقه‌ای",
+            "podcastDuration": "۰۱:۱۵",
+            "objectives": [
+              {
+                "id": "ob-3-1",
+                "title": "۱. فهم ساختار دیالوگ سقراطی",
+                "description": "آشنایی با الگوی سه‌گانه انکار دانایی، اعتراف به نادانی و کشف تناقض در فرضیات اولیه."
+              },
+              {
+                "id": "ob-3-2",
+                "title": "۲. شناخت تفاوت \"تعریف اساسی\" با \"مثال\"",
+                "description": "تفکیک بین ارائه نمونه‌های عینی و ذات بنیادین یک مفهوم فلسفی نظیر شجاعت یا عدالت."
+              },
+              {
+                "id": "ob-3-3",
+                "title": "۳. تجربه عملی پرسشگری در موقعیت‌های واقعی",
+                "description": "آمادگی ذهنی برای طرح سوالات باز و سازنده بدون موضع تهاجمی در مباحثات روزمره."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "کتاب: آپولوژی و فایدون",
+              "author": "افلاطون",
+              "translator": "محمدعلی فروغی",
+              "chapter": "فصل ۱: دفاعیه سقراط در دادگاه آتن",
+              "pageCount": 15,
+              "estimatedMinutes": 15,
+              "quote": "«زندگیِ ناآزموده، ارزش زیستن ندارد.»",
+              "quoteCitation": "بند ۲۸ دفاعیه سقراط",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuD5cPKY2V9lklekqN2n61wr24MUXgLtY2uu405xLdPvGutpdvCrtBDULsWiuuMeIvyBaRDUYslf75TqCYRyQ2-vZz6mJjEOZgky0PhSTCHQ5XWruv7KqGUQ5K8oRCDS9Cl61oBwqI6QqlQlEWQxYVR4NtfacCyllzV3Ac31ocfxupwVddorzo-mokuKnLBuvjlI1l3NQJk35x1yXzcXzmKsADWQhGdQAlJp7U3oyy0gWL3U1wae-Bfx"
+            },
+            "passage": {
+              "title": "رساله آپولوژی (دفاعیه سقراط)",
+              "bookTitle": "رساله آپولوژی و فایدون",
+              "author": "افلاطون",
+              "translator": "محمدعلی فروغی",
+              "chapter": "فصل ۱: آغاز سخن در دادگاه",
+              "pageNumber": 18,
+              "totalPages": 95,
+              "estimatedMinutes": 4,
+              "highlightQuote": "«...زیرا بزرگ‌ترین نادانی این است که آدمی پندارد آنچه را نمی‌داند، می‌داند.»",
+              "paragraphs": [
+                "ای مردم آتن! من نمی‌دانم سخنان مدعیان در شما چه اثری گذاشت، اما خود من چنان شیفته و مجذوب گفتار فصیح آنان شدم که نزدیک بود فراموش کنم که کیستم؛ هرچند از صد سخن آنان حتی یک کلمه هم حقیقت نداشت. آنچه بیش از همه مرا به شگفتی واداشت هشداری بود که به شما دادند تا فریب چرب‌زبانی مرا نخورید و مرا به نیرنگ و سخنوری متهم ساختند.",
+                "اما سخن راستین من از آرایه‌های ادبی و لفاظی‌های ساختگی تهی خواهد بود. من با همان زبانی سخن خواهم گفت که سال‌ها در بازار و کنار پیشخوان صرافان شنیده‌اید. از شما تمنا دارم نه به شیوهٔ بیانم، بلکه فقط به درستی یا نادرستی آنچه می‌گویم عنایت فرمایید؛ زیرا وظیفهٔ دادرس تمیز حق از باطل است و وظیفهٔ خطیب حقیقت‌گویی.",
+                "من سالیان دراز به جستجوی دانایان شهر رفتم؛ از سیاست‌مداران و شاعران تا صنعتگران زبردست. هرکدام گمان می‌بردند در دانشی که دارند استادند و بر امور بنیادین هستی نیز وقوف کامل دارند. این پندار باطل، نور اندک دانششان را نیز تیره می‌ساخت. از این روی بود که دریافتم خرد راستین آن است که به نادانی خویشتن آگاه باشیم."
+              ],
+              "footnote": {
+                "title": "محاکمه سقراط در سال ۳۹۹ پیش از میلاد",
+                "description": "این دفاعیه ثبت مکتوب افلاطون از استدلال‌های اخلاقی و شهامت عقلانی سقراط است.",
+                "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuA-u_H7iUlNwZkHtwSR9745xMQN_6aH7XhyWHrpYWxPYBn4xNQ8JQbkFIvm2Xh47aI8e1N4QWED7jfyHtiJoGZvpmzTA7TBl2ZVS_tVygy9C9Y6elY66f8EYOTbU0AWcN6f_hl3yOzVs2sxtP0nQf2vGnz8hjM7SmXue3dVPxt-e3VdyDPIFKI4tiZTGzjT2Fcqt85wi9OrsF69btM08xnGPiZvZHowuybfqY2kokOTK3hMtZdkiNwG"
+              }
+            },
+            "quiz": {
+              "title": "سنجش ادراکی پله ۳",
+              "stepNumber": 3,
+              "questions": [
+                {
+                  "id": "q3-1",
+                  "question": "تفاوت سقراط با دیگر دانایان آتن بر اساس دفاعیه‌اش چه بود؟",
+                  "category": "فروتنی معرفتی",
+                  "options": [
+                    "او ثروت و قدرت سیاسی بیشتری داشت",
+                    "او می‌دانست که چیزی نمی‌داند، در حالی که دیگران توهم دانایی داشتند",
+                    "او کتب متعددی نگاشته بود",
+                    "او فن خطابه را بهتر آموزش می‌داد"
+                  ],
+                  "correctIndex": 1,
+                  "mentorFeedback": "سقراط دانایی خود را محدود به آگاهی از جهل خویشتن می‌دانست و این پایه‌گذار فروتنی در علم است.",
+                  "wisdomPoints": 20
+                },
+                {
+                  "id": "q3-2",
+                  "question": "بر اساس متن رساله، هدف نهایی سقراط از طرح پرسش‌های پیاپی در کوچه و بازار چه بود؟",
+                  "category": "مفهوم‌شناسی دیالوگ سقراطی",
+                  "options": [
+                    "اثبات برتری خود در فن خطابه و مناظره",
+                    "آشکار ساختن تناقضات درونی طرف مقابل و بیدار کردن میل به جستجوی حقیقت",
+                    "آموزش عقاید جدید مذهبی به جوانان آتن",
+                    "جمع‌آوری آرا و نظرات عمومی برای تدوین قوانین"
+                  ],
+                  "correctIndex": 1,
+                  "mentorFeedback": "سقراط این روش را «مامایی اندیشه» می‌نامید؛ او نمی‌خواست اندیشه‌ای را به دیگران تحمیل کند، بلکه کمک می‌کرد خود فرد تناقضات پندارهای پیشینش را دریابد و اندیشه اصیل متولد شود.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "توانایی تشخیص مغالطه در پیش‌فرض‌ها و مهارت طرح سوالات بنیادین برای کشف حقیقت.",
+            "status": "current",
+            "startedAt": "2024-11-13T09:00:00.000Z"
+          },
+          {
+            "id": "step-4",
+            "pathId": "path-philosophy-western",
+            "stepNumber": 4,
+            "totalSteps": 6,
+            "title": "ارسطو و دسته‌بندی دانش؛ منطق و اخلاق نیکوماخوس",
+            "subtitle": "ارکان علل چهارگانه، حد وسط در اخلاق و تفکیک علوم نظری و عملی.",
+            "category": "مکتب مشاء ارسطویی",
+            "level": "intermediate",
+            "durationMinutes": 30,
+            "introDescription": "ارسطو چگونه با تدوین ارغنون و قاعده اعتدال زرین، تفکر سامان‌مند را پی‌ریزی کرد.",
+            "podcastTitle": "پادکست: اعتدال زرین و راه رستگاری",
+            "podcastDuration": "۰۲:۱۰",
+            "objectives": [
+              {
+                "id": "ob-4-1",
+                "title": "علل چهارگانه ارسطویی",
+                "description": "علت مادی، صوری، فاعلی و غایی در پیدایش هر پدیده."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "اخلاق نیکوماخوس",
+              "author": "ارسطو",
+              "translator": "محمدحسن لطفی",
+              "chapter": "کتاب دوم: درباره فضیلت اخلاقی",
+              "pageCount": 20,
+              "estimatedMinutes": 20,
+              "quote": "«فضیلت حد وسطی است میان دو رذیلت؛ یکی بر سبیل فزونی و دیگری بر سبیل کاستی.»",
+              "quoteCitation": "ارسطو",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuA1-znHT7hOm9FTSz6YwDOvOH3-QSjjwFiB8NuYWQInM7k8ue8Y0BQiFNumRQ381-50wW-Shwl-ahSmYI8gHW7BMZgATuR-W8aC4cGFo072Vf5x-6Yka38Fs2I5z5w1l2-lrsogrPRH0QN353dedtzIWeJ6vkZc1QKTqWvggW15W5I0OnGjuGs2dXLDPBoAsVVch6EOpd4tCWfj-Oeid6mJgraUdMlHYReSAwYyVrdTmb8AbLaALjvJ"
+            },
+            "passage": {
+              "title": "درباره سعادت و فضیلت اخلاقی",
+              "bookTitle": "اخلاق نیکوماخوس",
+              "author": "ارسطو",
+              "chapter": "کتاب دوم",
+              "pageNumber": 34,
+              "totalPages": 120,
+              "estimatedMinutes": 10,
+              "highlightQuote": "«ما با تکرار کارهای عادلانه، عادل می‌شویم.»",
+              "paragraphs": [
+                "سعادت غایت قصوای افعال انسانی است و از شکوفایی عقل در هماهنگی با عمل به دست می‌آید."
+              ]
+            },
+            "quiz": {
+              "title": "سنجش ادراکی پله ۴",
+              "stepNumber": 4,
+              "questions": [
+                {
+                  "id": "q4-1",
+                  "question": "تعریف فضیلت در اخلاق نیکوماخوس ارسطو کدام است؟",
+                  "category": "اخلاق فضیلت",
+                  "options": [
+                    "پیروی بی‌چون‌وچرا از فرامین حاکم",
+                    "حد وسط و اعتدال میان افراط و تفریط",
+                    "ریاضت‌کشی و سرکوب تمایلات",
+                    "کسب بیشترین میزان لذت"
+                  ],
+                  "correctIndex": 1,
+                  "mentorFeedback": "فضیلت ملکه‌ای نفسانی است که میان دو حد افراط و تفریط بر اساس خرد عملی قرار دارد.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "سعادت حقیقی در گرو پرورش عادت به فضیلت و رعایت اعتدال است.",
+            "status": "locked"
+          },
+          {
+            "id": "step-5",
+            "pathId": "path-philosophy-western",
+            "stepNumber": 5,
+            "totalSteps": 6,
+            "title": "شک دستوری دکارت؛ من می‌اندیشم پس هستم",
+            "subtitle": "تولد عقل‌گرایی مدرن، تفکیک نفس و بدن و بنیان‌گذاری یقین فلسفی.",
+            "category": "عقل‌گرایی قرن هفدهم",
+            "level": "intermediate",
+            "durationMinutes": 30,
+            "introDescription": "دکارت چگونه با شک روش‌مند، نقطه اتکایی نفوذناپذیر برای علم ساخت.",
+            "podcastTitle": "پادکست: کالبدشکافی کوگیتو",
+            "podcastDuration": "۰۲:۱۵",
+            "objectives": [
+              {
+                "id": "ob-5-1",
+                "title": "اصل کوگیتو",
+                "description": "من می‌اندیشم پس هستم."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "تأملات در فلسفه اولی",
+              "author": "رنه دکارت",
+              "chapter": "تأمل دوم",
+              "pageCount": 20,
+              "estimatedMinutes": 20,
+              "quote": "«می‌توانم در هر چیزی شک کنم، جز در این که در حال شک کردنم.»",
+              "quoteCitation": "رنه دکارت",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuACpj0OiXe-CyIMsSbsMzgb7v-qHca9NEaJPynWisixxXLnLRwDDqXf7xC2Bu6QZHMAu7VaplOXdwSlUHtptQPfvO-SOGv5Clw0kQ3DuXSTCRLO8kUWdIFXxDnqsuQBiVhm5ryXPccZFx4PhU0j_Nvbz67rVHu6xZWyuwSKu1QdJ8aZtyXZ412wYcZEnA7berOdzls10vPbMJChlz94QOEH4HQEV-D0da0i3zyDeok818Iyq5fvCozf"
+            },
+            "passage": {
+              "title": "شک در حواس و تولد یقین عقلانی",
+              "bookTitle": "تأملات در فلسفه اولی",
+              "author": "رنه دکارت",
+              "chapter": "تأمل دوم",
+              "pageNumber": 28,
+              "totalPages": 110,
+              "estimatedMinutes": 10,
+              "highlightQuote": "«من شیء متفکری هستم.»",
+              "paragraphs": [
+                "چون می‌خواستم خود را یکسره وقف جستجوی حقیقت کنم، لازم دیدم در همه چیز شک کنم."
+              ]
+            },
+            "quiz": {
+              "title": "سنجش ادراکی پله ۵",
+              "stepNumber": 5,
+              "questions": [
+                {
+                  "id": "q5-1",
+                  "question": "هدف دکارت از شک چیست؟",
+                  "category": "معرفت‌شناسی",
+                  "options": [
+                    "شکاکیت مطلق",
+                    "رسیدن به یقین خلل‌ناپذیر",
+                    "نفی دانش",
+                    "سرگرمی فکری"
+                  ],
+                  "correctIndex": 1,
+                  "mentorFeedback": "شک دکارت روشی برای کشف حقیقت یقینی بود.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "آگاهی اندیشنده نخستین یقین فلسفی است.",
+            "status": "locked"
+          },
+          {
+            "id": "step-6",
+            "pathId": "path-philosophy-western",
+            "stepNumber": 6,
+            "totalSteps": 6,
+            "title": "انقلاب کوپرنیکی کانت؛ نقد عقل محض",
+            "subtitle": "شناخت حدود عقل، پدیدار و شیء فی‌نفسه.",
+            "category": "فلسفه نقادی",
+            "level": "advanced",
+            "durationMinutes": 35,
+            "introDescription": "چگونه کانت عقل‌گرایی و تجربه‌گرایی را در چارچوبی نو پیوند داد.",
+            "podcastTitle": "پادکست: سپیده‌دم روشنگری با کانت",
+            "podcastDuration": "۰۲:۴۵",
+            "objectives": [
+              {
+                "id": "ob-6-1",
+                "title": "مفاهیم ماتقدم",
+                "description": "نقش زمان و مکان به عنوان قالب‌های شهود حسی."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "سنجش خرد ناب",
+              "author": "امانوئل کانت",
+              "translator": "میرشمس‌الدین ادیب‌سلطانی",
+              "chapter": "مقدمه",
+              "pageCount": 30,
+              "estimatedMinutes": 30,
+              "quote": "«اندیشه‌های بدون محتوا تهی‌اند، و شهودهای بدون مفهوم نابینا.»",
+              "quoteCitation": "امانوئل کانت",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuCLOQoWXCzTxJZVmYwWnAym9v6ozeejVqlPmeyZsfkOBLZOdf_Qv1XXrW-b1z9tTnf52_4p__IUnRCJD3FJfWVOOS5yqQOjbjTx239C2uEB31FVrMq16oS7aTHihsuir7-Px3zXfbFbM_x8D0xkBNYa3NKZNHIHPNr6bQonKxcrTZLIw0iLOfYGAeKtKRzQbLdUOTMj7FwkS9QopjGePLXF72j0S9TEFnl_8LHJEXgDLEF-GFZLjiP-"
+            },
+            "passage": {
+              "title": "درباره امکان معرفت ترکیبی پیشینی",
+              "bookTitle": "سنجش خرد ناب",
+              "author": "امانوئل کانت",
+              "chapter": "دیباچه",
+              "pageNumber": 45,
+              "totalPages": 400,
+              "estimatedMinutes": 12,
+              "highlightQuote": "«ما از اشیاء تنها آنچه را خود در آنها نهاده‌ایم درمی‌یابیم.»",
+              "paragraphs": [
+                "تاکنون فرض می‌شد که همه معرفت‌های ما باید خود را با اعیان وفق دهند؛ اکنون باید آزمود که اگر اشیاء خود را با شناسایی ما وفق دهند چه خواهد شد."
+              ]
+            },
+            "quiz": {
+              "title": "سنجش ادراکی پله ۶",
+              "stepNumber": 6,
+              "questions": [
+                {
+                  "id": "q6-1",
+                  "question": "انقلاب کوپرنیکی کانت در معرفت‌شناسی چیست؟",
+                  "category": "فلسفه کانت",
+                  "options": [
+                    "چرخش زمین به دور خورشید",
+                    "تطابق موضوع شناسایی با ساختار ذهن فاعل شناسا به جای برعکس",
+                    "نفی کامل عقل",
+                    "اثبات حواس به عنوان یگانه راه شناخت"
+                  ],
+                  "correctIndex": 1,
+                  "mentorFeedback": "کانت نشان داد که ذهن انسان منفعل نیست بلکه قالب‌های خود را بر پدیدارها می‌نهد.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "معرفت حاصل ترکیب داده‌های حسی با مقولات پیشینی فاهمه است.",
+            "status": "locked"
+          }
+        ]
+      }
+    ],
+    "demo-ali": [
+      {
+        "id": "path-1792079913581",
+        "userId": "demo-ali",
+        "title": "مسیر: تاریخ معاصر جهان",
+        "goal": "درک اصول و جهان‌بینی کلی",
+        "category": "تاریخ معاصر جهان",
+        "description": "مسیر ساختاریافته یادگیری عمیق در زمینه تاریخ معاصر جهان بر اساس نیازها و زمان روزانه شما.",
+        "level": "beginner",
+        "dailyMinutes": 15,
+        "totalSteps": 5,
+        "currentStepIndex": 0,
+        "progressPercent": 0,
+        "estimatedWeeks": 3,
+        "steps": [
+          {
+            "id": "step-path-1792079913581-1",
+            "pathId": "path-1792079913581",
+            "stepNumber": 1,
+            "totalSteps": 5,
+            "title": "سرآغاز و اصول بنیادین در تاریخ معاصر جهان",
+            "subtitle": "شناخت ترمینولوژی، تعاریف ریشه‌ای و سیر پیدایش مفاهیم اولیه.",
+            "category": "تاریخ معاصر جهان",
+            "level": "beginner",
+            "durationMinutes": 15,
+            "introDescription": "در این پله گام‌به‌گام با شناخت ترمینولوژی، تعاریف ریشه‌ای و سیر پیدایش مفاهیم اولیه. آشنا می‌شوید و مهارت‌های ادراکی خود را صیقل می‌دهید.",
+            "podcastTitle": "پادکست کوتاه: مرور صوتی پله 1",
+            "podcastDuration": "۰۱:۴۵",
+            "objectives": [
+              {
+                "id": "ob-0-1",
+                "title": "۱. شناخت ژرف ساختارهای پله 1",
+                "description": "بررسی ارتباط مفهومی میان نظریه‌ها و کاربردها."
+              },
+              {
+                "id": "ob-0-2",
+                "title": "۲. تمایز میان پیش‌فرض‌ها و گزاره‌های اثبات‌شده",
+                "description": "کشف تناقضات در تعاریف سطحی و دستیابی به گزاره‌های آزموده."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "مقدمه‌ای جامع بر تاریخ معاصر جهان",
+              "author": "آرتور سی. دانتو و پژوهشگران معاصر",
+              "chapter": "فصل 1: تحلیل جامع",
+              "pageCount": 24,
+              "estimatedMinutes": 15,
+              "quote": "«فهم هر کل مرکب، با بازگشت به اجزای بنیادین آن میسر می‌شود.»",
+              "quoteCitation": "آرتور سی. دانتو و پژوهشگران معاصر",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBh2oQ1S2rSRrjanmYlIrR513QKCp3PpuQ-Po8YlDa0Yp6RSCIMMql3lU7giYaiEnliiIeZY7GiCKHWrvQ7d_aCn5V_x6G0B-9tmgI1r-YAryZ4FfYFrNsHgBHh46BibWvAZoNFNcRLy0jhlFBuNzoxydVfKjDnBVp-i47NGLYyVJcWWoxrIv0pW4YA_vtBIABGVoMMSvvimt0XS5zo9FUdohRiaDZ7JcuGNvakIZMo6DmHPpTF4Nys"
+            },
+            "passage": {
+              "title": "سرآغاز و اصول بنیادین در تاریخ معاصر جهان",
+              "bookTitle": "مقدمه‌ای جامع بر تاریخ معاصر جهان",
+              "author": "آرتور سی. دانتو و پژوهشگران معاصر",
+              "chapter": "فصل 1",
+              "pageNumber": 18,
+              "totalPages": 120,
+              "estimatedMinutes": 6,
+              "highlightQuote": "«فهم هر کل مرکب، با بازگشت به اجزای بنیادین آن میسر می‌شود.»",
+              "paragraphs": [
+                "ورود به ساحت تفکر در حوزه تاریخ معاصر جهان مستلزم فرارفتن از انگاره‌های متعارف است. ما در این مرحله نشان می‌دهیم که چرا تعاریف کلیشه‌ای قادر به تبیین موارد پیچیده نیستند و چگونه نگاه ساختاریافته امکان گشودن گره‌های فکری را فراهم می‌کند.",
+                "تحقیقات متفکران برجسته نشان می‌دهد که بدون فهم دقیق بنیان‌ها، ساختارهای پیشرفته‌تر دستخوش تزلزل می‌گردند. از این رو، تامل ژرف بر گزاره‌های این پله، پی‌ریزی مطمئنی برای کل مسیر پیش روی شما خواهد بود."
+              ],
+              "footnote": {
+                "title": "مرجع علمی پله 1",
+                "description": "این گزیده از کتاب معتبر «مقدمه‌ای جامع بر تاریخ معاصر جهان» اقتباس شده و با اهداف آموزشی درک اصول و جهان‌بینی کلی همگام‌سازی گردیده است.",
+                "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuA-u_H7iUlNwZkHtwSR9745xMQN_6aH7XhyWHrpYWxPYBn4xNQ8JQbkFIvm2Xh47aI8e1N4QWED7jfyHtiJoGZvpmzTA7TBl2ZVS_tVygy9C9Y6elY66f8EYOTbU0AWcN6f_hl3yOzVs2sxtP0nQf2vGnz8hjM7SmXue3dVPxt-e3VdyDPIFKI4tiZTGzjT2Fcqt85wi9OrsF69btM08xnGPiZvZHowuybfqY2kokOTK3hMtZdkiNwG"
+              }
+            },
+            "quiz": {
+              "title": "سنجش ادراکی پله 1",
+              "stepNumber": 1,
+              "questions": [
+                {
+                  "id": "q-0-1",
+                  "question": "اساسی‌ترین پیش‌فرض در رویکرد تحلیلی به تاریخ معاصر جهان کدام است؟",
+                  "category": "درک مفهومی",
+                  "options": [
+                    "پذیرش بی‌چون‌وچرا",
+                    "تفکیک گزاره‌های اولیه از استنتاجات ثانویه",
+                    "تکرار شتاب‌زده تجربیات",
+                    "محاسبه بدون تئوری"
+                  ],
+                  "correctIndex": 1,
+                  "mentorFeedback": "تفکیک بنیادین گزاره‌ها و پیش‌فرض‌ها، گام ضروری برای ساختن بنای استدلال محکم است.",
+                  "wisdomPoints": 20
+                },
+                {
+                  "id": "q-0-2",
+                  "question": "چرا در مطالعه تاریخ معاصر جهان باید میان مثال‌های عینی و مفهوم کلی تفکیک قائل شد؟",
+                  "category": "تفکر نقادانه",
+                  "options": [
+                    "چون مثال‌ها تنها یک مصداق جزیی هستند و نباید با اصل قاعده یکی انگاشته شوند",
+                    "چون مثال‌ها کلاً غیرقابل اعتمادند",
+                    "برای طولانی‌تر شدن بحث‌ها",
+                    "چون دانشمندان این‌طور خواسته‌اند"
+                  ],
+                  "correctIndex": 0,
+                  "mentorFeedback": "دقیقاً؛ مثال‌ها به فهم کمک می‌کنند اما هرگز جایگزین تعریف جامع و مانع یک مفهوم کلی نمی‌شوند.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "توانایی بازتعریف مفاهیم پایه بدون مغالطات رایج و درک ارتباط عناصر درونی.",
+            "status": "available"
+          },
+          {
+            "id": "step-path-1792079913581-2",
+            "pathId": "path-1792079913581",
+            "stepNumber": 2,
+            "totalSteps": 5,
+            "title": "نقشه‌برداری ساختار و طبقه‌بندی مکاتب در تاریخ معاصر جهان",
+            "subtitle": "مقایسه رویکردهای کلاسیک و مدرن، و چارچوب‌های اصلی نظری.",
+            "category": "تاریخ معاصر جهان",
+            "level": "beginner",
+            "durationMinutes": 15,
+            "introDescription": "در این پله گام‌به‌گام با مقایسه رویکردهای کلاسیک و مدرن، و چارچوب‌های اصلی نظری. آشنا می‌شوید و مهارت‌های ادراکی خود را صیقل می‌دهید.",
+            "podcastTitle": "پادکست کوتاه: مرور صوتی پله 2",
+            "podcastDuration": "۰۱:۴۵",
+            "objectives": [
+              {
+                "id": "ob-1-1",
+                "title": "۱. شناخت ژرف ساختارهای پله 2",
+                "description": "بررسی ارتباط مفهومی میان نظریه‌ها و کاربردها."
+              },
+              {
+                "id": "ob-1-2",
+                "title": "۲. تمایز میان پیش‌فرض‌ها و گزاره‌های اثبات‌شده",
+                "description": "کشف تناقضات در تعاریف سطحی و دستیابی به گزاره‌های آزموده."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "ساختار و تکامل تاریخ معاصر جهان",
+              "author": "دیوید چالمرز و نظریه‌پردازان مکتبی",
+              "chapter": "فصل 2: تحلیل جامع",
+              "pageCount": 24,
+              "estimatedMinutes": 15,
+              "quote": "«نظم بخشیدن به مفاهیم، ذهن را از سردرگمی در جزئیات می‌رهاند.»",
+              "quoteCitation": "دیوید چالمرز و نظریه‌پردازان مکتبی",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBh2oQ1S2rSRrjanmYlIrR513QKCp3PpuQ-Po8YlDa0Yp6RSCIMMql3lU7giYaiEnliiIeZY7GiCKHWrvQ7d_aCn5V_x6G0B-9tmgI1r-YAryZ4FfYFrNsHgBHh46BibWvAZoNFNcRLy0jhlFBuNzoxydVfKjDnBVp-i47NGLYyVJcWWoxrIv0pW4YA_vtBIABGVoMMSvvimt0XS5zo9FUdohRiaDZ7JcuGNvakIZMo6DmHPpTF4Nys"
+            },
+            "passage": {
+              "title": "نقشه‌برداری ساختار و طبقه‌بندی مکاتب در تاریخ معاصر جهان",
+              "bookTitle": "ساختار و تکامل تاریخ معاصر جهان",
+              "author": "دیوید چالمرز و نظریه‌پردازان مکتبی",
+              "chapter": "فصل 2",
+              "pageNumber": 36,
+              "totalPages": 120,
+              "estimatedMinutes": 6,
+              "highlightQuote": "«نظم بخشیدن به مفاهیم، ذهن را از سردرگمی در جزئیات می‌رهاند.»",
+              "paragraphs": [
+                "ورود به ساحت تفکر در حوزه تاریخ معاصر جهان مستلزم فرارفتن از انگاره‌های متعارف است. ما در این مرحله نشان می‌دهیم که چرا تعاریف کلیشه‌ای قادر به تبیین موارد پیچیده نیستند و چگونه نگاه ساختاریافته امکان گشودن گره‌های فکری را فراهم می‌کند.",
+                "تحقیقات متفکران برجسته نشان می‌دهد که بدون فهم دقیق بنیان‌ها، ساختارهای پیشرفته‌تر دستخوش تزلزل می‌گردند. از این رو، تامل ژرف بر گزاره‌های این پله، پی‌ریزی مطمئنی برای کل مسیر پیش روی شما خواهد بود."
+              ],
+              "footnote": {
+                "title": "مرجع علمی پله 2",
+                "description": "این گزیده از کتاب معتبر «ساختار و تکامل تاریخ معاصر جهان» اقتباس شده و با اهداف آموزشی درک اصول و جهان‌بینی کلی همگام‌سازی گردیده است.",
+                "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuA-u_H7iUlNwZkHtwSR9745xMQN_6aH7XhyWHrpYWxPYBn4xNQ8JQbkFIvm2Xh47aI8e1N4QWED7jfyHtiJoGZvpmzTA7TBl2ZVS_tVygy9C9Y6elY66f8EYOTbU0AWcN6f_hl3yOzVs2sxtP0nQf2vGnz8hjM7SmXue3dVPxt-e3VdyDPIFKI4tiZTGzjT2Fcqt85wi9OrsF69btM08xnGPiZvZHowuybfqY2kokOTK3hMtZdkiNwG"
+              }
+            },
+            "quiz": {
+              "title": "سنجش ادراکی پله 2",
+              "stepNumber": 2,
+              "questions": [
+                {
+                  "id": "q-1-1",
+                  "question": "چه عاملی تفاوت میان دو مکتب عمده در تاریخ معاصر جهان را رقم می‌زند؟",
+                  "category": "درک مفهومی",
+                  "options": [
+                    "اختلاف در فرضیات وجودی و معرفت‌شناختی اولیه",
+                    "نوع ترجمه لغات",
+                    "سال تولد محققان",
+                    "موقعیت جغرافیایی صرف"
+                  ],
+                  "correctIndex": 0,
+                  "mentorFeedback": "تمایز مکاتب فکری عمدتاً برخاسته از اختلاف در مفروضات بنیادین هستی‌شناختی و روش‌شناختی آنان است.",
+                  "wisdomPoints": 20
+                },
+                {
+                  "id": "q-1-2",
+                  "question": "چرا در مطالعه تاریخ معاصر جهان باید میان مثال‌های عینی و مفهوم کلی تفکیک قائل شد؟",
+                  "category": "تفکر نقادانه",
+                  "options": [
+                    "چون مثال‌ها تنها یک مصداق جزیی هستند و نباید با اصل قاعده یکی انگاشته شوند",
+                    "چون مثال‌ها کلاً غیرقابل اعتمادند",
+                    "برای طولانی‌تر شدن بحث‌ها",
+                    "چون دانشمندان این‌طور خواسته‌اند"
+                  ],
+                  "correctIndex": 0,
+                  "mentorFeedback": "دقیقاً؛ مثال‌ها به فهم کمک می‌کنند اما هرگز جایگزین تعریف جامع و مانع یک مفهوم کلی نمی‌شوند.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "مهارت جای‌گذاری هر نظریه در بستر مکتبی و تاریخی مناسب خود.",
+            "status": "locked"
+          },
+          {
+            "id": "step-path-1792079913581-3",
+            "pathId": "path-1792079913581",
+            "stepNumber": 3,
+            "totalSteps": 5,
+            "title": "روش‌شناسی عملی و آزمون استدلال در تاریخ معاصر جهان",
+            "subtitle": "چگونه ایده‌ها را در موقعیت‌های واقعی ارزیابی و نقادی کنیم؟",
+            "category": "تاریخ معاصر جهان",
+            "level": "beginner",
+            "durationMinutes": 15,
+            "introDescription": "در این پله گام‌به‌گام با چگونه ایده‌ها را در موقعیت‌های واقعی ارزیابی و نقادی کنیم؟ آشنا می‌شوید و مهارت‌های ادراکی خود را صیقل می‌دهید.",
+            "podcastTitle": "پادکست کوتاه: مرور صوتی پله 3",
+            "podcastDuration": "۰۱:۴۵",
+            "objectives": [
+              {
+                "id": "ob-2-1",
+                "title": "۱. شناخت ژرف ساختارهای پله 3",
+                "description": "بررسی ارتباط مفهومی میان نظریه‌ها و کاربردها."
+              },
+              {
+                "id": "ob-2-2",
+                "title": "۲. تمایز میان پیش‌فرض‌ها و گزاره‌های اثبات‌شده",
+                "description": "کشف تناقضات در تعاریف سطحی و دستیابی به گزاره‌های آزموده."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "منطق پژوهش و سنجش در تاریخ معاصر جهان",
+              "author": "کارل پوپر و متفکران روش‌شناسی",
+              "chapter": "فصل 3: تحلیل جامع",
+              "pageCount": 24,
+              "estimatedMinutes": 15,
+              "quote": "«معیار علمی بودن هر نظریه، ابطال‌پذیری و مقاومت آن در برابر سنجش‌های دقیق است.»",
+              "quoteCitation": "کارل پوپر و متفکران روش‌شناسی",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBh2oQ1S2rSRrjanmYlIrR513QKCp3PpuQ-Po8YlDa0Yp6RSCIMMql3lU7giYaiEnliiIeZY7GiCKHWrvQ7d_aCn5V_x6G0B-9tmgI1r-YAryZ4FfYFrNsHgBHh46BibWvAZoNFNcRLy0jhlFBuNzoxydVfKjDnBVp-i47NGLYyVJcWWoxrIv0pW4YA_vtBIABGVoMMSvvimt0XS5zo9FUdohRiaDZ7JcuGNvakIZMo6DmHPpTF4Nys"
+            },
+            "passage": {
+              "title": "روش‌شناسی عملی و آزمون استدلال در تاریخ معاصر جهان",
+              "bookTitle": "منطق پژوهش و سنجش در تاریخ معاصر جهان",
+              "author": "کارل پوپر و متفکران روش‌شناسی",
+              "chapter": "فصل 3",
+              "pageNumber": 54,
+              "totalPages": 120,
+              "estimatedMinutes": 6,
+              "highlightQuote": "«معیار علمی بودن هر نظریه، ابطال‌پذیری و مقاومت آن در برابر سنجش‌های دقیق است.»",
+              "paragraphs": [
+                "ورود به ساحت تفکر در حوزه تاریخ معاصر جهان مستلزم فرارفتن از انگاره‌های متعارف است. ما در این مرحله نشان می‌دهیم که چرا تعاریف کلیشه‌ای قادر به تبیین موارد پیچیده نیستند و چگونه نگاه ساختاریافته امکان گشودن گره‌های فکری را فراهم می‌کند.",
+                "تحقیقات متفکران برجسته نشان می‌دهد که بدون فهم دقیق بنیان‌ها، ساختارهای پیشرفته‌تر دستخوش تزلزل می‌گردند. از این رو، تامل ژرف بر گزاره‌های این پله، پی‌ریزی مطمئنی برای کل مسیر پیش روی شما خواهد بود."
+              ],
+              "footnote": {
+                "title": "مرجع علمی پله 3",
+                "description": "این گزیده از کتاب معتبر «منطق پژوهش و سنجش در تاریخ معاصر جهان» اقتباس شده و با اهداف آموزشی درک اصول و جهان‌بینی کلی همگام‌سازی گردیده است.",
+                "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuA-u_H7iUlNwZkHtwSR9745xMQN_6aH7XhyWHrpYWxPYBn4xNQ8JQbkFIvm2Xh47aI8e1N4QWED7jfyHtiJoGZvpmzTA7TBl2ZVS_tVygy9C9Y6elY66f8EYOTbU0AWcN6f_hl3yOzVs2sxtP0nQf2vGnz8hjM7SmXue3dVPxt-e3VdyDPIFKI4tiZTGzjT2Fcqt85wi9OrsF69btM08xnGPiZvZHowuybfqY2kokOTK3hMtZdkiNwG"
+              }
+            },
+            "quiz": {
+              "title": "سنجش ادراکی پله 3",
+              "stepNumber": 3,
+              "questions": [
+                {
+                  "id": "q-2-1",
+                  "question": "معیار اصلی اعتبار یک مدل یا فرضیه در این پله چیست؟",
+                  "category": "درک مفهومی",
+                  "options": [
+                    "تعداد افراد معتقد به آن",
+                    "سازگاری درونی منطقی و قابلیت آزمون‌پذیری تجربی/مفهومی",
+                    "پیچیدگی واژگان",
+                    "قدمت تاریخی"
+                  ],
+                  "correctIndex": 1,
+                  "mentorFeedback": "انسجام منطقی درونی و توانایی پاسخ به تناقضات، ستون فقرات هر اندیشه استوار است.",
+                  "wisdomPoints": 20
+                },
+                {
+                  "id": "q-2-2",
+                  "question": "چرا در مطالعه تاریخ معاصر جهان باید میان مثال‌های عینی و مفهوم کلی تفکیک قائل شد؟",
+                  "category": "تفکر نقادانه",
+                  "options": [
+                    "چون مثال‌ها تنها یک مصداق جزیی هستند و نباید با اصل قاعده یکی انگاشته شوند",
+                    "چون مثال‌ها کلاً غیرقابل اعتمادند",
+                    "برای طولانی‌تر شدن بحث‌ها",
+                    "چون دانشمندان این‌طور خواسته‌اند"
+                  ],
+                  "correctIndex": 0,
+                  "mentorFeedback": "دقیقاً؛ مثال‌ها به فهم کمک می‌کنند اما هرگز جایگزین تعریف جامع و مانع یک مفهوم کلی نمی‌شوند.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "تسلط بر روش پرسشگری و اعتبارسنجی فرضیه‌ها در برابر شواهد و داده‌ها.",
+            "status": "locked"
+          },
+          {
+            "id": "step-path-1792079913581-4",
+            "pathId": "path-1792079913581",
+            "stepNumber": 4,
+            "totalSteps": 5,
+            "title": "کاربرد عمیق و تحلیل موارد موردی پیشرفته در تاریخ معاصر جهان",
+            "subtitle": "بررسی چالش‌های معاصر و سناریوهای حل مسئله در سطح پیشرو.",
+            "category": "تاریخ معاصر جهان",
+            "level": "beginner",
+            "durationMinutes": 15,
+            "introDescription": "در این پله گام‌به‌گام با بررسی چالش‌های معاصر و سناریوهای حل مسئله در سطح پیشرو. آشنا می‌شوید و مهارت‌های ادراکی خود را صیقل می‌دهید.",
+            "podcastTitle": "پادکست کوتاه: مرور صوتی پله 4",
+            "podcastDuration": "۰۱:۴۵",
+            "objectives": [
+              {
+                "id": "ob-3-1",
+                "title": "۱. شناخت ژرف ساختارهای پله 4",
+                "description": "بررسی ارتباط مفهومی میان نظریه‌ها و کاربردها."
+              },
+              {
+                "id": "ob-3-2",
+                "title": "۲. تمایز میان پیش‌فرض‌ها و گزاره‌های اثبات‌شده",
+                "description": "کشف تناقضات در تعاریف سطحی و دستیابی به گزاره‌های آزموده."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "مباحث پیشرفته و روندهای نوین در تاریخ معاصر جهان",
+              "author": "گروه مطالعات تطبیقی دانشگاه آکسفورد",
+              "chapter": "فصل 4: تحلیل جامع",
+              "pageCount": 24,
+              "estimatedMinutes": 15,
+              "quote": "«نظریه‌ای که به عمل بدل نشود، درختی بی‌ثمر در باغ ذهن است.»",
+              "quoteCitation": "گروه مطالعات تطبیقی دانشگاه آکسفورد",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBh2oQ1S2rSRrjanmYlIrR513QKCp3PpuQ-Po8YlDa0Yp6RSCIMMql3lU7giYaiEnliiIeZY7GiCKHWrvQ7d_aCn5V_x6G0B-9tmgI1r-YAryZ4FfYFrNsHgBHh46BibWvAZoNFNcRLy0jhlFBuNzoxydVfKjDnBVp-i47NGLYyVJcWWoxrIv0pW4YA_vtBIABGVoMMSvvimt0XS5zo9FUdohRiaDZ7JcuGNvakIZMo6DmHPpTF4Nys"
+            },
+            "passage": {
+              "title": "کاربرد عمیق و تحلیل موارد موردی پیشرفته در تاریخ معاصر جهان",
+              "bookTitle": "مباحث پیشرفته و روندهای نوین در تاریخ معاصر جهان",
+              "author": "گروه مطالعات تطبیقی دانشگاه آکسفورد",
+              "chapter": "فصل 4",
+              "pageNumber": 72,
+              "totalPages": 120,
+              "estimatedMinutes": 6,
+              "highlightQuote": "«نظریه‌ای که به عمل بدل نشود، درختی بی‌ثمر در باغ ذهن است.»",
+              "paragraphs": [
+                "ورود به ساحت تفکر در حوزه تاریخ معاصر جهان مستلزم فرارفتن از انگاره‌های متعارف است. ما در این مرحله نشان می‌دهیم که چرا تعاریف کلیشه‌ای قادر به تبیین موارد پیچیده نیستند و چگونه نگاه ساختاریافته امکان گشودن گره‌های فکری را فراهم می‌کند.",
+                "تحقیقات متفکران برجسته نشان می‌دهد که بدون فهم دقیق بنیان‌ها، ساختارهای پیشرفته‌تر دستخوش تزلزل می‌گردند. از این رو، تامل ژرف بر گزاره‌های این پله، پی‌ریزی مطمئنی برای کل مسیر پیش روی شما خواهد بود."
+              ],
+              "footnote": {
+                "title": "مرجع علمی پله 4",
+                "description": "این گزیده از کتاب معتبر «مباحث پیشرفته و روندهای نوین در تاریخ معاصر جهان» اقتباس شده و با اهداف آموزشی درک اصول و جهان‌بینی کلی همگام‌سازی گردیده است.",
+                "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuA-u_H7iUlNwZkHtwSR9745xMQN_6aH7XhyWHrpYWxPYBn4xNQ8JQbkFIvm2Xh47aI8e1N4QWED7jfyHtiJoGZvpmzTA7TBl2ZVS_tVygy9C9Y6elY66f8EYOTbU0AWcN6f_hl3yOzVs2sxtP0nQf2vGnz8hjM7SmXue3dVPxt-e3VdyDPIFKI4tiZTGzjT2Fcqt85wi9OrsF69btM08xnGPiZvZHowuybfqY2kokOTK3hMtZdkiNwG"
+              }
+            },
+            "quiz": {
+              "title": "سنجش ادراکی پله 4",
+              "stepNumber": 4,
+              "questions": [
+                {
+                  "id": "q-3-1",
+                  "question": "چگونه می‌توان نظریه‌های نظری را به تصمیم‌گیری عملی در تاریخ معاصر جهان پیوند زد؟",
+                  "category": "درک مفهومی",
+                  "options": [
+                    "از طریق ساخت مدل‌های کاربردی و سنجش پیامدهای عینی",
+                    "با نادیده گرفتن شرایط زمینه",
+                    "با انتظار برای قطعیت صد درصدی",
+                    "فقط از طریق شهود حسی"
+                  ],
+                  "correctIndex": 0,
+                  "mentorFeedback": "پیوند نظر و عمل از مجرای مدل‌سازی دقیق و بازخوردگیری مداوم از پیامدهای تصمیم محقق می‌شود.",
+                  "wisdomPoints": 20
+                },
+                {
+                  "id": "q-3-2",
+                  "question": "چرا در مطالعه تاریخ معاصر جهان باید میان مثال‌های عینی و مفهوم کلی تفکیک قائل شد؟",
+                  "category": "تفکر نقادانه",
+                  "options": [
+                    "چون مثال‌ها تنها یک مصداق جزیی هستند و نباید با اصل قاعده یکی انگاشته شوند",
+                    "چون مثال‌ها کلاً غیرقابل اعتمادند",
+                    "برای طولانی‌تر شدن بحث‌ها",
+                    "چون دانشمندان این‌طور خواسته‌اند"
+                  ],
+                  "correctIndex": 0,
+                  "mentorFeedback": "دقیقاً؛ مثال‌ها به فهم کمک می‌کنند اما هرگز جایگزین تعریف جامع و مانع یک مفهوم کلی نمی‌شوند.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "قابلیت ترکیب نظریه‌ها برای حل مسائل نوظهور و تولید بینش تازه.",
+            "status": "locked"
+          },
+          {
+            "id": "step-path-1792079913581-5",
+            "pathId": "path-1792079913581",
+            "stepNumber": 5,
+            "totalSteps": 5,
+            "title": "سنتز نهایی و صورت‌بندی دیدگاه شخصی نقادانه",
+            "subtitle": "جمع‌بندی زنجیره یادگیری، پاسخ به شبهات و ترسیم افق‌های پژوهش بعدی.",
+            "category": "تاریخ معاصر جهان",
+            "level": "beginner",
+            "durationMinutes": 15,
+            "introDescription": "در این پله گام‌به‌گام با جمع‌بندی زنجیره یادگیری، پاسخ به شبهات و ترسیم افق‌های پژوهش بعدی. آشنا می‌شوید و مهارت‌های ادراکی خود را صیقل می‌دهید.",
+            "podcastTitle": "پادکست کوتاه: مرور صوتی پله 5",
+            "podcastDuration": "۰۱:۴۵",
+            "objectives": [
+              {
+                "id": "ob-4-1",
+                "title": "۱. شناخت ژرف ساختارهای پله 5",
+                "description": "بررسی ارتباط مفهومی میان نظریه‌ها و کاربردها."
+              },
+              {
+                "id": "ob-4-2",
+                "title": "۲. تمایز میان پیش‌فرض‌ها و گزاره‌های اثبات‌شده",
+                "description": "کشف تناقضات در تعاریف سطحی و دستیابی به گزاره‌های آزموده."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "رساله در خرد سنجش‌گر و افق‌های آینده تاریخ معاصر جهان",
+              "author": "ایمانوئل کانت و شارحان معاصر",
+              "chapter": "فصل 5: تحلیل جامع",
+              "pageCount": 24,
+              "estimatedMinutes": 15,
+              "quote": "«جرات اندیشیدن داشته باش؛ خرد راستین در استقلال تفکر متولد می‌شود.»",
+              "quoteCitation": "ایمانوئل کانت و شارحان معاصر",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBh2oQ1S2rSRrjanmYlIrR513QKCp3PpuQ-Po8YlDa0Yp6RSCIMMql3lU7giYaiEnliiIeZY7GiCKHWrvQ7d_aCn5V_x6G0B-9tmgI1r-YAryZ4FfYFrNsHgBHh46BibWvAZoNFNcRLy0jhlFBuNzoxydVfKjDnBVp-i47NGLYyVJcWWoxrIv0pW4YA_vtBIABGVoMMSvvimt0XS5zo9FUdohRiaDZ7JcuGNvakIZMo6DmHPpTF4Nys"
+            },
+            "passage": {
+              "title": "سنتز نهایی و صورت‌بندی دیدگاه شخصی نقادانه",
+              "bookTitle": "رساله در خرد سنجش‌گر و افق‌های آینده تاریخ معاصر جهان",
+              "author": "ایمانوئل کانت و شارحان معاصر",
+              "chapter": "فصل 5",
+              "pageNumber": 90,
+              "totalPages": 120,
+              "estimatedMinutes": 6,
+              "highlightQuote": "«جرات اندیشیدن داشته باش؛ خرد راستین در استقلال تفکر متولد می‌شود.»",
+              "paragraphs": [
+                "ورود به ساحت تفکر در حوزه تاریخ معاصر جهان مستلزم فرارفتن از انگاره‌های متعارف است. ما در این مرحله نشان می‌دهیم که چرا تعاریف کلیشه‌ای قادر به تبیین موارد پیچیده نیستند و چگونه نگاه ساختاریافته امکان گشودن گره‌های فکری را فراهم می‌کند.",
+                "تحقیقات متفکران برجسته نشان می‌دهد که بدون فهم دقیق بنیان‌ها، ساختارهای پیشرفته‌تر دستخوش تزلزل می‌گردند. از این رو، تامل ژرف بر گزاره‌های این پله، پی‌ریزی مطمئنی برای کل مسیر پیش روی شما خواهد بود."
+              ],
+              "footnote": {
+                "title": "مرجع علمی پله 5",
+                "description": "این گزیده از کتاب معتبر «رساله در خرد سنجش‌گر و افق‌های آینده تاریخ معاصر جهان» اقتباس شده و با اهداف آموزشی درک اصول و جهان‌بینی کلی همگام‌سازی گردیده است.",
+                "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuA-u_H7iUlNwZkHtwSR9745xMQN_6aH7XhyWHrpYWxPYBn4xNQ8JQbkFIvm2Xh47aI8e1N4QWED7jfyHtiJoGZvpmzTA7TBl2ZVS_tVygy9C9Y6elY66f8EYOTbU0AWcN6f_hl3yOzVs2sxtP0nQf2vGnz8hjM7SmXue3dVPxt-e3VdyDPIFKI4tiZTGzjT2Fcqt85wi9OrsF69btM08xnGPiZvZHowuybfqY2kokOTK3hMtZdkiNwG"
+              }
+            },
+            "quiz": {
+              "title": "سنجش ادراکی پله 5",
+              "stepNumber": 5,
+              "questions": [
+                {
+                  "id": "q-4-1",
+                  "question": "مقصود از استقلال فکری در نقطه اوج این مسیر یادگیری چیست؟",
+                  "category": "درک مفهومی",
+                  "options": [
+                    "رد کردن تمام آرای پیشینیان",
+                    "توانایی بازبینی نقادانه آرای دیگران همراه با ارائه استدلال مدلل",
+                    "اصرار بر نظرات اولیه",
+                    "بی‌تفاوتی نسبت به حقایق دیگر"
+                  ],
+                  "correctIndex": 1,
+                  "mentorFeedback": "استقلال عقلانی به معنای بی‌انصافی نسبت به گذشتگان نیست، بلکه سنجش عیار ادعاها با ترازوی خرد و استدلال است.",
+                  "wisdomPoints": 20
+                },
+                {
+                  "id": "q-4-2",
+                  "question": "چرا در مطالعه تاریخ معاصر جهان باید میان مثال‌های عینی و مفهوم کلی تفکیک قائل شد؟",
+                  "category": "تفکر نقادانه",
+                  "options": [
+                    "چون مثال‌ها تنها یک مصداق جزیی هستند و نباید با اصل قاعده یکی انگاشته شوند",
+                    "چون مثال‌ها کلاً غیرقابل اعتمادند",
+                    "برای طولانی‌تر شدن بحث‌ها",
+                    "چون دانشمندان این‌طور خواسته‌اند"
+                  ],
+                  "correctIndex": 0,
+                  "mentorFeedback": "دقیقاً؛ مثال‌ها به فهم کمک می‌کنند اما هرگز جایگزین تعریف جامع و مانع یک مفهوم کلی نمی‌شوند.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "دستیابی به استقلال عقلانی و توانایی مشارکت فعال در مباحثات تخصصی.",
+            "status": "locked"
+          }
+        ],
+        "weeklyFocus": "تسلط بر پایه‌ها و مفاهیم بنیادین تاریخ معاصر جهان",
+        "heroImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuCLOQoWXCzTxJZVmYwWnAym9v6ozeejVqlPmeyZsfkOBLZOdf_Qv1XXrW-b1z9tTnf52_4p__IUnRCJD3FJfWVOOS5yqQOjbjTx239C2uEB31FVrMq16oS7aTHihsuir7-Px3zXfbFbM_x8D0xkBNYa3NKZNHIHPNr6bQonKxcrTZLIw0iLOfYGAeKtKRzQbLdUOTMj7FwkS9QopjGePLXF72j0S9TEFnl_8LHJEXgDLEF-GFZLjiP-",
+        "createdAt": "2026-10-15T15:58:43.043Z",
+        "updatedAt": "2026-10-15T15:58:43.043Z",
+        "status": "not_started"
+      },
+      {
+        "id": "path-ai-deep-learning",
+        "userId": "demo-ali",
+        "title": "مبانی هوش مصنوعی و یادگیری عمیق",
+        "goal": "درک معماری شبکه‌های عصبی ترنسفورمر، توجه چندگانه و یادگیری خودنظارتی",
+        "category": "هوش مصنوعی",
+        "description": "از پرسپترون ساده تا مدل‌های زبانی بزرگ؛ درک ریاضیات و ساختار شبکه‌های عصبی مدرن.",
+        "level": "advanced",
+        "dailyMinutes": 30,
+        "totalSteps": 6,
+        "currentStepIndex": 4,
+        "progressPercent": 67,
+        "estimatedWeeks": 6,
+        "weeklyFocus": "مکانیزم توجه (Attention Mechanism) و لایه‌های ترنسفورمر",
+        "heroImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuCn5mDHhtJ8sHz68Ii4BCl_0QzJOtYnPqox4Nx207qv5lawFaVOjDB_FRHfNbrPYSRhBlpwfVTLUahCLxF_lHtJCqgA1x4JtGBAvBm87yoHamSNWFznpNnyml8tAjOxpjQS9ov5tdE8sIln8sO_z_QtiDGSZPX5XDUh_brCxKXZ4d1u_lzHgYTerZ5eMhfiD8jmYaNaeAsrkE3Xd59ADp3obes89kdpN06Lqh7zrNda-uaA3I6TaAPS",
+        "createdAt": "2024-09-10T08:00:00.000Z",
+        "updatedAt": "2026-10-15T15:56:00.942Z",
+        "status": "in_progress",
+        "startedAt": "2024-09-10T08:00:00.000Z",
+        "lastActivityAt": "2024-10-14T18:20:00.000Z",
+        "steps": [
+          {
+            "id": "step-ai-1",
+            "pathId": "path-ai-deep-learning",
+            "stepNumber": 1,
+            "totalSteps": 6,
+            "title": "ریاضیات جبر خطی و گرادیان کاهشی",
+            "subtitle": "بردارها، ماتریس‌ها و بهینه‌سازی تابع هزینه با گرادیان کاهشی تصادفی (SGD).",
+            "category": "مبانی ریاضی",
+            "level": "intermediate",
+            "durationMinutes": 30,
+            "introDescription": "چگونه بهینه‌سازها با محاسبه مشتقات جزئی وزن‌های شبکه را اصلاح می‌کنند.",
+            "podcastTitle": "پادکست: نقشه هندسی یادگیری ماشین",
+            "podcastDuration": "۰۲:۴۰",
+            "objectives": [
+              {
+                "id": "ob-ai-1",
+                "title": "درک گرادیان و هایپرپارامتر نرخ یادگیری",
+                "description": "نقش learning rate در همگرایی مدل."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "کتاب یادگیری عمیق",
+              "author": "ایان گودفلو",
+              "chapter": "فصل ۴: محاسبات عددی و بهینه‌سازی",
+              "pageCount": 25,
+              "estimatedMinutes": 25,
+              "quote": "«بهینه‌سازی در یادگیری عمیق، یافتن کمینه سراسری در فضاهای پرپیچ‌وخم و غیرمحدب است.»",
+              "quoteCitation": "گودفلو",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBaCGpekdp-BDMqQrSoEVoIwr6MDMJOAcKe8RmQVnZ0pf08PyHVoLkF3oa6EpD7VcOIho5nDFhBBKf09kRIAg4BnNDvbSu-qlmK4jxydXnSflavJg5qvvzB3KvIXn2FS59lwIsUu2o5Clnarw0Xfb4b9Z6GD2sFs-fFz5vbv2ydGBVJ3kl-JU8HXWfuGfIVNMEYU3talbDBkpvf8oiXrPIlFMW1AzEGQnBmrBi4bsMvm1H0jUzg-Wan"
+            },
+            "passage": {
+              "title": "اصول مشتق‌گیری زنجیره‌ای و پس‌انتشار",
+              "bookTitle": "یادگیری عمیق گودفلو",
+              "author": "ایان گودفلو",
+              "chapter": "فصل ۶",
+              "pageNumber": 180,
+              "totalPages": 700,
+              "estimatedMinutes": 10,
+              "highlightQuote": "«الگوریتم پس‌انتشار خطای خروجی را با قاعده زنجیره‌ای به لایه‌های اولیه می‌رساند.»",
+              "paragraphs": [
+                "الگوریتم انتشار به عقب (Backpropagation) هسته مرکزی آموزش شبکه‌های عصبی پیش‌خور است."
+              ]
+            },
+            "quiz": {
+              "title": "سنجش پله ۱ یادگیری عمیق",
+              "stepNumber": 1,
+              "questions": [
+                {
+                  "id": "q-ai-1",
+                  "question": "هدف اصلی الگوریتم انتشار به عقب (Backpropagation) چیست؟",
+                  "category": "بهینه‌سازی",
+                  "options": [
+                    "محاسبه گرادیان تابع هزینه نسبت به وزن‌ها با قاعده زنجیره‌ای",
+                    "کاهش حجم داده‌های ورودی",
+                    "رسم نمودار دقت مدل",
+                    "ذخیره وزن‌ها در حافظه کش"
+                  ],
+                  "correctIndex": 0,
+                  "mentorFeedback": "پس‌انتشار با استفاده از قاعده زنجیره‌ای دیفرانسیل، سهم هر پارامتر را در خطای نهایی محاسبه می‌کند.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "الگوریتم پس‌انتشار امکان اصلاح هوشمندانه میلیون‌ها وزن را فراهم می‌آورد.",
+            "status": "completed",
+            "startedAt": "2024-09-12T09:00:00.000Z",
+            "completedAt": "2024-09-15T11:00:00.000Z"
+          },
+          {
+            "id": "step-ai-2",
+            "pathId": "path-ai-deep-learning",
+            "stepNumber": 2,
+            "totalSteps": 6,
+            "title": "شبکه‌های پیچشی (CNN) و بینایی ماشین",
+            "subtitle": "فیلترها، کانولوشن دوبعدی و ادراک ویژگی‌های سلسله‌مراتبی تصویر.",
+            "category": "بینایی ماشین",
+            "level": "intermediate",
+            "durationMinutes": 30,
+            "introDescription": "شناخت چگونگی تشخیص لبه‌ها، بافت‌ها و اشیاء با لایه‌های پیچشی.",
+            "podcastTitle": "پادکست: چشم مصنوعی چگونه می‌بیند",
+            "podcastDuration": "۰۲:۲۰",
+            "objectives": [
+              {
+                "id": "ob-ai-2",
+                "title": "مفهوم میدان دید موثر و Pooling",
+                "description": "کاهش ابعاد و حفظ عدم وابستگی مکانی."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "یادگیری عمیق کاربردی با پایتون",
+              "author": "فرانسوا شوله",
+              "chapter": "فصل ۵: شبکه‌های عصبی پیچشی",
+              "pageCount": 30,
+              "estimatedMinutes": 25,
+              "quote": "«لایه‌های ابتدایی لبه‌ها را می‌بینند، لایه‌های میانی اشکال را، و لایه‌های انتهایی مفهوم شیء را.»",
+              "quoteCitation": "فرانسوا شوله",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuDZwvUoAeHukBlEy-GdIxBgWKojxlbyVDxiZoM8_itjsLEjEyREVt8TxAKygnbs5mSZMMWL67-xV8y4vgRgv1BThILgbTKDNKGI3MaVY7HMO7BM9dxTzCFmf6O5QdUnvIXrRgcy9qfntjvGdcUVFnruzZggKTw8dUzmnYzO52wboDK_oYe_3OJGVsgbWH9MY9dNWhIBbA8feVuLkJOzTc_B2pDr2soCPI7tLJLjorPWQ5GvU5dvgiI3"
+            },
+            "passage": {
+              "title": "سلسله‌مراتب بازنمایی بصری",
+              "bookTitle": "یادگیری عمیق با پایتون",
+              "author": "شوله",
+              "chapter": "فصل ۵",
+              "pageNumber": 120,
+              "totalPages": 400,
+              "estimatedMinutes": 10,
+              "highlightQuote": "«فیلترهای یادگرفته‌شده در فضا جابه‌جایی‌ناپذیر (Translation Invariant) هستند.»",
+              "paragraphs": [
+                "ویژگی شاخص کانولوشن این است که یک الگو را در هر کجای تصویر ظاهر شود تشخیص می‌دهد."
+              ]
+            },
+            "quiz": {
+              "title": "سنجش پله ۲ یادگیری عمیق",
+              "stepNumber": 2,
+              "questions": [
+                {
+                  "id": "q-ai-2",
+                  "question": "مزیت کلیدی لایه‌های کانولوشن نسبت به لایه‌های کاملاً متصل (Dense) چیست؟",
+                  "category": "معماری شبکه",
+                  "options": [
+                    "اشتراک وزن‌ها و پایستگی نسبت به جابه‌جایی الگوها در تصویر",
+                    "سرعت صفر در پردازش",
+                    "عدم نیاز به داده‌های آموزشی",
+                    "استفاده انحصاری از اعداد صحیح"
+                  ],
+                  "correctIndex": 0,
+                  "mentorFeedback": "اشتراک وزن‌ها پارامترهای مدل را به شدت کاهش داده و امکان تعمیم به هر موقعیتی در تصویر را ایجاد می‌کند.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "لایه‌های کانولوشن ویژگی‌های فضایی را با اشتراک وزن‌ها استخراج می‌کنند.",
+            "status": "completed",
+            "startedAt": "2024-09-18T10:00:00.000Z",
+            "completedAt": "2024-09-24T12:00:00.000Z"
+          },
+          {
+            "id": "step-ai-3",
+            "pathId": "path-ai-deep-learning",
+            "stepNumber": 3,
+            "totalSteps": 6,
+            "title": "شبکه‌های بازگشتی (RNN) و مدل‌سازی توالی‌ها",
+            "subtitle": "حافظه سلولی، LSTM و GRU در پردازش متن و داده‌های زمانی.",
+            "category": "پردازش زبان طبیعی",
+            "level": "intermediate",
+            "durationMinutes": 30,
+            "introDescription": "حل چالش فراموشی بلندمدت و محوشدگی گرادیان با سلول‌های دروازه‌ای.",
+            "podcastTitle": "پادکست: سفر در زمان داده‌ها با LSTM",
+            "podcastDuration": "۰۲:۱۵",
+            "objectives": [
+              {
+                "id": "ob-ai-3",
+                "title": "فهم عملکرد دروازه فراموشی (Forget Gate)",
+                "description": "مدیریت اطلاعات پیشین در توالی‌های طولانی."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "پردازش زبان طبیعی با یادگیری عمیق",
+              "author": "کریستوفر منینگ",
+              "chapter": "فصل ۳: RNNها و مدل‌های توالی",
+              "pageCount": 28,
+              "estimatedMinutes": 25,
+              "quote": "«زبان ذاتا ساختار توالی دارد و معنا وابسته به بافتار تاریخی جمله است.»",
+              "quoteCitation": "منینگ",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuAu-DY6W-sZgHkNyVCI5pJSzqyoBGtg6b1rmdMqkq-xBZHW1ALzUTKNALw1CINlJjcqtb76AEF1X9PHb1dRp-kydhiyaWquHZ1AlIjgLe5diLwLVJS1RI9N6TWM_GlH4swDvTGSmObuk7oboBQdCujOe6Kn_S-z5rhVQAm_9_16XTvoIElhg9LZVNJd2bcgEfRB1uvzYwUB6_umGTke3S5OKXMXinztlar5tqUYVd1zia6YszbacOQN"
+            },
+            "passage": {
+              "title": "چالش گرادیان محوشونده در شبکه‌های بازگشتی",
+              "bookTitle": "یادگیری عمیق",
+              "author": "منینگ",
+              "chapter": "فصل ۳",
+              "pageNumber": 85,
+              "totalPages": 320,
+              "estimatedMinutes": 8,
+              "highlightQuote": "«LSTM با ایجاد بزرگراه گرادیانی، جریان اطلاعات را تا صدها گام زمانی پایدار نگه می‌دارد.»",
+              "paragraphs": [
+                "بدون سازوکار دروازه‌ای، گرادیان‌ها در توالی‌های طولانی نمایی کاهش یافته و یادگیری متوقف می‌شود."
+              ]
+            },
+            "quiz": {
+              "title": "سنجش پله ۳ یادگیری عمیق",
+              "stepNumber": 3,
+              "questions": [
+                {
+                  "id": "q-ai-3",
+                  "question": "نقش دروازه فراموشی (Forget Gate) در سلول LSTM چیست؟",
+                  "category": "معماری LSTM",
+                  "options": [
+                    "تصمیم‌گیری در مورد اینکه کدام بخش از حالت سلول پیشین باید دور ریخته شود",
+                    "خاموش کردن کل شبکه",
+                    "افزایش نرخ یادگیری به دو برابر",
+                    "حذف واژگان نادرست املایی"
+                  ],
+                  "correctIndex": 0,
+                  "mentorFeedback": "دروازه فراموشی با ضرب مقادیر بین ۰ و ۱ تعیین می‌کند چه مقدار از اطلاعات کهنه در سلول باقی بماند.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "واحدهای بازگشتی دروازه‌دار راه را برای درک توالی‌های پیوسته گشودند.",
+            "status": "completed",
+            "startedAt": "2024-09-28T09:30:00.000Z",
+            "completedAt": "2024-10-02T15:00:00.000Z"
+          },
+          {
+            "id": "step-ai-4",
+            "pathId": "path-ai-deep-learning",
+            "stepNumber": 4,
+            "totalSteps": 6,
+            "title": "مکانیسم توجه و مقاله Attention Is All You Need",
+            "subtitle": "محاسبه ضرب ماتریسی پرس‌وجو، کلید و ارزش (Q, K, V) و توجه خودبه‌خودی.",
+            "category": "معماری ترنسفورمر",
+            "level": "advanced",
+            "durationMinutes": 35,
+            "introDescription": "چگونه توجه همزمان به کل جمله، محدودیت‌های پردازش متوالی RNNها را شکست داد.",
+            "podcastTitle": "پادکست: طلوع عصر ترنسفورمر",
+            "podcastDuration": "۰۲:۵۰",
+            "objectives": [
+              {
+                "id": "ob-ai-4",
+                "title": "فرمول Scaled Dot-Product Attention",
+                "description": "درک Softmax((QK^T)/sqrt(d_k)) * V."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "مقاله Attention Is All You Need",
+              "author": "اشیش واسوانی و همکاران",
+              "chapter": "بخش ۳: معماری مدل",
+              "pageCount": 15,
+              "estimatedMinutes": 20,
+              "quote": "«ما ترنسفورمر را پیشنهاد می‌کنیم؛ مدلی که کاملاً بر مکانیزم توجه تکیه دارد.»",
+              "quoteCitation": "واسوانی",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBwKwR28srhwcrpKO0iCmrlm4GyCmTzOeQ-q7niExsAI8xLrqZZdmh4oPHO_MBF4EkImLj6QIAe27hHlKkm3HMKc-3Z-2QFxWkKNMhAhOLqMNUlpSc2CNU4osQulcc6uRUsta62x4T9xHZvwes_5bJ_6HX7KYFPhrV11lw4-CVRiLipArB3QilWrGGCVss633lXo2-sj_NbEaWaTquErGI5e_G7iCI9gICB8B9d9-T6F8zpM5VTwH7N"
+            },
+            "passage": {
+              "title": "توجه مقیاس‌شده ضرب داخلی",
+              "bookTitle": "مقاله‌های کلاسیک هوش مصنوعی",
+              "author": "گوگل ریسرچ",
+              "chapter": "بخش ۳.۲",
+              "pageNumber": 4,
+              "totalPages": 16,
+              "estimatedMinutes": 10,
+              "highlightQuote": "«توجه خودکار به هر کلمه اجازه می‌دهد پیوند مستقیمی با هر کلمه دیگر در جمله برقرار کند.»",
+              "paragraphs": [
+                "تقسیم بر ریشه بُعد کلید (sqrt(d_k)) از ورود سافت‌مکس به نواحی با گرادیان بی‌نهایت کوچک جلوگیری می‌کند."
+              ]
+            },
+            "quiz": {
+              "title": "سنجش پله ۴ یادگیری عمیق",
+              "stepNumber": 4,
+              "questions": [
+                {
+                  "id": "q-ai-4",
+                  "question": "چرا در فرمول Attention حاصل ضرب QK^T بر ریشه d_k تقسیم می‌شود؟",
+                  "category": "ریاضیات توجه",
+                  "options": [
+                    "برای جلوگیری از بزرگ شدن بیش‌ازحد مقادیر و اشباع تابع Softmax",
+                    "برای تبدیل ماتریس به بردار یک‌بعدی",
+                    "برای رمزنگاری مقادیر وزن‌ها",
+                    "برای کاهش تعداد لایه‌ها"
+                  ],
+                  "correctIndex": 0,
+                  "mentorFeedback": "اگر ابعاد بزرگ باشد، ضرب داخلی بسیار بزرگ می‌شود و گرادیان سافت‌مکس به صفر میل می‌کند؛ تقسیم بر ریشه بُعد این اثر را خنثی می‌کند.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "مکانیزم توجه موازی‌سازی یادگیری در توالی‌های عظیم را ممکن ساخت.",
+            "status": "completed",
+            "startedAt": "2024-10-05T09:00:00.000Z",
+            "completedAt": "2024-10-10T14:00:00.000Z"
+          },
+          {
+            "id": "step-ai-5",
+            "pathId": "path-ai-deep-learning",
+            "stepNumber": 5,
+            "totalSteps": 6,
+            "title": "مدل‌های زبانی بزرگ (LLM) و پس‌آموزش با RLHF",
+            "subtitle": "پیش‌آموزش خودنظارتی، تنظیم دقیق دستورالعمل و یادگیری تقویتی بر اساس بازخورد انسانی.",
+            "category": "هوش مصنوعی زایشی",
+            "level": "advanced",
+            "durationMinutes": 35,
+            "introDescription": "شناخت مسیر تبدیل یک مدل پیش‌بینی‌کننده کلمه بعدی به یک دستیار هوشمند، مفید و ایمن.",
+            "podcastTitle": "پادکست: راز هم‌راستاسازی هوش مصنوعی",
+            "podcastDuration": "۰۲:۳۵",
+            "objectives": [
+              {
+                "id": "ob-ai-5",
+                "title": "مفهوم مدل پاداش (Reward Model) و الگوریتم PPO",
+                "description": "هم‌راستاسازی خروجی مدل با ترجیحات انسانی."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "راهنمای جامع هوش مصنوعی مدرن",
+              "author": "استوارت راسل",
+              "chapter": "فصل ۲۶: مدل‌های بنیانی و اخلاق ماشین",
+              "pageCount": 30,
+              "estimatedMinutes": 25,
+              "quote": "«پیش‌آموزش به مدل دانش می‌دهد، اما هم‌راستاسازی به آن شخصیت و کاربردپذیری می‌بخشد.»",
+              "quoteCitation": "استوارت راسل",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuCsvj_DjEj6Q7gyOsc5PF0z8ukLQ-g6uyH_x4xCtB7apgm8hkvtMgMAfyKcomMa3PIhWyMs8ZxecWqek-W8Y5jJ8seTbFjTObcojZSnzuMcq90RjMgpvnQqKPd37c1XcRjPdSCqnmPvsca8u92xxBXz653J4yTvquJobejrfJZQaQ7r123YFnu-N3oRjd7Jw0FgQ6l7uxRxmoXWoHXrJFD3g-_9RN-QRvhHZyEzSdXkL5JdZrS2J89y"
+            },
+            "passage": {
+              "title": "هم‌راستاسازی زبانی با بازخورد انسانی",
+              "bookTitle": "هوش مصنوعی نوین",
+              "author": "راسل و نورویگ",
+              "chapter": "فصل ۲۶",
+              "pageNumber": 940,
+              "totalPages": 1100,
+              "estimatedMinutes": 10,
+              "highlightQuote": "«مدل پاداش معیاری عددی برای ارزیابی کیفیت و صداقت پاسخ‌های تولیدی ارائه می‌دهد.»",
+              "paragraphs": [
+                "با استفاده از بازخوردهای انسانی، مدل تقویتی یاد می‌گیرد پاسخ‌هایی مفید، صادق و بدون سوگیری تولید کند."
+              ]
+            },
+            "quiz": {
+              "title": "سنجش پله ۵ یادگیری عمیق",
+              "stepNumber": 5,
+              "questions": [
+                {
+                  "id": "q-ai-5",
+                  "question": "هدف اصلی مرحله RLHF در توسعه مدل‌های زبانی چیست؟",
+                  "category": "هم‌راستاسازی هوش مصنوعی",
+                  "options": [
+                    "هم‌راستاکردن رفتار و پاسخ‌های مدل با مقاصد، ارزش‌ها و انتظارات ایمنی انسان",
+                    "کاهش اندازه وزن‌های مدل روی دیسک",
+                    "ترجمه کدهای پایتون به C++",
+                    "جلوگیری از اتصال مدل به اینترنت"
+                  ],
+                  "correctIndex": 0,
+                  "mentorFeedback": "RLHF رفتار مدل را هدایت می‌کند تا از تولید پاسخ‌های مبهم، خطرناک یا نامربوط خودداری کند.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "هم‌راستاسازی پلی حیاتی میان قدرت محاسباتی خام و تجربه کاربری مفید است.",
+            "status": "current",
+            "startedAt": "2024-10-12T10:00:00.000Z"
+          },
+          {
+            "id": "step-ai-6",
+            "pathId": "path-ai-deep-learning",
+            "stepNumber": 6,
+            "totalSteps": 6,
+            "title": "استدلال زنجیره‌ای و عاملیت‌های هوشمند (AI Agents)",
+            "subtitle": "فراخوانی ابزار، ساختارهای ReAct و سیستم‌های چندعاملی خودمختار.",
+            "category": "عامل‌های هوشمند",
+            "level": "advanced",
+            "durationMinutes": 40,
+            "introDescription": "چگونه مدل‌های زبانی می‌توانند برنامه‌ریزی کنند، ابزارهای خارجی را به کار گیرند و مسائل پیچیده را حل نمایند.",
+            "podcastTitle": "پادکست: تولد عامل‌های هوشمند مستقل",
+            "podcastDuration": "۰۳:۰۰",
+            "objectives": [
+              {
+                "id": "ob-ai-6",
+                "title": "درک چارچوب ReAct (Reason + Act)",
+                "description": "هم‌افزایی استدلال زنجیره‌ای و تعامل با محیط."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "سیستم‌های چندعاملی و هوش مصنوعی مستقل",
+              "author": "مایکل وولدریج",
+              "chapter": "فصل ۱: تعریف عاملیت و استدلال تعاملی",
+              "pageCount": 30,
+              "estimatedMinutes": 25,
+              "quote": "«عاملیت توانایی ادراک، تصمیم‌گیری و اجرای عمل برای تغییر جهان است.»",
+              "quoteCitation": "وولدریج",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBaCGpekdp-BDMqQrSoEVoIwr6MDMJOAcKe8RmQVnZ0pf08PyHVoLkF3oa6EpD7VcOIho5nDFhBBKf09kRIAg4BnNDvbSu-qlmK4jxydXnSflavJg5qvvzB3KvIXn2FS59lwIsUu2o5Clnarw0Xfb4b9Z6GD2sFs-fFz5vbv2ydGBVJ3kl-JU8HXWfuGfIVNMEYU3talbDBkpvf8oiXrPIlFMW1AzEGQnBmrBi4bsMvm1H0jUzg-Wan"
+            },
+            "passage": {
+              "title": "استدلال زنجیره‌ای برای حل مسائل چندمرحله‌ای",
+              "bookTitle": "عامل‌های هوشمند",
+              "author": "وولدریج",
+              "chapter": "فصل ۴",
+              "pageNumber": 88,
+              "totalPages": 360,
+              "estimatedMinutes": 10,
+              "highlightQuote": "«فکر کردن قبل از عمل، درصد خطای تصمیم‌گیری هوش مصنوعی را به شدت کاهش می‌دهد.»",
+              "paragraphs": [
+                "عامل‌های هوشمند با شکستن اهداف بزرگ به زیرمسائل و استفاده از ابزارها قادر به پردازش اطلاعات محیطی هستند."
+              ]
+            },
+            "quiz": {
+              "title": "سنجش پله ۶ یادگیری عمیق",
+              "stepNumber": 6,
+              "questions": [
+                {
+                  "id": "q-ai-6",
+                  "question": "تفاوت یک AI Agent با یک LLM معمولی چیست؟",
+                  "category": "عاملیت هوشمند",
+                  "options": [
+                    "عامل توانایی برنامه‌ریزی، استفاده از ابزارهای خارجی و حلقه بازخورد از محیط را دارد",
+                    "عامل‌ها نیازی به ترنسفورمر ندارند",
+                    "عامل‌ها حافظه را حذف می‌کنند",
+                    "عامل‌ها فقط بر روی کامپیوترهای کوانتومی اجرا می‌شوند"
+                  ],
+                  "correctIndex": 0,
+                  "mentorFeedback": "عامل هوشمند با درک محیط، برنامه‌ریزی و فراخوانی ابزارها (APIs) به یک فاعل فعال تبدیل می‌شود.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "ترکیب تفکر زنجیره‌ای و ابزارها افق نوین عاملیت خودمختار را شکل داده است.",
+            "status": "locked"
+          }
+        ]
+      }
+    ],
+    "demo-fresh": [],
+    "user-1792079777650": [
+      {
+        "id": "path-1792079777666",
+        "userId": "user-1792079777650",
+        "title": "مسیر: هنر گفتگو و منطق",
+        "goal": "اصول کلی",
+        "category": "هنر گفتگو و منطق",
+        "description": "مسیر ساختاریافته یادگیری عمیق در زمینه هنر گفتگو و منطق بر اساس نیازها و زمان روزانه شما.",
+        "level": "beginner",
+        "dailyMinutes": 20,
+        "totalSteps": 5,
+        "currentStepIndex": 1,
+        "progressPercent": 20,
+        "estimatedWeeks": 3,
+        "steps": [
+          {
+            "id": "step-path-1792079777666-1",
+            "pathId": "path-1792079777666",
+            "stepNumber": 1,
+            "totalSteps": 5,
+            "title": "سرآغاز و اصول بنیادین در هنر گفتگو و منطق",
+            "subtitle": "شناخت ترمینولوژی، تعاریف ریشه‌ای و سیر پیدایش مفاهیم اولیه.",
+            "category": "هنر گفتگو و منطق",
+            "level": "beginner",
+            "durationMinutes": 20,
+            "introDescription": "در این پله گام‌به‌گام با شناخت ترمینولوژی، تعاریف ریشه‌ای و سیر پیدایش مفاهیم اولیه. آشنا می‌شوید و مهارت‌های ادراکی خود را صیقل می‌دهید.",
+            "podcastTitle": "پادکست کوتاه: مرور صوتی پله 1",
+            "podcastDuration": "۰۱:۴۵",
+            "objectives": [
+              {
+                "id": "ob-0-1",
+                "title": "۱. شناخت ژرف ساختارهای پله 1",
+                "description": "بررسی ارتباط مفهومی میان نظریه‌ها و کاربردها."
+              },
+              {
+                "id": "ob-0-2",
+                "title": "۲. تمایز میان پیش‌فرض‌ها و گزاره‌های اثبات‌شده",
+                "description": "کشف تناقضات در تعاریف سطحی و دستیابی به گزاره‌های آزموده."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "مقدمه‌ای جامع بر هنر گفتگو و منطق",
+              "author": "آرتور سی. دانتو و پژوهشگران معاصر",
+              "chapter": "فصل 1: تحلیل جامع",
+              "pageCount": 24,
+              "estimatedMinutes": 20,
+              "quote": "«فهم هر کل مرکب، با بازگشت به اجزای بنیادین آن میسر می‌شود.»",
+              "quoteCitation": "آرتور سی. دانتو و پژوهشگران معاصر",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBh2oQ1S2rSRrjanmYlIrR513QKCp3PpuQ-Po8YlDa0Yp6RSCIMMql3lU7giYaiEnliiIeZY7GiCKHWrvQ7d_aCn5V_x6G0B-9tmgI1r-YAryZ4FfYFrNsHgBHh46BibWvAZoNFNcRLy0jhlFBuNzoxydVfKjDnBVp-i47NGLYyVJcWWoxrIv0pW4YA_vtBIABGVoMMSvvimt0XS5zo9FUdohRiaDZ7JcuGNvakIZMo6DmHPpTF4Nys"
+            },
+            "passage": {
+              "title": "سرآغاز و اصول بنیادین در هنر گفتگو و منطق",
+              "bookTitle": "مقدمه‌ای جامع بر هنر گفتگو و منطق",
+              "author": "آرتور سی. دانتو و پژوهشگران معاصر",
+              "chapter": "فصل 1",
+              "pageNumber": 18,
+              "totalPages": 120,
+              "estimatedMinutes": 6,
+              "highlightQuote": "«فهم هر کل مرکب، با بازگشت به اجزای بنیادین آن میسر می‌شود.»",
+              "paragraphs": [
+                "ورود به ساحت تفکر در حوزه هنر گفتگو و منطق مستلزم فرارفتن از انگاره‌های متعارف است. ما در این مرحله نشان می‌دهیم که چرا تعاریف کلیشه‌ای قادر به تبیین موارد پیچیده نیستند و چگونه نگاه ساختاریافته امکان گشودن گره‌های فکری را فراهم می‌کند.",
+                "تحقیقات متفکران برجسته نشان می‌دهد که بدون فهم دقیق بنیان‌ها، ساختارهای پیشرفته‌تر دستخوش تزلزل می‌گردند. از این رو، تامل ژرف بر گزاره‌های این پله، پی‌ریزی مطمئنی برای کل مسیر پیش روی شما خواهد بود."
+              ],
+              "footnote": {
+                "title": "مرجع علمی پله 1",
+                "description": "این گزیده از کتاب معتبر «مقدمه‌ای جامع بر هنر گفتگو و منطق» اقتباس شده و با اهداف آموزشی اصول کلی همگام‌سازی گردیده است.",
+                "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuA-u_H7iUlNwZkHtwSR9745xMQN_6aH7XhyWHrpYWxPYBn4xNQ8JQbkFIvm2Xh47aI8e1N4QWED7jfyHtiJoGZvpmzTA7TBl2ZVS_tVygy9C9Y6elY66f8EYOTbU0AWcN6f_hl3yOzVs2sxtP0nQf2vGnz8hjM7SmXue3dVPxt-e3VdyDPIFKI4tiZTGzjT2Fcqt85wi9OrsF69btM08xnGPiZvZHowuybfqY2kokOTK3hMtZdkiNwG"
+              }
+            },
+            "quiz": {
+              "title": "سنجش ادراکی پله 1",
+              "stepNumber": 1,
+              "questions": [
+                {
+                  "id": "q-0-1",
+                  "question": "اساسی‌ترین پیش‌فرض در رویکرد تحلیلی به هنر گفتگو و منطق کدام است؟",
+                  "category": "درک مفهومی",
+                  "options": [
+                    "پذیرش بی‌چون‌وچرا",
+                    "تفکیک گزاره‌های اولیه از استنتاجات ثانویه",
+                    "تکرار شتاب‌زده تجربیات",
+                    "محاسبه بدون تئوری"
+                  ],
+                  "correctIndex": 1,
+                  "mentorFeedback": "تفکیک بنیادین گزاره‌ها و پیش‌فرض‌ها، گام ضروری برای ساختن بنای استدلال محکم است.",
+                  "wisdomPoints": 20
+                },
+                {
+                  "id": "q-0-2",
+                  "question": "چرا در مطالعه هنر گفتگو و منطق باید میان مثال‌های عینی و مفهوم کلی تفکیک قائل شد؟",
+                  "category": "تفکر نقادانه",
+                  "options": [
+                    "چون مثال‌ها تنها یک مصداق جزیی هستند و نباید با اصل قاعده یکی انگاشته شوند",
+                    "چون مثال‌ها کلاً غیرقابل اعتمادند",
+                    "برای طولانی‌تر شدن بحث‌ها",
+                    "چون دانشمندان این‌طور خواسته‌اند"
+                  ],
+                  "correctIndex": 0,
+                  "mentorFeedback": "دقیقاً؛ مثال‌ها به فهم کمک می‌کنند اما هرگز جایگزین تعریف جامع و مانع یک مفهوم کلی نمی‌شوند.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "توانایی بازتعریف مفاهیم پایه بدون مغالطات رایج و درک ارتباط عناصر درونی.",
+            "status": "completed",
+            "completedAt": "2026-10-15T15:56:20.642Z",
+            "startedAt": "2026-10-15T15:56:20.627Z"
+          },
+          {
+            "id": "step-path-1792079777666-2",
+            "pathId": "path-1792079777666",
+            "stepNumber": 2,
+            "totalSteps": 5,
+            "title": "نقشه‌برداری ساختار و طبقه‌بندی مکاتب در هنر گفتگو و منطق",
+            "subtitle": "مقایسه رویکردهای کلاسیک و مدرن، و چارچوب‌های اصلی نظری.",
+            "category": "هنر گفتگو و منطق",
+            "level": "beginner",
+            "durationMinutes": 20,
+            "introDescription": "در این پله گام‌به‌گام با مقایسه رویکردهای کلاسیک و مدرن، و چارچوب‌های اصلی نظری. آشنا می‌شوید و مهارت‌های ادراکی خود را صیقل می‌دهید.",
+            "podcastTitle": "پادکست کوتاه: مرور صوتی پله 2",
+            "podcastDuration": "۰۱:۴۵",
+            "objectives": [
+              {
+                "id": "ob-1-1",
+                "title": "۱. شناخت ژرف ساختارهای پله 2",
+                "description": "بررسی ارتباط مفهومی میان نظریه‌ها و کاربردها."
+              },
+              {
+                "id": "ob-1-2",
+                "title": "۲. تمایز میان پیش‌فرض‌ها و گزاره‌های اثبات‌شده",
+                "description": "کشف تناقضات در تعاریف سطحی و دستیابی به گزاره‌های آزموده."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "ساختار و تکامل هنر گفتگو و منطق",
+              "author": "دیوید چالمرز و نظریه‌پردازان مکتبی",
+              "chapter": "فصل 2: تحلیل جامع",
+              "pageCount": 24,
+              "estimatedMinutes": 20,
+              "quote": "«نظم بخشیدن به مفاهیم، ذهن را از سردرگمی در جزئیات می‌رهاند.»",
+              "quoteCitation": "دیوید چالمرز و نظریه‌پردازان مکتبی",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBh2oQ1S2rSRrjanmYlIrR513QKCp3PpuQ-Po8YlDa0Yp6RSCIMMql3lU7giYaiEnliiIeZY7GiCKHWrvQ7d_aCn5V_x6G0B-9tmgI1r-YAryZ4FfYFrNsHgBHh46BibWvAZoNFNcRLy0jhlFBuNzoxydVfKjDnBVp-i47NGLYyVJcWWoxrIv0pW4YA_vtBIABGVoMMSvvimt0XS5zo9FUdohRiaDZ7JcuGNvakIZMo6DmHPpTF4Nys"
+            },
+            "passage": {
+              "title": "نقشه‌برداری ساختار و طبقه‌بندی مکاتب در هنر گفتگو و منطق",
+              "bookTitle": "ساختار و تکامل هنر گفتگو و منطق",
+              "author": "دیوید چالمرز و نظریه‌پردازان مکتبی",
+              "chapter": "فصل 2",
+              "pageNumber": 36,
+              "totalPages": 120,
+              "estimatedMinutes": 6,
+              "highlightQuote": "«نظم بخشیدن به مفاهیم، ذهن را از سردرگمی در جزئیات می‌رهاند.»",
+              "paragraphs": [
+                "ورود به ساحت تفکر در حوزه هنر گفتگو و منطق مستلزم فرارفتن از انگاره‌های متعارف است. ما در این مرحله نشان می‌دهیم که چرا تعاریف کلیشه‌ای قادر به تبیین موارد پیچیده نیستند و چگونه نگاه ساختاریافته امکان گشودن گره‌های فکری را فراهم می‌کند.",
+                "تحقیقات متفکران برجسته نشان می‌دهد که بدون فهم دقیق بنیان‌ها، ساختارهای پیشرفته‌تر دستخوش تزلزل می‌گردند. از این رو، تامل ژرف بر گزاره‌های این پله، پی‌ریزی مطمئنی برای کل مسیر پیش روی شما خواهد بود."
+              ],
+              "footnote": {
+                "title": "مرجع علمی پله 2",
+                "description": "این گزیده از کتاب معتبر «ساختار و تکامل هنر گفتگو و منطق» اقتباس شده و با اهداف آموزشی اصول کلی همگام‌سازی گردیده است.",
+                "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuA-u_H7iUlNwZkHtwSR9745xMQN_6aH7XhyWHrpYWxPYBn4xNQ8JQbkFIvm2Xh47aI8e1N4QWED7jfyHtiJoGZvpmzTA7TBl2ZVS_tVygy9C9Y6elY66f8EYOTbU0AWcN6f_hl3yOzVs2sxtP0nQf2vGnz8hjM7SmXue3dVPxt-e3VdyDPIFKI4tiZTGzjT2Fcqt85wi9OrsF69btM08xnGPiZvZHowuybfqY2kokOTK3hMtZdkiNwG"
+              }
+            },
+            "quiz": {
+              "title": "سنجش ادراکی پله 2",
+              "stepNumber": 2,
+              "questions": [
+                {
+                  "id": "q-1-1",
+                  "question": "چه عاملی تفاوت میان دو مکتب عمده در هنر گفتگو و منطق را رقم می‌زند؟",
+                  "category": "درک مفهومی",
+                  "options": [
+                    "اختلاف در فرضیات وجودی و معرفت‌شناختی اولیه",
+                    "نوع ترجمه لغات",
+                    "سال تولد محققان",
+                    "موقعیت جغرافیایی صرف"
+                  ],
+                  "correctIndex": 0,
+                  "mentorFeedback": "تمایز مکاتب فکری عمدتاً برخاسته از اختلاف در مفروضات بنیادین هستی‌شناختی و روش‌شناختی آنان است.",
+                  "wisdomPoints": 20
+                },
+                {
+                  "id": "q-1-2",
+                  "question": "چرا در مطالعه هنر گفتگو و منطق باید میان مثال‌های عینی و مفهوم کلی تفکیک قائل شد؟",
+                  "category": "تفکر نقادانه",
+                  "options": [
+                    "چون مثال‌ها تنها یک مصداق جزیی هستند و نباید با اصل قاعده یکی انگاشته شوند",
+                    "چون مثال‌ها کلاً غیرقابل اعتمادند",
+                    "برای طولانی‌تر شدن بحث‌ها",
+                    "چون دانشمندان این‌طور خواسته‌اند"
+                  ],
+                  "correctIndex": 0,
+                  "mentorFeedback": "دقیقاً؛ مثال‌ها به فهم کمک می‌کنند اما هرگز جایگزین تعریف جامع و مانع یک مفهوم کلی نمی‌شوند.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "مهارت جای‌گذاری هر نظریه در بستر مکتبی و تاریخی مناسب خود.",
+            "status": "current",
+            "startedAt": "2026-10-15T15:56:20.642Z"
+          },
+          {
+            "id": "step-path-1792079777666-3",
+            "pathId": "path-1792079777666",
+            "stepNumber": 3,
+            "totalSteps": 5,
+            "title": "روش‌شناسی عملی و آزمون استدلال در هنر گفتگو و منطق",
+            "subtitle": "چگونه ایده‌ها را در موقعیت‌های واقعی ارزیابی و نقادی کنیم؟",
+            "category": "هنر گفتگو و منطق",
+            "level": "beginner",
+            "durationMinutes": 20,
+            "introDescription": "در این پله گام‌به‌گام با چگونه ایده‌ها را در موقعیت‌های واقعی ارزیابی و نقادی کنیم؟ آشنا می‌شوید و مهارت‌های ادراکی خود را صیقل می‌دهید.",
+            "podcastTitle": "پادکست کوتاه: مرور صوتی پله 3",
+            "podcastDuration": "۰۱:۴۵",
+            "objectives": [
+              {
+                "id": "ob-2-1",
+                "title": "۱. شناخت ژرف ساختارهای پله 3",
+                "description": "بررسی ارتباط مفهومی میان نظریه‌ها و کاربردها."
+              },
+              {
+                "id": "ob-2-2",
+                "title": "۲. تمایز میان پیش‌فرض‌ها و گزاره‌های اثبات‌شده",
+                "description": "کشف تناقضات در تعاریف سطحی و دستیابی به گزاره‌های آزموده."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "منطق پژوهش و سنجش در هنر گفتگو و منطق",
+              "author": "کارل پوپر و متفکران روش‌شناسی",
+              "chapter": "فصل 3: تحلیل جامع",
+              "pageCount": 24,
+              "estimatedMinutes": 20,
+              "quote": "«معیار علمی بودن هر نظریه، ابطال‌پذیری و مقاومت آن در برابر سنجش‌های دقیق است.»",
+              "quoteCitation": "کارل پوپر و متفکران روش‌شناسی",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBh2oQ1S2rSRrjanmYlIrR513QKCp3PpuQ-Po8YlDa0Yp6RSCIMMql3lU7giYaiEnliiIeZY7GiCKHWrvQ7d_aCn5V_x6G0B-9tmgI1r-YAryZ4FfYFrNsHgBHh46BibWvAZoNFNcRLy0jhlFBuNzoxydVfKjDnBVp-i47NGLYyVJcWWoxrIv0pW4YA_vtBIABGVoMMSvvimt0XS5zo9FUdohRiaDZ7JcuGNvakIZMo6DmHPpTF4Nys"
+            },
+            "passage": {
+              "title": "روش‌شناسی عملی و آزمون استدلال در هنر گفتگو و منطق",
+              "bookTitle": "منطق پژوهش و سنجش در هنر گفتگو و منطق",
+              "author": "کارل پوپر و متفکران روش‌شناسی",
+              "chapter": "فصل 3",
+              "pageNumber": 54,
+              "totalPages": 120,
+              "estimatedMinutes": 6,
+              "highlightQuote": "«معیار علمی بودن هر نظریه، ابطال‌پذیری و مقاومت آن در برابر سنجش‌های دقیق است.»",
+              "paragraphs": [
+                "ورود به ساحت تفکر در حوزه هنر گفتگو و منطق مستلزم فرارفتن از انگاره‌های متعارف است. ما در این مرحله نشان می‌دهیم که چرا تعاریف کلیشه‌ای قادر به تبیین موارد پیچیده نیستند و چگونه نگاه ساختاریافته امکان گشودن گره‌های فکری را فراهم می‌کند.",
+                "تحقیقات متفکران برجسته نشان می‌دهد که بدون فهم دقیق بنیان‌ها، ساختارهای پیشرفته‌تر دستخوش تزلزل می‌گردند. از این رو، تامل ژرف بر گزاره‌های این پله، پی‌ریزی مطمئنی برای کل مسیر پیش روی شما خواهد بود."
+              ],
+              "footnote": {
+                "title": "مرجع علمی پله 3",
+                "description": "این گزیده از کتاب معتبر «منطق پژوهش و سنجش در هنر گفتگو و منطق» اقتباس شده و با اهداف آموزشی اصول کلی همگام‌سازی گردیده است.",
+                "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuA-u_H7iUlNwZkHtwSR9745xMQN_6aH7XhyWHrpYWxPYBn4xNQ8JQbkFIvm2Xh47aI8e1N4QWED7jfyHtiJoGZvpmzTA7TBl2ZVS_tVygy9C9Y6elY66f8EYOTbU0AWcN6f_hl3yOzVs2sxtP0nQf2vGnz8hjM7SmXue3dVPxt-e3VdyDPIFKI4tiZTGzjT2Fcqt85wi9OrsF69btM08xnGPiZvZHowuybfqY2kokOTK3hMtZdkiNwG"
+              }
+            },
+            "quiz": {
+              "title": "سنجش ادراکی پله 3",
+              "stepNumber": 3,
+              "questions": [
+                {
+                  "id": "q-2-1",
+                  "question": "معیار اصلی اعتبار یک مدل یا فرضیه در این پله چیست؟",
+                  "category": "درک مفهومی",
+                  "options": [
+                    "تعداد افراد معتقد به آن",
+                    "سازگاری درونی منطقی و قابلیت آزمون‌پذیری تجربی/مفهومی",
+                    "پیچیدگی واژگان",
+                    "قدمت تاریخی"
+                  ],
+                  "correctIndex": 1,
+                  "mentorFeedback": "انسجام منطقی درونی و توانایی پاسخ به تناقضات، ستون فقرات هر اندیشه استوار است.",
+                  "wisdomPoints": 20
+                },
+                {
+                  "id": "q-2-2",
+                  "question": "چرا در مطالعه هنر گفتگو و منطق باید میان مثال‌های عینی و مفهوم کلی تفکیک قائل شد؟",
+                  "category": "تفکر نقادانه",
+                  "options": [
+                    "چون مثال‌ها تنها یک مصداق جزیی هستند و نباید با اصل قاعده یکی انگاشته شوند",
+                    "چون مثال‌ها کلاً غیرقابل اعتمادند",
+                    "برای طولانی‌تر شدن بحث‌ها",
+                    "چون دانشمندان این‌طور خواسته‌اند"
+                  ],
+                  "correctIndex": 0,
+                  "mentorFeedback": "دقیقاً؛ مثال‌ها به فهم کمک می‌کنند اما هرگز جایگزین تعریف جامع و مانع یک مفهوم کلی نمی‌شوند.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "تسلط بر روش پرسشگری و اعتبارسنجی فرضیه‌ها در برابر شواهد و داده‌ها.",
+            "status": "locked"
+          },
+          {
+            "id": "step-path-1792079777666-4",
+            "pathId": "path-1792079777666",
+            "stepNumber": 4,
+            "totalSteps": 5,
+            "title": "کاربرد عمیق و تحلیل موارد موردی پیشرفته در هنر گفتگو و منطق",
+            "subtitle": "بررسی چالش‌های معاصر و سناریوهای حل مسئله در سطح پیشرو.",
+            "category": "هنر گفتگو و منطق",
+            "level": "beginner",
+            "durationMinutes": 20,
+            "introDescription": "در این پله گام‌به‌گام با بررسی چالش‌های معاصر و سناریوهای حل مسئله در سطح پیشرو. آشنا می‌شوید و مهارت‌های ادراکی خود را صیقل می‌دهید.",
+            "podcastTitle": "پادکست کوتاه: مرور صوتی پله 4",
+            "podcastDuration": "۰۱:۴۵",
+            "objectives": [
+              {
+                "id": "ob-3-1",
+                "title": "۱. شناخت ژرف ساختارهای پله 4",
+                "description": "بررسی ارتباط مفهومی میان نظریه‌ها و کاربردها."
+              },
+              {
+                "id": "ob-3-2",
+                "title": "۲. تمایز میان پیش‌فرض‌ها و گزاره‌های اثبات‌شده",
+                "description": "کشف تناقضات در تعاریف سطحی و دستیابی به گزاره‌های آزموده."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "مباحث پیشرفته و روندهای نوین در هنر گفتگو و منطق",
+              "author": "گروه مطالعات تطبیقی دانشگاه آکسفورد",
+              "chapter": "فصل 4: تحلیل جامع",
+              "pageCount": 24,
+              "estimatedMinutes": 20,
+              "quote": "«نظریه‌ای که به عمل بدل نشود، درختی بی‌ثمر در باغ ذهن است.»",
+              "quoteCitation": "گروه مطالعات تطبیقی دانشگاه آکسفورد",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBh2oQ1S2rSRrjanmYlIrR513QKCp3PpuQ-Po8YlDa0Yp6RSCIMMql3lU7giYaiEnliiIeZY7GiCKHWrvQ7d_aCn5V_x6G0B-9tmgI1r-YAryZ4FfYFrNsHgBHh46BibWvAZoNFNcRLy0jhlFBuNzoxydVfKjDnBVp-i47NGLYyVJcWWoxrIv0pW4YA_vtBIABGVoMMSvvimt0XS5zo9FUdohRiaDZ7JcuGNvakIZMo6DmHPpTF4Nys"
+            },
+            "passage": {
+              "title": "کاربرد عمیق و تحلیل موارد موردی پیشرفته در هنر گفتگو و منطق",
+              "bookTitle": "مباحث پیشرفته و روندهای نوین در هنر گفتگو و منطق",
+              "author": "گروه مطالعات تطبیقی دانشگاه آکسفورد",
+              "chapter": "فصل 4",
+              "pageNumber": 72,
+              "totalPages": 120,
+              "estimatedMinutes": 6,
+              "highlightQuote": "«نظریه‌ای که به عمل بدل نشود، درختی بی‌ثمر در باغ ذهن است.»",
+              "paragraphs": [
+                "ورود به ساحت تفکر در حوزه هنر گفتگو و منطق مستلزم فرارفتن از انگاره‌های متعارف است. ما در این مرحله نشان می‌دهیم که چرا تعاریف کلیشه‌ای قادر به تبیین موارد پیچیده نیستند و چگونه نگاه ساختاریافته امکان گشودن گره‌های فکری را فراهم می‌کند.",
+                "تحقیقات متفکران برجسته نشان می‌دهد که بدون فهم دقیق بنیان‌ها، ساختارهای پیشرفته‌تر دستخوش تزلزل می‌گردند. از این رو، تامل ژرف بر گزاره‌های این پله، پی‌ریزی مطمئنی برای کل مسیر پیش روی شما خواهد بود."
+              ],
+              "footnote": {
+                "title": "مرجع علمی پله 4",
+                "description": "این گزیده از کتاب معتبر «مباحث پیشرفته و روندهای نوین در هنر گفتگو و منطق» اقتباس شده و با اهداف آموزشی اصول کلی همگام‌سازی گردیده است.",
+                "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuA-u_H7iUlNwZkHtwSR9745xMQN_6aH7XhyWHrpYWxPYBn4xNQ8JQbkFIvm2Xh47aI8e1N4QWED7jfyHtiJoGZvpmzTA7TBl2ZVS_tVygy9C9Y6elY66f8EYOTbU0AWcN6f_hl3yOzVs2sxtP0nQf2vGnz8hjM7SmXue3dVPxt-e3VdyDPIFKI4tiZTGzjT2Fcqt85wi9OrsF69btM08xnGPiZvZHowuybfqY2kokOTK3hMtZdkiNwG"
+              }
+            },
+            "quiz": {
+              "title": "سنجش ادراکی پله 4",
+              "stepNumber": 4,
+              "questions": [
+                {
+                  "id": "q-3-1",
+                  "question": "چگونه می‌توان نظریه‌های نظری را به تصمیم‌گیری عملی در هنر گفتگو و منطق پیوند زد؟",
+                  "category": "درک مفهومی",
+                  "options": [
+                    "از طریق ساخت مدل‌های کاربردی و سنجش پیامدهای عینی",
+                    "با نادیده گرفتن شرایط زمینه",
+                    "با انتظار برای قطعیت صد درصدی",
+                    "فقط از طریق شهود حسی"
+                  ],
+                  "correctIndex": 0,
+                  "mentorFeedback": "پیوند نظر و عمل از مجرای مدل‌سازی دقیق و بازخوردگیری مداوم از پیامدهای تصمیم محقق می‌شود.",
+                  "wisdomPoints": 20
+                },
+                {
+                  "id": "q-3-2",
+                  "question": "چرا در مطالعه هنر گفتگو و منطق باید میان مثال‌های عینی و مفهوم کلی تفکیک قائل شد؟",
+                  "category": "تفکر نقادانه",
+                  "options": [
+                    "چون مثال‌ها تنها یک مصداق جزیی هستند و نباید با اصل قاعده یکی انگاشته شوند",
+                    "چون مثال‌ها کلاً غیرقابل اعتمادند",
+                    "برای طولانی‌تر شدن بحث‌ها",
+                    "چون دانشمندان این‌طور خواسته‌اند"
+                  ],
+                  "correctIndex": 0,
+                  "mentorFeedback": "دقیقاً؛ مثال‌ها به فهم کمک می‌کنند اما هرگز جایگزین تعریف جامع و مانع یک مفهوم کلی نمی‌شوند.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "قابلیت ترکیب نظریه‌ها برای حل مسائل نوظهور و تولید بینش تازه.",
+            "status": "locked"
+          },
+          {
+            "id": "step-path-1792079777666-5",
+            "pathId": "path-1792079777666",
+            "stepNumber": 5,
+            "totalSteps": 5,
+            "title": "سنتز نهایی و صورت‌بندی دیدگاه شخصی نقادانه",
+            "subtitle": "جمع‌بندی زنجیره یادگیری، پاسخ به شبهات و ترسیم افق‌های پژوهش بعدی.",
+            "category": "هنر گفتگو و منطق",
+            "level": "beginner",
+            "durationMinutes": 20,
+            "introDescription": "در این پله گام‌به‌گام با جمع‌بندی زنجیره یادگیری، پاسخ به شبهات و ترسیم افق‌های پژوهش بعدی. آشنا می‌شوید و مهارت‌های ادراکی خود را صیقل می‌دهید.",
+            "podcastTitle": "پادکست کوتاه: مرور صوتی پله 5",
+            "podcastDuration": "۰۱:۴۵",
+            "objectives": [
+              {
+                "id": "ob-4-1",
+                "title": "۱. شناخت ژرف ساختارهای پله 5",
+                "description": "بررسی ارتباط مفهومی میان نظریه‌ها و کاربردها."
+              },
+              {
+                "id": "ob-4-2",
+                "title": "۲. تمایز میان پیش‌فرض‌ها و گزاره‌های اثبات‌شده",
+                "description": "کشف تناقضات در تعاریف سطحی و دستیابی به گزاره‌های آزموده."
+              }
+            ],
+            "resourceRecommendation": {
+              "title": "رساله در خرد سنجش‌گر و افق‌های آینده هنر گفتگو و منطق",
+              "author": "ایمانوئل کانت و شارحان معاصر",
+              "chapter": "فصل 5: تحلیل جامع",
+              "pageCount": 24,
+              "estimatedMinutes": 20,
+              "quote": "«جرات اندیشیدن داشته باش؛ خرد راستین در استقلال تفکر متولد می‌شود.»",
+              "quoteCitation": "ایمانوئل کانت و شارحان معاصر",
+              "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBh2oQ1S2rSRrjanmYlIrR513QKCp3PpuQ-Po8YlDa0Yp6RSCIMMql3lU7giYaiEnliiIeZY7GiCKHWrvQ7d_aCn5V_x6G0B-9tmgI1r-YAryZ4FfYFrNsHgBHh46BibWvAZoNFNcRLy0jhlFBuNzoxydVfKjDnBVp-i47NGLYyVJcWWoxrIv0pW4YA_vtBIABGVoMMSvvimt0XS5zo9FUdohRiaDZ7JcuGNvakIZMo6DmHPpTF4Nys"
+            },
+            "passage": {
+              "title": "سنتز نهایی و صورت‌بندی دیدگاه شخصی نقادانه",
+              "bookTitle": "رساله در خرد سنجش‌گر و افق‌های آینده هنر گفتگو و منطق",
+              "author": "ایمانوئل کانت و شارحان معاصر",
+              "chapter": "فصل 5",
+              "pageNumber": 90,
+              "totalPages": 120,
+              "estimatedMinutes": 6,
+              "highlightQuote": "«جرات اندیشیدن داشته باش؛ خرد راستین در استقلال تفکر متولد می‌شود.»",
+              "paragraphs": [
+                "ورود به ساحت تفکر در حوزه هنر گفتگو و منطق مستلزم فرارفتن از انگاره‌های متعارف است. ما در این مرحله نشان می‌دهیم که چرا تعاریف کلیشه‌ای قادر به تبیین موارد پیچیده نیستند و چگونه نگاه ساختاریافته امکان گشودن گره‌های فکری را فراهم می‌کند.",
+                "تحقیقات متفکران برجسته نشان می‌دهد که بدون فهم دقیق بنیان‌ها، ساختارهای پیشرفته‌تر دستخوش تزلزل می‌گردند. از این رو، تامل ژرف بر گزاره‌های این پله، پی‌ریزی مطمئنی برای کل مسیر پیش روی شما خواهد بود."
+              ],
+              "footnote": {
+                "title": "مرجع علمی پله 5",
+                "description": "این گزیده از کتاب معتبر «رساله در خرد سنجش‌گر و افق‌های آینده هنر گفتگو و منطق» اقتباس شده و با اهداف آموزشی اصول کلی همگام‌سازی گردیده است.",
+                "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuA-u_H7iUlNwZkHtwSR9745xMQN_6aH7XhyWHrpYWxPYBn4xNQ8JQbkFIvm2Xh47aI8e1N4QWED7jfyHtiJoGZvpmzTA7TBl2ZVS_tVygy9C9Y6elY66f8EYOTbU0AWcN6f_hl3yOzVs2sxtP0nQf2vGnz8hjM7SmXue3dVPxt-e3VdyDPIFKI4tiZTGzjT2Fcqt85wi9OrsF69btM08xnGPiZvZHowuybfqY2kokOTK3hMtZdkiNwG"
+              }
+            },
+            "quiz": {
+              "title": "سنجش ادراکی پله 5",
+              "stepNumber": 5,
+              "questions": [
+                {
+                  "id": "q-4-1",
+                  "question": "مقصود از استقلال فکری در نقطه اوج این مسیر یادگیری چیست؟",
+                  "category": "درک مفهومی",
+                  "options": [
+                    "رد کردن تمام آرای پیشینیان",
+                    "توانایی بازبینی نقادانه آرای دیگران همراه با ارائه استدلال مدلل",
+                    "اصرار بر نظرات اولیه",
+                    "بی‌تفاوتی نسبت به حقایق دیگر"
+                  ],
+                  "correctIndex": 1,
+                  "mentorFeedback": "استقلال عقلانی به معنای بی‌انصافی نسبت به گذشتگان نیست، بلکه سنجش عیار ادعاها با ترازوی خرد و استدلال است.",
+                  "wisdomPoints": 20
+                },
+                {
+                  "id": "q-4-2",
+                  "question": "چرا در مطالعه هنر گفتگو و منطق باید میان مثال‌های عینی و مفهوم کلی تفکیک قائل شد؟",
+                  "category": "تفکر نقادانه",
+                  "options": [
+                    "چون مثال‌ها تنها یک مصداق جزیی هستند و نباید با اصل قاعده یکی انگاشته شوند",
+                    "چون مثال‌ها کلاً غیرقابل اعتمادند",
+                    "برای طولانی‌تر شدن بحث‌ها",
+                    "چون دانشمندان این‌طور خواسته‌اند"
+                  ],
+                  "correctIndex": 0,
+                  "mentorFeedback": "دقیقاً؛ مثال‌ها به فهم کمک می‌کنند اما هرگز جایگزین تعریف جامع و مانع یک مفهوم کلی نمی‌شوند.",
+                  "wisdomPoints": 20
+                }
+              ]
+            },
+            "keyTakeaway": "دستیابی به استقلال عقلانی و توانایی مشارکت فعال در مباحثات تخصصی.",
+            "status": "locked"
+          }
+        ],
+        "weeklyFocus": "تسلط بر پایه‌ها و مفاهیم بنیادین هنر گفتگو و منطق",
+        "heroImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuCLOQoWXCzTxJZVmYwWnAym9v6ozeejVqlPmeyZsfkOBLZOdf_Qv1XXrW-b1z9tTnf52_4p__IUnRCJD3FJfWVOOS5yqQOjbjTx239C2uEB31FVrMq16oS7aTHihsuir7-Px3zXfbFbM_x8D0xkBNYa3NKZNHIHPNr6bQonKxcrTZLIw0iLOfYGAeKtKRzQbLdUOTMj7FwkS9QopjGePLXF72j0S9TEFnl_8LHJEXgDLEF-GFZLjiP-",
+        "createdAt": "2026-10-15T15:56:20.607Z",
+        "updatedAt": "2026-10-15T15:56:20.607Z",
+        "status": "in_progress",
+        "startedAt": "2026-10-15T15:56:20.627Z",
+        "lastActivityAt": "2026-10-15T15:56:20.642Z"
+      }
+    ],
+    "user-1792079780686": [
+      {
+        "id": "path-guest-starter",
+        "userId": "user-1792079780686",
+        "title": "تفکر نقادانه و فلسفه کاربردی",
+        "category": "فلسفه و منطق کاربردی",
+        "description": "مسیر تستی",
+        "level": "beginner",
+        "goal": "درک اصول",
+        "dailyMinutes": 15,
+        "status": "in_progress",
+        "progressPercent": 25,
+        "currentStepIndex": 1,
+        "totalSteps": 4,
+        "steps": [
+          {
+            "id": "step-1",
+            "pathId": "path-guest-starter",
+            "stepNumber": 1,
+            "totalSteps": 4,
+            "title": "پله ۱",
+            "status": "completed"
+          },
+          {
+            "id": "step-2",
+            "pathId": "path-guest-starter",
+            "stepNumber": 2,
+            "totalSteps": 4,
+            "title": "پله ۲",
+            "status": "current"
+          }
+        ]
+      }
+    ],
+    "user-1792080831396": [],
+    "user-1792080856763": [
+      {
+        "id": "path-1",
+        "userId": "user-1792080856763",
+        "title": "مسیر تستی",
+        "category": "دسته",
+        "description": "توضیح",
+        "level": "beginner",
+        "goal": "هدف",
+        "dailyMinutes": 15,
+        "status": "in_progress",
+        "progressPercent": 20,
+        "currentStepIndex": 0,
+        "totalSteps": 2,
+        "steps": []
+      }
+    ]
+  },
+  "books": {
+    "user-sohrab": [
+      {
+        "id": "book-1",
+        "userId": "user-sohrab",
+        "title": "تاریخ فلسفه غرب",
+        "author": "برتراند راسل",
+        "translator": "نجف دریابندری",
+        "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuACpj0OiXe-CyIMsSbsMzgb7v-qHca9NEaJPynWisixxXLnLRwDDqXf7xC2Bu6QZHMAu7VaplOXdwSlUHtptQPfvO-SOGv5Clw0kQ3DuXSTCRLO8kUWdIFXxDnqsuQBiVhm5ryXPccZFx4PhU0j_Nvbz67rVHu6xZWyuwSKu1QdJ8aZtyXZ412wYcZEnA7berOdzls10vPbMJChlz94QOEH4HQEV-D0da0i3zyDeok818Iyq5fvCozf",
+        "edition": "چاپ دوازدهم",
+        "status": "reading",
+        "progressPercent": 23,
+        "currentPage": 64,
+        "totalPages": 280,
+        "pathId": "path-philosophy-western",
+        "pathTitle": "مسیر: فلسفه غرب",
+        "notesCount": 8,
+        "lastRead": "دیروز",
+        "summary": "بررسی تاریخی فیلسوفان از تالس و سقراط تا دوره رنسانس و کانت با نثری شیوا و تحلیلی."
+      },
+      {
+        "id": "book-2",
+        "userId": "user-sohrab",
+        "title": "رساله آپولوژی و فایدون",
+        "author": "افلاطون",
+        "translator": "محمدعلی فروغی",
+        "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuC4OrggS_rJDzfTNhTqXk5DcoNaApp79rk_UgkAYdsY5kPLu2OhTSoAC862NcpX5_JilhKtVdnIEB_llu_ifmxq5nVLrJYozRIV3dSmXiDcSFUgYcijZHCcX8xSEvC7JDKOZSjITETXfFPuFtZHTYywAkmGxhbIZgGdJMl_ZmFqESgNEnknD9amWVdkhkzCxVXk_g7JfCVojSunNH_v8KWKrOQBKCmoVQVhke9hndrwq4G24mOuip8x",
+        "edition": "چاپ اول انتشارات علمی و فرهنگی",
+        "status": "reading",
+        "progressPercent": 21,
+        "currentPage": 20,
+        "totalPages": 95,
+        "pathId": "path-philosophy-western",
+        "pathTitle": "مسیر: فلسفه غرب",
+        "notesCount": 4,
+        "lastRead": "امروز",
+        "summary": "متن دفاعیه شجاعانه سقراط در دادگاه آتن و آخرین گفتگوهای او پیرامون جاودانگی روح در فایدون."
+      },
+      {
+        "id": "book-3",
+        "userId": "user-sohrab",
+        "title": "تفکر سریع و کند",
+        "author": "دنیل کانمن",
+        "translator": "فاطمه امیدی",
+        "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuCgzIdA4FAVZHdxH5JmYWzThdEt6WYHHR89Azg9u4sTGHMY9cmp1NZLxqMkBxIjaNXS97QUER_2q1HqJKVSW1MBpTy_G--SKyz0x9kc6mKRAJ5dQJLpIPD34p5yS8p_Rzxc1KTCDRRYt-ARUaIk9XNWFHFnpco8n5CPwEdUTD9-91P8JBxc2VztrlRtnuWEr-gp4Jsgjtt2jx-Sp5ryOVGRBCsjf8hJUh644d3Q2swRFQm3GkFQFw_h",
+        "status": "completed",
+        "progressPercent": 100,
+        "currentPage": 480,
+        "totalPages": 480,
+        "pathTitle": "مسیر: روان‌شناسی شناختی",
+        "notesCount": 12,
+        "lastRead": "هفته گذشته",
+        "summary": "تحلیل دو سامانه فکری مغز انسان: سامانه ۱ سریع و غریزی، و سامانه ۲ کند و تحلیلی."
+      }
+    ],
+    "demo-sara": [
+      {
+        "id": "book-sara-1",
+        "userId": "demo-sara",
+        "title": "تاریخ فلسفه غرب",
+        "author": "برتراند راسل",
+        "translator": "نجف دریابندری",
+        "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuACpj0OiXe-CyIMsSbsMzgb7v-qHca9NEaJPynWisixxXLnLRwDDqXf7xC2Bu6QZHMAu7VaplOXdwSlUHtptQPfvO-SOGv5Clw0kQ3DuXSTCRLO8kUWdIFXxDnqsuQBiVhm5ryXPccZFx4PhU0j_Nvbz67rVHu6xZWyuwSKu1QdJ8aZtyXZ412wYcZEnA7berOdzls10vPbMJChlz94QOEH4HQEV-D0da0i3zyDeok818Iyq5fvCozf",
+        "edition": "چاپ دوازدهم",
+        "status": "reading",
+        "progressPercent": 33,
+        "currentPage": 92,
+        "totalPages": 280,
+        "pathId": "path-philosophy-western",
+        "pathTitle": "فلسفه غرب؛ از سقراط تا کانت",
+        "notesCount": 2,
+        "lastRead": "امروز",
+        "summary": "تحلیلی نقادانه بر جریان‌های فلسفی از یونان باستان تا کانت و هگل."
+      },
+      {
+        "id": "book-sara-2",
+        "userId": "demo-sara",
+        "title": "رساله آپولوژی و فایدون",
+        "author": "افلاطون",
+        "translator": "محمدعلی فروغی",
+        "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuC4OrggS_rJDzfTNhTqXk5DcoNaApp79rk_UgkAYdsY5kPLu2OhTSoAC862NcpX5_JilhKtVdnIEB_llu_ifmxq5nVLrJYozRIV3dSmXiDcSFUgYcijZHCcX8xSEvC7JDKOZSjITETXfFPuFtZHTYywAkmGxhbIZgGdJMl_ZmFqESgNEnknD9amWVdkhkzCxVXk_g7JfCVojSunNH_v8KWKrOQBKCmoVQVhke9hndrwq4G24mOuip8x",
+        "edition": "انتشارات علمی و فرهنگی",
+        "status": "reading",
+        "progressPercent": 20,
+        "currentPage": 19,
+        "totalPages": 95,
+        "pathId": "path-philosophy-western",
+        "pathTitle": "فلسفه غرب؛ از سقراط تا کانت",
+        "notesCount": 1,
+        "lastRead": "دیروز",
+        "summary": "متن دفاعیه تاریخی سقراط در برابر اتهامات فساد جوانان آتن."
+      }
+    ],
+    "demo-ali": [
+      {
+        "id": "book-1792079923086",
+        "userId": "demo-ali",
+        "title": "مقدمه‌ای جامع بر تاریخ معاصر جهان",
+        "author": "آرتور سی. دانتو و پژوهشگران معاصر",
+        "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBh2oQ1S2rSRrjanmYlIrR513QKCp3PpuQ-Po8YlDa0Yp6RSCIMMql3lU7giYaiEnliiIeZY7GiCKHWrvQ7d_aCn5V_x6G0B-9tmgI1r-YAryZ4FfYFrNsHgBHh46BibWvAZoNFNcRLy0jhlFBuNzoxydVfKjDnBVp-i47NGLYyVJcWWoxrIv0pW4YA_vtBIABGVoMMSvvimt0XS5zo9FUdohRiaDZ7JcuGNvakIZMo6DmHPpTF4Nys",
+        "status": "reading",
+        "progressPercent": 0,
+        "currentPage": 1,
+        "totalPages": 24,
+        "pathId": "path-1792079913581",
+        "pathTitle": "مسیر: مسیر: تاریخ معاصر جهان",
+        "notesCount": 0,
+        "lastRead": "هم‌اکنون",
+        "summary": "«فهم هر کل مرکب، با بازگشت به اجزای بنیادین آن میسر می‌شود.»"
+      },
+      {
+        "id": "book-ali-1",
+        "userId": "demo-ali",
+        "title": "یادگیری عمیق",
+        "author": "ایان گودفلو",
+        "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBaCGpekdp-BDMqQrSoEVoIwr6MDMJOAcKe8RmQVnZ0pf08PyHVoLkF3oa6EpD7VcOIho5nDFhBBKf09kRIAg4BnNDvbSu-qlmK4jxydXnSflavJg5qvvzB3KvIXn2FS59lwIsUu2o5Clnarw0Xfb4b9Z6GD2sFs-fFz5vbv2ydGBVJ3kl-JU8HXWfuGfIVNMEYU3talbDBkpvf8oiXrPIlFMW1AzEGQnBmrBi4bsMvm1H0jUzg-Wan",
+        "edition": "MIT Press",
+        "status": "reading",
+        "progressPercent": 67,
+        "currentPage": 320,
+        "totalPages": 700,
+        "pathId": "path-ai-deep-learning",
+        "pathTitle": "مبانی هوش مصنوعی و یادگیری عمیق",
+        "notesCount": 2,
+        "lastRead": "امروز",
+        "summary": "مرجع استاندارد و عمیق تئوری شبکه‌های عصبی."
+      }
+    ],
+    "demo-fresh": [],
+    "user-1792079777650": [
+      {
+        "id": "book-1792079780612",
+        "userId": "user-1792079777650",
+        "title": "مقدمه‌ای جامع بر هنر گفتگو و منطق",
+        "author": "آرتور سی. دانتو و پژوهشگران معاصر",
+        "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBh2oQ1S2rSRrjanmYlIrR513QKCp3PpuQ-Po8YlDa0Yp6RSCIMMql3lU7giYaiEnliiIeZY7GiCKHWrvQ7d_aCn5V_x6G0B-9tmgI1r-YAryZ4FfYFrNsHgBHh46BibWvAZoNFNcRLy0jhlFBuNzoxydVfKjDnBVp-i47NGLYyVJcWWoxrIv0pW4YA_vtBIABGVoMMSvvimt0XS5zo9FUdohRiaDZ7JcuGNvakIZMo6DmHPpTF4Nys",
+        "status": "reading",
+        "progressPercent": 0,
+        "currentPage": 1,
+        "totalPages": 24,
+        "pathId": "path-1792079777666",
+        "pathTitle": "مسیر: مسیر: هنر گفتگو و منطق",
+        "notesCount": 0,
+        "lastRead": "هم‌اکنون",
+        "summary": "«فهم هر کل مرکب، با بازگشت به اجزای بنیادین آن میسر می‌شود.»"
+      }
+    ],
+    "user-1792079780686": [
+      {
+        "id": "book-1",
+        "title": "تفکر نقادانه",
+        "author": "ریچارد پل",
+        "status": "reading",
+        "progressPercent": 20,
+        "userId": "user-1792079780686"
+      }
+    ],
+    "user-1792080831396": [],
+    "user-1792080856763": []
+  },
+  "notes": {
+    "user-sohrab": [
+      {
+        "id": "note-1",
+        "userId": "user-sohrab",
+        "stepId": "step-3",
+        "stepTitle": "روش سقراطی و هنر زایش اندیشه",
+        "bookTitle": "رساله آپولوژی",
+        "quote": "«زیرا بزرگ‌ترین نادانی این است که آدمی پندارد آنچه را نمی‌داند، می‌داند.»",
+        "text": "جهل مرکب مانع کشف حقیقت است. سقراط نشان داد که درک نادانی اولین گام رسیدن به خرد راستین است.",
+        "createdAt": "2024-11-14T10:45:00.000Z"
+      },
+      {
+        "id": "note-2",
+        "userId": "user-sohrab",
+        "stepId": "step-2",
+        "stepTitle": "فضیلت و عدالت؛ بررسی رساله جمهوری",
+        "bookTitle": "جمهوری افلاطون",
+        "quote": "«آنان که در زنجیرند جز سایه‌ها را حقیقت نمی‌پندارند.»",
+        "text": "سایه‌های دنیای حسی در مقایسه با نور مثال حقیقت، هشداری مداوم در برابر قضاوت‌های شتاب‌زده است.",
+        "createdAt": "2024-11-10T12:00:00.000Z"
+      }
+    ],
+    "demo-sara": [
+      {
+        "id": "note-sara-1",
+        "userId": "demo-sara",
+        "stepId": "step-3",
+        "stepTitle": "روش سقراطی و هنر زایش اندیشه",
+        "bookTitle": "رساله آپولوژی",
+        "quote": "«زیرا بزرگ‌ترین نادانی این است که آدمی پندارد آنچه را نمی‌داند، می‌داند.»",
+        "text": "آگاهی از جهل خویشتن، سرآغاز حقیقی هرگونه پژوهش عقلانی است. سقراط با این نگرش فلسفه را از آسمان به زمین آورد.",
+        "createdAt": "2024-11-14T10:45:00.000Z"
+      },
+      {
+        "id": "note-sara-2",
+        "userId": "demo-sara",
+        "stepId": "step-2",
+        "stepTitle": "فضیلت و عدالت؛ بررسی رساله جمهوری",
+        "bookTitle": "جمهوری افلاطون",
+        "quote": "«آنان که در زنجیرند جز سایه‌ها را حقیقت نمی‌پندارند.»",
+        "text": "تمثیل غار هشداری همیشگی درباره محدودیت داده‌های حسی و فریبندگی باورهای سطحی جامعه است.",
+        "createdAt": "2024-11-10T12:00:00.000Z"
+      }
+    ],
+    "demo-ali": [
+      {
+        "id": "note-ali-1",
+        "userId": "demo-ali",
+        "stepId": "step-ai-4",
+        "stepTitle": "مکانیسم توجه و Attention Is All You Need",
+        "bookTitle": "مقاله ترنسفورمر",
+        "quote": "«Attention is All You Need»",
+        "text": "تقسیم بر sqrt(d_k) برای پایداری شیب در مقیاس‌های بزرگ ریاضی ضروری است.",
+        "createdAt": "2024-10-10T14:30:00.000Z"
+      }
+    ],
+    "demo-fresh": [],
+    "user-1792079777650": [],
+    "user-1792079780686": [
+      {
+        "id": "note-1",
+        "text": "یادداشت تست مهمان",
+        "quote": "نقل قول",
+        "userId": "user-1792079780686"
+      }
+    ],
+    "user-1792080831396": [],
+    "user-1792080856763": []
+  },
+  "chats": {
+    "step-3": [
+      {
+        "id": "msg-1",
+        "role": "user",
+        "text": "منظور سقراط از اینکه می‌گه «بزرگ‌ترین نادانی اینه که فکر کنی چیزی رو می‌دونی که نمی‌دونی» چیه؟",
+        "timestamp": "۱۰:۴۲"
+      },
+      {
+        "id": "msg-2",
+        "role": "assistant",
+        "text": "سقراط اشاره به «جهل مرکب» دارد. او معتقد است تفاوتش با دیگران این نیست که او همه چیز را می‌داند، بلکه این است که:\n\n۱. او به نادانی خود درباره حقایق غایی آگاه است (اعتراف به نادانی).\n۲. در حالی که دیگران با ادعای دانستن، امکان جستجو و تفکر را بر روی خود می‌بندند.\n\nبه همین دلیل، آگاهی از اینکه نمی‌دانیم، نخستین پله برای رسیدن به دانش واقعی است.",
+        "citation": "مستند به متن صفحه ۱۸ رساله آپولوژی",
+        "timestamp": "۱۰:۴۲"
+      }
+    ]
+  },
+  "sessions": {
+    "plt_45d8f78b77a6099e65b0bf71e0646cc5c1e77b491f41bfe1": {
+      "token": "plt_45d8f78b77a6099e65b0bf71e0646cc5c1e77b491f41bfe1",
+      "userId": "user-1792079777650",
+      "createdAt": "2026-10-15T15:56:20.670Z",
+      "lastUsedAt": "2026-10-15T15:56:20.675Z"
+    },
+    "plt_5b3c000a5325d23cfa89e495961f6248c221b004d9d08f7a": {
+      "token": "plt_5b3c000a5325d23cfa89e495961f6248c221b004d9d08f7a",
+      "userId": "user-1792079780686",
+      "createdAt": "2026-10-15T15:56:20.689Z",
+      "lastUsedAt": "2026-10-15T15:56:20.694Z"
+    },
+    "plt_8e94eaf2bef8b42f290651e83e90a4328b2f4edf55c1a60f": {
+      "token": "plt_8e94eaf2bef8b42f290651e83e90a4328b2f4edf55c1a60f",
+      "userId": "demo-sara",
+      "createdAt": "2026-10-15T15:56:20.698Z",
+      "lastUsedAt": "2026-10-15T15:56:20.703Z"
+    },
+    "plt_0a4bf671f5b7719cea3ad0db85f832ff4376e9d0a6ddf9b2": {
+      "token": "plt_0a4bf671f5b7719cea3ad0db85f832ff4376e9d0a6ddf9b2",
+      "userId": "demo-fresh",
+      "createdAt": "2026-10-15T15:56:20.708Z",
+      "lastUsedAt": "2026-10-15T15:56:20.708Z"
+    },
+    "plt_7947cbf412b09602509aee442884154f5510d6abd8cddd9a": {
+      "token": "plt_7947cbf412b09602509aee442884154f5510d6abd8cddd9a",
+      "userId": "demo-fresh",
+      "createdAt": "2026-10-15T15:58:13.990Z",
+      "lastUsedAt": "2026-10-15T15:58:14.281Z"
+    },
+    "plt_3bb44de070fa7ee286aa3f8051b4ee7f08dd4e29a2d84525": {
+      "token": "plt_3bb44de070fa7ee286aa3f8051b4ee7f08dd4e29a2d84525",
+      "userId": "demo-fresh",
+      "createdAt": "2026-10-15T15:58:13.996Z",
+      "lastUsedAt": "2026-10-15T15:58:14.593Z"
+    },
+    "plt_b57ee992021900b23a5b898ab2dfa438694fb0c366cf1a27": {
+      "token": "plt_b57ee992021900b23a5b898ab2dfa438694fb0c366cf1a27",
+      "userId": "demo-ali",
+      "createdAt": "2026-10-15T15:58:14.059Z",
+      "lastUsedAt": "2026-10-15T16:02:50.585Z"
+    },
+    "plt_6302251310db69605a273c35849ee2d44e882a36ab08a689": {
+      "token": "plt_6302251310db69605a273c35849ee2d44e882a36ab08a689",
+      "userId": "user-1792080831396",
+      "createdAt": "2026-10-15T16:13:51.399Z",
+      "lastUsedAt": "2026-10-15T16:13:51.399Z"
+    },
+    "plt_b24cbd18274b040b48c61ec4f02eab89b309609b0bc98de4": {
+      "token": "plt_b24cbd18274b040b48c61ec4f02eab89b309609b0bc98de4",
+      "userId": "user-1792080856763",
+      "createdAt": "2026-10-15T16:14:16.769Z",
+      "lastUsedAt": "2026-10-15T16:14:16.769Z"
+    },
+    "plt_43d6d6718766f359a5f61f1de19255b7bbc38e91d29baa23": {
+      "token": "plt_43d6d6718766f359a5f61f1de19255b7bbc38e91d29baa23",
+      "userId": "user-1792079780686",
+      "createdAt": "2026-10-15T16:14:33.620Z",
+      "lastUsedAt": "2026-10-15T16:14:33.620Z"
+    }
+  },
+  "otps": {},
+  "quizAttempts": {}
+}

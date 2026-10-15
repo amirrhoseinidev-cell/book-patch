@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Palle - پله | پلتفرم یادگیری هوشمند و گام‌به‌گام",
+  "description": "پلتفرم یادگیری شخصی‌سازی‌شده و عمیق با هوش مصنوعی؛ تبدیل اهداف یادگیری به مسیرهای گام‌به‌گام، منابع موثق، کتاب‌خوان همراه و دستیار\n",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
