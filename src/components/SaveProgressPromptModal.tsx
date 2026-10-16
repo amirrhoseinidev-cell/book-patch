@@ -14,14 +14,23 @@ export const SaveProgressPromptModal: React.FC = () => {
   };
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center bg-[#191D17]/50 backdrop-blur-xs p-4 animate-in fade-in duration-200">
-      <div className="bg-[#FFFFFF] rounded-3xl p-6 w-full max-w-sm shadow-2xl border border-[#D5DAC8] flex flex-col items-center text-center relative overflow-hidden animate-in zoom-in-95 duration-200">
+    <div
+      onClick={dismissSaveProgressModal}
+      className="fixed inset-0 z-50 flex items-end sm:items-center justify-center bg-[#191D17]/50 backdrop-blur-xs p-0 sm:p-4 animate-in fade-in duration-200"
+    >
+      <div
+        onClick={(e) => e.stopPropagation()}
+        className="bg-[#FFFFFF] rounded-t-3xl sm:rounded-3xl p-5 sm:p-6 w-full max-w-sm shadow-2xl border border-[#D5DAC8] flex flex-col items-center text-center relative overflow-hidden animate-bottom-sheet sm:animate-in sm:zoom-in-95 duration-200 pb-safe"
+      >
+        {/* Mobile Drag Handle */}
+        <div className="w-12 h-1.5 rounded-full bg-[#D5DAC8] mb-3 sm:hidden cursor-pointer" onClick={dismissSaveProgressModal}></div>
+
         {/* Soft Background Tint */}
         <div className="absolute -top-10 -right-10 w-36 h-36 rounded-full bg-[#FFDCC5]/50 blur-2xl pointer-events-none"></div>
 
         {/* Tactile Icon */}
-        <div className="w-16 h-16 rounded-2xl bg-[#FFDCC5] flex items-center justify-center text-[#8F4E15] mb-3 shadow-xs">
-          <span className="material-symbols-outlined text-[34px] filled">military_tech</span>
+        <div className="w-14 h-14 sm:w-16 sm:h-16 rounded-2xl bg-[#FFDCC5] flex items-center justify-center text-[#8F4E15] mb-2 sm:mb-3 shadow-xs">
+          <span className="material-symbols-outlined text-[30px] sm:text-[34px] filled">military_tech</span>
         </div>
 
         {/* Celebratory Milestone Badge */}

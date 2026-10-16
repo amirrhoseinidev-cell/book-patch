@@ -32,45 +32,44 @@ export const Header: React.FC = () => {
   }
 
   return (
-    <header className="fixed top-0 inset-x-0 z-50 bg-surface/85 backdrop-blur-xl shadow-[0_1px_8px_rgba(72,60,53,0.04)] pt-safe">
-      <div className="h-16 px-4 max-w-xl mx-auto flex items-center justify-between">
+    <header className="fixed top-0 inset-x-0 z-40 bg-[#F5F7EE]/92 backdrop-blur-xl border-b border-[#E6E9DE]/75 shadow-[0_2px_12px_rgba(72,60,53,0.04)] pt-safe select-none transition-all">
+      <div className="h-14 sm:h-16 px-3.5 sm:px-4 max-w-xl mx-auto flex items-center justify-between">
         {isMainTab ? (
           <div
-            className="flex items-center gap-2 cursor-pointer active:scale-98 transition-transform"
+            className="flex items-center gap-2 cursor-pointer active:scale-95 transition-transform touch-manipulation"
             onClick={() => navigateTo('home')}
           >
-            <img alt="Palle App Logo" className="h-8 w-auto object-contain" src={APP_LOGO_URL} />
+            <img alt="Palle App Logo" className="h-7 sm:h-8 w-auto object-contain" src={APP_LOGO_URL} />
             <div className="flex flex-col">
-              <span className="font-bold text-lg text-primary tracking-tight">پله</span>
-              <span className="text-[11px] text-on-surface-variant leading-none">{viewTitleEn}</span>
+              <span className="font-black text-base sm:text-lg text-[#312620] tracking-tight leading-tight">پله</span>
+              <span className="text-[10px] text-[#6B6057] leading-none">{viewTitleEn}</span>
             </div>
           </div>
         ) : (
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-2 min-w-0">
             <button
               aria-label="بازگشت"
               onClick={goBack}
-              className="h-11 px-2 rounded-xl flex items-center gap-1 text-primary hover:bg-surface-container active:scale-95 transition-all"
+              className="h-10 px-2.5 rounded-xl flex items-center gap-1 text-[#312620] bg-[#EDEFE6]/80 hover:bg-[#EDEFE6] active:scale-90 transition-all touch-manipulation shadow-xs"
             >
-              <span className="material-symbols-outlined text-[20px]">arrow_forward</span>
-              <span className="text-xs font-semibold">بازگشت</span>
+              <span className="material-symbols-outlined text-[19px]">arrow_forward</span>
+              <span className="text-xs font-bold">بازگشت</span>
             </button>
-            <img alt="Palle App Logo" className="h-7 w-auto object-contain hidden sm:inline-block" src={APP_LOGO_URL} />
-            <h1 className="font-bold text-sm text-primary tracking-tight truncate max-w-[200px]">
+            <h1 className="font-bold text-xs sm:text-sm text-[#312620] tracking-tight truncate max-w-[170px] sm:max-w-[220px]">
               {stackTitle}
             </h1>
           </div>
         )}
 
-        <div className="flex items-center gap-1.5">
+        <div className="flex items-center gap-2">
           {isGuest && (
             <button
               onClick={() => openAuthModal('register')}
-              className="h-8 px-2.5 rounded-full bg-[#FFDCC5] hover:bg-[#FDA868] text-[#703700] text-[11px] font-bold flex items-center gap-1 transition-all active:scale-95 shadow-xs"
+              className="h-8 px-2.5 rounded-full bg-[#FFDCC5] hover:bg-[#FDA868] text-[#703700] text-[11px] font-bold flex items-center gap-1 transition-all active:scale-90 shadow-xs touch-manipulation"
               title="ثبت‌نام و ذخیره پیشرفت"
             >
               <span className="material-symbols-outlined text-[15px]">cloud_upload</span>
-              <span>ذخیره پیشرفت</span>
+              <span className="hidden xs:inline">ذخیره</span>
             </button>
           )}
 
@@ -78,21 +77,21 @@ export const Header: React.FC = () => {
             <button
               aria-label="اعلان‌ها"
               onClick={() => showToast('اعلانی برای نمایش وجود ندارد', 'info')}
-              className="w-11 h-11 rounded-full flex items-center justify-center text-on-surface-variant hover:text-primary hover:bg-surface-container transition-colors"
+              className="w-10 h-10 rounded-full flex items-center justify-center text-[#6B6057] hover:text-[#312620] hover:bg-[#EDEFE6] active:scale-90 transition-all touch-manipulation"
             >
-              <span className="material-symbols-outlined text-[22px]">notifications</span>
+              <span className="material-symbols-outlined text-[21px]">notifications</span>
             </button>
           )}
 
           <button
             aria-label="پروفایل کاربری"
             onClick={() => navigateTo('profile')}
-            className="w-8 h-8 rounded-full overflow-hidden bg-primary flex items-center justify-center shrink-0 active:scale-95 transition-transform"
+            className="w-8 h-8 rounded-full overflow-hidden bg-[#483C35] border border-[#D5DAC8] flex items-center justify-center shrink-0 active:scale-90 transition-transform touch-manipulation shadow-xs"
           >
             {user?.avatarUrl ? (
               <img src={user.avatarUrl} alt={user.name} className="w-full h-full object-cover" />
             ) : (
-              <span className="material-symbols-outlined text-on-primary text-[18px]">person</span>
+              <span className="material-symbols-outlined text-white text-[17px]">person</span>
             )}
           </button>
         </div>

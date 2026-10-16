@@ -64,8 +64,22 @@ export const AffiliatePurchaseModal: React.FC<AffiliatePurchaseModalProps> = ({
   ];
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center bg-[#191D17]/50 backdrop-blur-xs p-4 animate-in fade-in duration-200">
-      <div className="bg-[#FFFFFF] rounded-3xl p-5 w-full max-w-md shadow-2xl border border-[#D5DAC8] relative flex flex-col gap-3.5 animate-in zoom-in-95 duration-200 max-h-[90vh] overflow-y-auto no-scrollbar">
+    <div
+      onClick={onClose}
+      className="fixed inset-0 z-50 flex items-end sm:items-center justify-center bg-[#191D17]/50 backdrop-blur-xs p-0 sm:p-4 animate-in fade-in duration-200"
+    >
+      <div
+        onClick={(e) => e.stopPropagation()}
+        className="bg-[#FFFFFF] rounded-t-3xl sm:rounded-3xl p-5 w-full max-w-md shadow-2xl border border-[#D5DAC8] relative flex flex-col gap-3.5 animate-bottom-sheet sm:animate-in sm:zoom-in-95 duration-200 max-h-[92vh] overflow-y-auto no-scrollbar pb-safe"
+      >
+        {/* Mobile Drag Handle */}
+        <div
+          onClick={onClose}
+          className="w-full pt-0 pb-1 flex justify-center items-center cursor-pointer sm:hidden"
+        >
+          <div className="w-12 h-1.5 rounded-full bg-[#D5DAC8]"></div>
+        </div>
+
         {/* Header with Close */}
         <div className="flex items-center justify-between pb-2 border-b border-[#E6E9DE]">
           <div className="flex items-center gap-2">
@@ -80,7 +94,7 @@ export const AffiliatePurchaseModal: React.FC<AffiliatePurchaseModalProps> = ({
           <button
             onClick={onClose}
             aria-label="بستن"
-            className="w-8 h-8 rounded-full bg-[#EDEFE6] hover:bg-[#E1E3DB] flex items-center justify-center text-[#312620] transition-colors"
+            className="w-8 h-8 rounded-full bg-[#EDEFE6] hover:bg-[#E1E3DB] flex items-center justify-center text-[#312620] active:scale-90 transition-transform"
           >
             <span className="material-symbols-outlined text-[18px]">close</span>
           </button>

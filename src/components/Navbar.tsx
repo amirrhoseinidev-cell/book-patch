@@ -35,29 +35,47 @@ export const Navbar: React.FC = () => {
   };
 
   return (
-    <nav className="fixed bottom-0 inset-x-0 z-50 pb-safe bg-surface/90 backdrop-blur-xl shadow-[0_-1px_12px_rgba(72,60,53,0.06)]">
-      <div className="flex justify-around items-center h-16 px-space-xs max-w-xl mx-auto">
+    <nav className="fixed bottom-0 inset-x-0 z-40 bg-[#F5F7EE]/95 backdrop-blur-xl border-t border-[#E6E9DE]/80 shadow-[0_-4px_20px_rgba(72,60,53,0.06)] pb-safe transition-all select-none">
+      <div className="flex justify-around items-center h-16 px-2 max-w-lg mx-auto">
         {navItems.map((item) => {
           const active = getIsActive(item.id);
           return (
             <button
               key={item.id}
               onClick={() => navigateTo(item.target)}
-              className={`flex flex-col items-center justify-center gap-1 min-w-[56px] h-11 transition-all duration-200 ${
-                active
-                  ? 'text-primary font-bold'
-                  : 'text-on-surface-variant hover:text-primary'
-              }`}
+              className="relative flex flex-col items-center justify-center flex-1 h-full py-1.5 touch-manipulation group active:scale-90 transition-all duration-150"
+              aria-label={item.label}
             >
-              <span
-                className="material-symbols-outlined text-[22px]"
-                style={{ fontVariationSettings: active ? "'FILL' 1" : "'FILL' 0" }}
+              {/* Active Tab Glow Pill */}
+              <div
+                className={`flex items-center justify-center px-4 py-1 rounded-full transition-all duration-200 ${
+                  active
+                    ? 'bg-[#FFDCC5] text-[#301400] shadow-xs'
+                    : 'text-[#6B6057] group-hover:text-[#312620]'
+                }`}
               >
-                {item.icon}
-              </span>
-              <span className="text-[11px] leading-tight">
+                <span
+                  className="material-symbols-outlined text-[23px] transition-transform duration-200 group-active:scale-95"
+                  style={{ fontVariationSettings: active ? "'FILL' 1, 'wght' 600" : "'FILL' 0, 'wght' 400" }}
+                >
+                  {item.icon}
+                </span>
+              </div>
+
+              <span
+                className={`text-[10px] tracking-tight mt-0.5 transition-colors duration-150 ${
+                  active
+                    ? 'font-bold text-[#312620]'
+                    : 'font-medium text-[#6B6057]'
+                }`}
+              >
                 {item.label}
               </span>
+
+              {/* Active Indicator Micro-dot */}
+              {active && (
+                <span className="w-1 h-1 rounded-full bg-[#8F4E15] mt-0.5 animate-pulse"></span>
+              )}
             </button>
           );
         })}

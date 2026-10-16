@@ -106,28 +106,42 @@ export const AIAssistantChatModal: React.FC = () => {
   };
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center bg-[#191D17]/40 backdrop-blur-sm p-0 sm:p-4 animate-in fade-in duration-200">
-      <div className="bg-[#F5F7EE] w-full max-w-xl h-full sm:h-[92vh] sm:rounded-3xl flex flex-col shadow-2xl overflow-hidden border border-[#D5DAC8]">
+    <div
+      onClick={closeAiChat}
+      className="fixed inset-0 z-50 flex items-end sm:items-center justify-center bg-[#191D17]/50 backdrop-blur-xs p-0 sm:p-4 animate-in fade-in duration-200"
+    >
+      <div
+        onClick={(e) => e.stopPropagation()}
+        className="bg-[#F5F7EE] w-full max-w-xl max-h-[94vh] sm:h-[92vh] rounded-t-3xl sm:rounded-3xl flex flex-col shadow-2xl overflow-hidden border border-[#D5DAC8] animate-bottom-sheet sm:animate-in sm:zoom-in-95"
+      >
+        {/* Mobile Swipe / Drag Handle Indicator */}
+        <div
+          onClick={closeAiChat}
+          className="w-full pt-2.5 pb-1 flex justify-center items-center cursor-pointer sm:hidden bg-[#EDEFE6]"
+        >
+          <div className="w-12 h-1.5 rounded-full bg-[#D5DAC8]"></div>
+        </div>
+
         {/* Top Context Header Bar */}
-        <div className="p-4 bg-[#EDEFE6] border-b border-[#E6E9DE] flex flex-col gap-2">
+        <div className="p-3.5 sm:p-4 bg-[#EDEFE6] border-b border-[#E6E9DE] flex flex-col gap-2">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-2">
               <span className="w-2.5 h-2.5 rounded-full bg-[#FDA868] animate-pulse"></span>
-              <h3 className="font-bold text-base text-[#312620]">دستیار یادگیری پله</h3>
+              <h3 className="font-bold text-sm sm:text-base text-[#312620]">دستیار یادگیری پله</h3>
             </div>
             <button
               onClick={closeAiChat}
-              className="flex items-center gap-1 px-3 py-1.5 rounded-lg bg-[#F5F7EE] hover:bg-[#FFFFFF] text-[#4E4540] text-xs font-semibold shadow-xs active:scale-95 transition-all"
+              className="flex items-center gap-1 px-3 py-1.5 rounded-xl bg-[#F5F7EE] hover:bg-[#FFFFFF] text-[#4E4540] text-xs font-semibold shadow-2xs active:scale-90 transition-all touch-manipulation"
             >
-              <span>بازگشت به متن کتاب</span>
+              <span>بستن</span>
               <span className="material-symbols-outlined text-[16px]">close</span>
             </button>
           </div>
 
-          <div className="flex items-center gap-2 bg-[#FFFFFF]/80 px-3 py-1.5 rounded-lg w-fit text-xs text-[#6B6057]">
+          <div className="flex items-center gap-2 bg-[#FFFFFF]/90 px-3 py-1.5 rounded-xl w-fit text-xs text-[#6B6057] shadow-2xs">
             <span className="material-symbols-outlined text-[#8F4E15] text-[16px]">menu_book</span>
             <span>در حال گفت‌وگو بر اساس:</span>
-            <span className="font-bold text-[#312620]">
+            <span className="font-bold text-[#312620] truncate max-w-[200px]">
               {currentStep?.passage?.bookTitle || 'رساله آپولوژی'} (ص {currentStep?.passage?.pageNumber || 18})
             </span>
           </div>
@@ -258,7 +272,7 @@ export const AIAssistantChatModal: React.FC = () => {
         </div>
 
         {/* Sticky Input Bar */}
-        <div className="p-3 bg-[#F5F7EE] border-t border-[#E6E9DE]">
+        <div className="p-3 bg-[#F5F7EE] border-t border-[#E6E9DE] pb-safe">
           <form
             onSubmit={(e) => {
               e.preventDefault();

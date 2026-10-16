@@ -120,8 +120,22 @@ export const AuthModal: React.FC = () => {
   };
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center bg-[#191D17]/50 backdrop-blur-sm p-4 animate-in fade-in duration-200">
-      <div className="bg-[#FFFFFF] rounded-2xl p-5 w-full max-w-sm shadow-2xl border border-[#D5DAC8] animate-in zoom-in-95 duration-200">
+    <div
+      onClick={closeAuthModal}
+      className="fixed inset-0 z-50 flex items-end sm:items-center justify-center bg-[#191D17]/50 backdrop-blur-xs p-0 sm:p-4 animate-in fade-in duration-200"
+    >
+      <div
+        onClick={(e) => e.stopPropagation()}
+        className="bg-[#FFFFFF] rounded-t-3xl sm:rounded-2xl p-5 w-full max-w-sm max-h-[92vh] overflow-y-auto pb-safe shadow-2xl border border-[#D5DAC8] animate-bottom-sheet sm:animate-in sm:zoom-in-95 duration-200"
+      >
+        {/* Mobile Drag Handle */}
+        <div
+          onClick={closeAuthModal}
+          className="w-full pt-1 pb-2 flex justify-center items-center cursor-pointer sm:hidden"
+        >
+          <div className="w-12 h-1.5 rounded-full bg-[#D5DAC8]"></div>
+        </div>
+
         {/* Modal Header */}
         <div className="flex items-center justify-between pb-3 border-b border-[#E6E9DE] mb-3">
           <div className="flex items-center gap-2">
@@ -139,7 +153,7 @@ export const AuthModal: React.FC = () => {
           <button
             type="button"
             onClick={closeAuthModal}
-            className="text-[#8D8177] hover:text-[#312620] p-1"
+            className="w-8 h-8 rounded-full bg-[#F5F7EE] flex items-center justify-center text-[#8D8177] hover:text-[#312620] active:scale-90 transition-transform"
           >
             <span className="material-symbols-outlined text-[18px]">close</span>
           </button>

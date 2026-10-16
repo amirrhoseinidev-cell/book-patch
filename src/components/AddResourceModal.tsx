@@ -91,17 +91,31 @@ export const AddResourceModal: React.FC = () => {
   };
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center bg-[#191D17]/40 backdrop-blur-sm p-0 sm:p-4 animate-in fade-in duration-200">
-      <div className="bg-[#F5F7EE] w-full max-w-xl h-full sm:h-[90vh] sm:rounded-3xl flex flex-col shadow-2xl overflow-hidden border border-[#D5DAC8]">
+    <div
+      onClick={closeAddResource}
+      className="fixed inset-0 z-50 flex items-end sm:items-center justify-center bg-[#191D17]/50 backdrop-blur-xs p-0 sm:p-4 animate-in fade-in duration-200"
+    >
+      <div
+        onClick={(e) => e.stopPropagation()}
+        className="bg-[#F5F7EE] w-full max-w-xl max-h-[94vh] sm:h-[90vh] rounded-t-3xl sm:rounded-3xl flex flex-col shadow-2xl overflow-hidden border border-[#D5DAC8] animate-bottom-sheet sm:animate-in sm:zoom-in-95"
+      >
+        {/* Mobile Swipe / Drag Handle Indicator */}
+        <div
+          onClick={closeAddResource}
+          className="w-full pt-2.5 pb-1 flex justify-center items-center cursor-pointer sm:hidden bg-[#EDEFE6]"
+        >
+          <div className="w-12 h-1.5 rounded-full bg-[#D5DAC8]"></div>
+        </div>
+
         {/* Header */}
-        <div className="p-4 bg-[#EDEFE6] border-b border-[#E6E9DE] flex items-center justify-between">
+        <div className="p-3.5 sm:p-4 bg-[#EDEFE6] border-b border-[#E6E9DE] flex items-center justify-between">
           <div className="flex flex-col">
             <span className="text-[10px] text-[#8F4E15] font-bold">پله‌های یادگیری شما</span>
-            <h2 className="text-base font-bold text-[#312620]">افزودن منبع به پله</h2>
+            <h2 className="text-sm sm:text-base font-bold text-[#312620]">افزودن منبع به پله</h2>
           </div>
           <button
             onClick={closeAddResource}
-            className="w-8 h-8 rounded-full bg-[#FFFFFF] flex items-center justify-center text-[#312620] hover:bg-[#F2F5EC]"
+            className="w-8 h-8 rounded-full bg-[#FFFFFF] flex items-center justify-center text-[#312620] hover:bg-[#F2F5EC] active:scale-90 transition-transform shadow-2xs"
           >
             <span className="material-symbols-outlined text-[18px]">close</span>
           </button>
@@ -254,7 +268,7 @@ export const AddResourceModal: React.FC = () => {
         </div>
 
         {/* Sticky Bottom Confirmation CTA */}
-        <div className="p-3 bg-[#F5F7EE] border-t border-[#E6E9DE] flex flex-col gap-1.5">
+        <div className="p-3 bg-[#F5F7EE] border-t border-[#E6E9DE] flex flex-col gap-1.5 pb-safe">
           <button
             onClick={handleConfirm}
             disabled={isAdding}

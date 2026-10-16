@@ -98,6 +98,39 @@
   .material-symbols-outlined.filled {
     font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'opsz' 24;
   }
+
+  /* Mobile UX optimizations */
+  * {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  html {
+    touch-action: manipulation;
+    -webkit-text-size-adjust: 100%;
+  }
+}
+
+/* Safe Area Inset Utilities for Modern Mobile (Notch & Dynamic Island) */
+.pt-safe {
+  padding-top: env(safe-area-inset-top, 0px);
+}
+.pb-safe {
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+.pl-safe {
+  padding-left: env(safe-area-inset-left, 0px);
+}
+.pr-safe {
+  padding-right: env(safe-area-inset-right, 0px);
+}
+.bottom-safe {
+  bottom: env(safe-area-inset-bottom, 0px);
+}
+.top-safe {
+  top: env(safe-area-inset-top, 0px);
+}
+.pb-safe-nav {
+  padding-bottom: calc(env(safe-area-inset-bottom, 0px) + 4.75rem);
 }
 
 /* Hide scrollbars for clean paper aesthetic */
@@ -109,6 +142,11 @@
   scrollbar-width: none;
 }
 
+/* Smooth momentum scrolling for iOS */
+.touch-momentum {
+  -webkit-overflow-scrolling: touch;
+}
+
 /* Custom animation for gentle glowing and stepping */
 @keyframes pulseSubtle {
   0%, 100% { opacity: 1; transform: scale(1); }
@@ -117,4 +155,20 @@
 
 .animate-pulse-subtle {
   animation: pulseSubtle 3s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+/* Bottom Sheet Keyframes */
+@keyframes slideUpBottomSheet {
+  from {
+    transform: translateY(100%);
+    opacity: 0.6;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.animate-bottom-sheet {
+  animation: slideUpBottomSheet 0.28s cubic-bezier(0.32, 0.72, 0, 1) forwards;
 }

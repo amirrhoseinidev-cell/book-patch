@@ -20,6 +20,7 @@ import { StepCelebrationView } from './views/StepCelebrationView';
 import { LibraryView } from './views/LibraryView';
 import { ProfileView } from './views/ProfileView';
 import { AchievementsView } from './views/AchievementsView';
+import { HomeSkeleton } from './components/HomeSkeleton';
 
 const MainContent: React.FC = () => {
   const { currentView, toasts, isLoading } = usePalle();
@@ -63,14 +64,9 @@ const MainContent: React.FC = () => {
     <div className="min-h-screen bg-[#F5F7EE] text-[#2E2621] flex flex-col relative selection:bg-[#FDA868]/30 selection:text-[#312620]">
       <Header />
 
-      <main className={`flex-1 w-full flex flex-col ${isImmersion ? '' : 'pt-16'}`}>
+      <main className={`flex-1 w-full flex flex-col ${isImmersion ? '' : 'pt-14 sm:pt-16'}`}>
         {isLoading && currentView === 'home' ? (
-          <div className="flex flex-col items-center justify-center min-h-[60vh] gap-3">
-            <span className="material-symbols-outlined text-[#FDA868] animate-spin text-3xl">
-              progress_activity
-            </span>
-            <span className="text-xs text-[#6B6057]">در حال بارگذاری اطلاعات پله...</span>
-          </div>
+          <HomeSkeleton />
         ) : (
           renderView()
         )}
