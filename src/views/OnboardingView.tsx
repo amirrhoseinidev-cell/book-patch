@@ -134,43 +134,272 @@ export const OnboardingView: React.FC = () => {
         <div className="absolute -bottom-8 -left-8 w-36 h-36 rounded-full bg-[#483C35]/5 blur-xl pointer-events-none"></div>
 
         <div className="relative w-full max-w-[280px] h-44 flex items-center justify-center">
-          <svg className="w-full h-full drop-shadow-sm" fill="none" viewBox="0 0 280 200" xmlns="http://www.w3.org/2000/svg">
-            <circle cx="205" cy="46" fill="#fda868" fillOpacity="0.18" r="38"></circle>
-            <circle cx="205" cy="46" fill="#fda868" fillOpacity="0.3" r="24"></circle>
-            <circle cx="205" cy="46" fill="#fda868" r="14"></circle>
-            <path d="M205 24V28M205 64V68M183 46H187M223 46H227M189 30L192 33M218 59L221 62M189 62L192 59M218 33L221 30" stroke="#773b01" strokeLinecap="round" strokeWidth="2.2"></path>
-            <circle cx="205" cy="46" fill="#ffffff" r="5"></circle>
-            <path d="M50 160 C 85 155, 110 120, 145 105 C 170 95, 185 70, 202 52" stroke="#fda868" strokeDasharray="4 4" strokeLinecap="round" strokeWidth="2"></path>
+          <svg className="w-full h-full drop-shadow-sm select-none palle-svg-interactive" fill="none" viewBox="0 0 280 200" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+              {/* Golden Sun & Wisdom Spark Glow Filter */}
+              <filter id="palle-soft-glow" x="-20%" y="-20%" width="140%" height="140%">
+                <feGaussianBlur stdDeviation="3" result="blur" />
+                <feComposite in="SourceGraphic" in2="blur" operator="over" />
+              </filter>
+              <linearGradient id="palle-path-grad" x1="0%" y1="100%" x2="100%" y2="0%">
+                <stop offset="0%" stopColor="#483c35" stopOpacity="0.4" />
+                <stop offset="50%" stopColor="#8f4e15" stopOpacity="0.8" />
+                <stop offset="100%" stopColor="#fda868" stopOpacity="1" />
+              </linearGradient>
+            </defs>
 
-            {/* Step 1: Base Book Foundation */}
-            <g transform="translate(36, 142)">
+            <style>{`
+              .palle-svg-interactive {
+                overflow: visible;
+              }
+              
+              /* Rotating Sun Rays */
+              .palle-sun-rays {
+                transform-origin: 205px 46px;
+                animation: palleRotateRays 22s linear infinite;
+              }
+              @keyframes palleRotateRays {
+                0% { transform: rotate(0deg); }
+                100% { transform: rotate(360deg); }
+              }
+
+              /* Beacon Ripple Pulses */
+              .palle-beacon-outer {
+                transform-origin: 205px 46px;
+                animation: palleBeaconOuter 3s ease-in-out infinite;
+              }
+              @keyframes palleBeaconOuter {
+                0%, 100% { transform: scale(1); opacity: 0.18; }
+                50% { transform: scale(1.18); opacity: 0.35; }
+              }
+
+              .palle-beacon-mid {
+                transform-origin: 205px 46px;
+                animation: palleBeaconMid 3s ease-in-out infinite 0.5s;
+              }
+              @keyframes palleBeaconMid {
+                0%, 100% { transform: scale(1); opacity: 0.3; }
+                50% { transform: scale(1.14); opacity: 0.55; }
+              }
+
+              .palle-beacon-core {
+                transform-origin: 205px 46px;
+                animation: palleBeaconCore 2.4s ease-in-out infinite;
+              }
+              @keyframes palleBeaconCore {
+                0%, 100% { transform: scale(1); filter: drop-shadow(0 0 3px rgba(253,168,104,0.7)); }
+                50% { transform: scale(1.08); filter: drop-shadow(0 0 10px rgba(253,168,104,0.95)); }
+              }
+
+              .palle-beacon-spark {
+                transform-origin: 205px 46px;
+                animation: palleSparkTwinkle 1.8s ease-in-out infinite;
+              }
+              @keyframes palleSparkTwinkle {
+                0%, 100% { transform: scale(1); opacity: 0.95; }
+                50% { transform: scale(1.35); opacity: 1; }
+              }
+
+              /* Flowing Dotted Path */
+              .palle-flow-path {
+                stroke-dasharray: 5 5;
+                animation: palleFlowDash 1.8s linear infinite;
+              }
+              @keyframes palleFlowDash {
+                to { stroke-dashoffset: -20; }
+              }
+
+              /* Step 1: Base Book Foundation - Grounded Breathing */
+              .palle-step-1 {
+                animation: palleStep1Float 4s ease-in-out infinite;
+              }
+              @keyframes palleStep1Float {
+                0%, 100% { transform: translate(36px, 142px); }
+                50% { transform: translate(36px, 139px); }
+              }
+
+              /* Step 2: Middle Ascending Book - Smooth Levitation */
+              .palle-step-2 {
+                animation: palleStep2Float 3.6s ease-in-out infinite 0.4s;
+              }
+              @keyframes palleStep2Float {
+                0%, 100% { transform: translate(98px, 98px); }
+                50% { transform: translate(98px, 93px); }
+              }
+
+              /* Step 3: Summit Open Book - Buoyant Floating */
+              .palle-step-3 {
+                animation: palleStep3Float 3.2s ease-in-out infinite 0.8s;
+              }
+              @keyframes palleStep3Float {
+                0%, 100% { transform: translate(154px, 58px) rotate(0deg); }
+                50% { transform: translate(154px, 52px) rotate(-1.2deg); }
+              }
+
+              /* Bookmark Ribbon Flutter */
+              .palle-ribbon {
+                transform-origin: 22px 28px;
+                animation: palleRibbonFlutter 2.8s ease-in-out infinite;
+              }
+              @keyframes palleRibbonFlutter {
+                0%, 100% { transform: rotate(0deg); }
+                30% { transform: rotate(6deg); }
+                70% { transform: rotate(-4deg); }
+              }
+
+              /* Twinkling Wisdom Stars */
+              .palle-star-primary {
+                transform-origin: 74px 76px;
+                animation: palleStarTwinkle 2.5s ease-in-out infinite;
+              }
+              @keyframes palleStarTwinkle {
+                0%, 100% { transform: scale(0.9) rotate(0deg); opacity: 0.8; }
+                50% { transform: scale(1.4) rotate(45deg); opacity: 1; filter: drop-shadow(0 0 6px #fda868); }
+              }
+
+              .palle-star-secondary {
+                transform-origin: 236px 88px;
+                animation: palleStarFloat 3.2s ease-in-out infinite 0.7s;
+              }
+              @keyframes palleStarFloat {
+                0%, 100% { transform: scale(0.85); opacity: 0.4; }
+                50% { transform: scale(1.3); opacity: 0.95; }
+              }
+
+              .palle-star-tertiary {
+                transform-origin: 140px 48px;
+                animation: palleStarFloat 3.8s ease-in-out infinite 1.4s;
+              }
+
+              /* Floating Knowledge Particles */
+              .palle-particle-1 {
+                animation: palleParticle1 4.5s ease-in-out infinite;
+              }
+              @keyframes palleParticle1 {
+                0%, 100% { transform: translate(0, 0); opacity: 0.3; }
+                50% { transform: translate(3px, -5px); opacity: 0.85; }
+              }
+
+              .palle-particle-2 {
+                animation: palleParticle2 5.2s ease-in-out infinite 1s;
+              }
+              @keyframes palleParticle2 {
+                0%, 100% { transform: translate(0, 0); opacity: 0.25; }
+                50% { transform: translate(-3px, -6px); opacity: 0.75; }
+              }
+            `}</style>
+
+            {/* Wisdom Beacon Rings (Goal / Summit of Insight) */}
+            <circle className="palle-beacon-outer" cx="205" cy="46" fill="#fda868" fillOpacity="0.18" r="38"></circle>
+            <circle className="palle-beacon-mid" cx="205" cy="46" fill="#fda868" fillOpacity="0.3" r="24"></circle>
+            <circle className="palle-beacon-core" cx="205" cy="46" fill="#fda868" r="14"></circle>
+
+            {/* Rotating Sun Rays */}
+            <path
+              className="palle-sun-rays"
+              d="M205 24V28M205 64V68M183 46H187M223 46H227M189 30L192 33M218 59L221 62M189 62L192 59M218 33L221 30"
+              stroke="#773b01"
+              strokeLinecap="round"
+              strokeWidth="2.2"
+            ></path>
+            
+            {/* Center Beacon Spark */}
+            <circle className="palle-beacon-spark" cx="205" cy="46" fill="#ffffff" r="5"></circle>
+
+            {/* Soft Glow Shadow Underneath Path */}
+            <path
+              d="M50 160 C 85 155, 110 120, 145 105 C 170 95, 185 70, 202 52"
+              stroke="#fda868"
+              strokeOpacity="0.25"
+              strokeWidth="5"
+              strokeLinecap="round"
+            ></path>
+
+            {/* Flowing Ascending Learning Trajectory (Dashed with marching flow) */}
+            <path
+              id="palleTrajectoryPath"
+              className="palle-flow-path"
+              d="M50 160 C 85 155, 110 120, 145 105 C 170 95, 185 70, 202 52"
+              stroke="url(#palle-path-grad)"
+              strokeDasharray="5 5"
+              strokeLinecap="round"
+              strokeWidth="2.2"
+            ></path>
+
+            {/* Step 1: Base Book Foundation (Levitating with gentle breath) */}
+            <g className="palle-step-1">
               <path d="M0 16C0 12 4 10 8 10H56C60 10 64 12 64 16V26C64 28 60 30 56 30H8C4 30 0 28 0 26V16Z" fill="#483c35"></path>
               <path d="M6 10H58V14H6V10Z" fill="#d5c3b9"></path>
               <path d="M3 16C3 14 6 12 9 12H61C64 12 67 14 67 16V23C67 25 64 27 61 27H9C6 27 3 25 3 23V16Z" fill="#e1e3db"></path>
               <path d="M67 17L70 19L67 21" stroke="#483c35" strokeLinecap="round" strokeWidth="1.5"></path>
               <rect fill="#483c35" fillOpacity="0.4" height="2.5" rx="1" width="22" x="12" y="18"></rect>
+              {/* Step indicator dot */}
+              <circle cx="58" cy="20" r="1.8" fill="#fda868" />
             </g>
 
-            {/* Step 2: Middle Ascending Book Level */}
-            <g transform="translate(98, 98)">
+            {/* Step 2: Middle Ascending Book Level (Floating higher) */}
+            <g className="palle-step-2">
               <path d="M0 14C0 10 4 8 8 8H54C58 8 62 10 62 14V23C62 25 58 27 54 27H8C4 27 0 25 0 23V14Z" fill="#773b01"></path>
               <path d="M4 11H58V14H4V11Z" fill="#ffdcc5"></path>
               <path d="M4 14C4 11 8 9 12 9H58C62 9 66 11 66 14V21C66 23 62 25 58 25H12C8 25 4 23 4 21V14Z" fill="#ffffff"></path>
               <circle cx="16" cy="17" fill="#fda868" r="2.5"></circle>
               <rect fill="#4e4540" fillOpacity="0.3" height="2" rx="1" width="30" x="23" y="16"></rect>
+              {/* Step indicator dot */}
+              <circle cx="58" cy="17" r="1.8" fill="#fda868" />
             </g>
 
-            {/* Step 3: High Peak Open Book */}
-            <g transform="translate(154, 58)">
+            {/* Step 3: High Peak Open Book (Floating summit) */}
+            <g className="palle-step-3">
               <path d="M22 18C15 14 4 14 0 16V30C5 28 16 28 22 31C28 28 39 28 44 30V16C40 14 29 14 22 18Z" fill="#483c35"></path>
               <path d="M22 16C15 12 5 12 1 14V27C5 25 15 25 22 28C29 25 39 25 43 27V14C39 12 29 12 22 16Z" fill="#ffffff"></path>
               <path d="M22 16V28" stroke="#d1c4bd" strokeLinecap="round" strokeWidth="1.5"></path>
-              <path d="M22 28V38L25 35L28 38V28" fill="#fda868"></path>
+              {/* Animated fluttering ribbon bookmark */}
+              <path className="palle-ribbon" d="M22 28V38L25 35L28 38V28" fill="#fda868"></path>
             </g>
 
-            <path d="M72 74L74 70L76 74L80 76L76 78L74 82L72 78L68 76L72 74Z" fill="#fda868"></path>
-            <circle cx="140" cy="48" fill="#8f4e15" fillOpacity="0.5" r="2"></circle>
-            <circle cx="236" cy="88" fill="#fda868" r="2.5"></circle>
+            {/* Ascending Wisdom Spark (The Climber hopping continuously from Step 1 -> 2 -> 3 -> Beacon) */}
+            <g>
+              <animateMotion
+                dur="4.6s"
+                repeatCount="indefinite"
+                path="M50 160 C 85 155, 110 120, 145 105 C 170 95, 185 70, 202 52"
+                keyPoints="0; 0.28; 0.65; 0.95; 1"
+                keyTimes="0; 0.32; 0.68; 0.94; 1"
+                calcMode="spline"
+                keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"
+              />
+              {/* Outer pulsing halo */}
+              <circle r="7.5" fill="#fda868" fillOpacity="0.3">
+                <animate attributeName="r" values="5.5;9;5.5" dur="1.4s" repeatCount="indefinite" />
+                <animate attributeName="fillOpacity" values="0.4;0.12;0.4" dur="1.4s" repeatCount="indefinite" />
+              </circle>
+              {/* Golden warm ring */}
+              <circle r="4.5" fill="#fda868" fillOpacity="0.85" />
+              {/* Pure white radiant center */}
+              <circle r="2.5" fill="#ffffff" stroke="#773b01" strokeWidth="0.8" />
+            </g>
+
+            {/* Twinkling 4-pointed Star */}
+            <path
+              className="palle-star-primary"
+              d="M72 74L74 70L76 74L80 76L76 78L74 82L72 78L68 76L72 74Z"
+              fill="#fda868"
+            ></path>
+            
+            {/* Ambient Knowledge Particles */}
+            <circle className="palle-star-tertiary" cx="140" cy="48" fill="#8f4e15" fillOpacity="0.55" r="2.2"></circle>
+            <circle className="palle-star-secondary" cx="236" cy="88" fill="#fda868" r="2.8"></circle>
+
+            {/* Additional subtle floating wisdom motes */}
+            <g className="palle-particle-1">
+              <circle cx="82" cy="125" r="1.8" fill="#fda868" fillOpacity="0.6" />
+            </g>
+            <g className="palle-particle-2">
+              <circle cx="178" cy="82" r="1.6" fill="#8f4e15" fillOpacity="0.45" />
+            </g>
+            <g className="palle-particle-1">
+              <circle cx="120" cy="78" r="1.2" fill="#fda868" fillOpacity="0.5" />
+            </g>
           </svg>
         </div>
       </div>
